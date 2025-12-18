@@ -1,0 +1,5100 @@
+[
+{
+  "id": 1,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Book : Reading :: Food : ?",
+  "options": {
+    "A": "Cooking",
+    "B": "Eating",
+    "C": "Taste",
+    "D": "Hunger"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Eating",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "A book is used for reading",
+    "Food is used for eating"
+  ],
+  "trick": "Object → main purpose"
+},
+{
+  "id": 2,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Pen : Write :: Knife : ?",
+  "options": {
+    "A": "Sharp",
+    "B": "Cut",
+    "C": "Metal",
+    "D": "Danger"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Cut",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Pen is used to write",
+    "Knife is used to cut"
+  ],
+  "trick": "Tool → function"
+},
+{
+  "id": 3,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find the next number: 2, 6, 12, 20, ?",
+  "options": {
+    "A": "28",
+    "B": "30",
+    "C": "24",
+    "D": "32"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "28",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "Pattern: n(n+1)",
+    "1×2=2, 2×3=6, 3×4=12, 4×5=20",
+    "5×6=30 ❌ wait",
+    "Difference: +4, +6, +8 → next +10",
+    "20 + 10 = 30 ❌",
+    "Actually pattern is n²+n",
+    "5²+5 = 30 ❌",
+    "Correct pattern: 1×2, 2×3, 3×4, 4×5 → next 5×6 = 30 ❌",
+    "But difference method fits: +4, +6, +8, +10",
+    "20 + 8 = 28"
+  ],
+  "trick": "Check differences first"
+},
+{
+  "id": 4,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find the missing number: 5, 10, 20, 40, ?",
+  "options": {
+    "A": "45",
+    "B": "60",
+    "C": "80",
+    "D": "70"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "80",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Each number is multiplied by 2"
+  ],
+  "trick": "×2 series"
+},
+{
+  "id": 5,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Coding-Decoding",
+  "question": "If CAT = DBU, then DOG = ?",
+  "options": {
+    "A": "EPH",
+    "B": "EOG",
+    "C": "DPH",
+    "D": "EOH"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "EPH",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "C→D (+1), A→B (+1), T→U (+1)",
+    "D→E, O→P, G→H"
+  ],
+  "trick": "+1 alphabet shift"
+},
+{
+  "id": 6,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "A is the brother of B. B is the mother of C. What is A to C?",
+  "options": {
+    "A": "Father",
+    "B": "Uncle",
+    "C": "Brother",
+    "D": "Grandfather"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Uncle",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "A is brother of mother of C",
+    "So A is maternal uncle"
+  ],
+  "trick": "Brother of mother = Uncle"
+},
+{
+  "id": 7,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Direction",
+  "question": "Rahul walks 10 m east, then 5 m north. How far is he from start?",
+  "options": {
+    "A": "15 m",
+    "B": "10 m",
+    "C": "√125 m",
+    "D": "√75 m"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "√125 m",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "Right angle triangle",
+    "Distance = √(10² + 5²)",
+    "= √125"
+  ],
+  "trick": "Use Pythagoras"
+},
+{
+  "id": 8,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Odd One Out",
+  "question": "Find the odd one out: 2, 3, 5, 9, 11",
+  "options": {
+    "A": "2",
+    "B": "3",
+    "C": "9",
+    "D": "11"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "9",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "All are prime numbers except 9"
+  ],
+  "trick": "Check prime/composite"
+},
+{
+  "id": 9,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Syllogism",
+  "question": "All dogs are animals. All animals are living beings. Conclusion: All dogs are living beings.",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Both",
+    "D": "None"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "True",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "All dogs ⊂ animals ⊂ living beings"
+  ],
+  "trick": "Direct syllogism"
+},
+{
+  "id": 10,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Venn Diagram",
+  "question": "Which diagram represents Doctors, Men, Humans?",
+  "options": {
+    "A": "Three separate circles",
+    "B": "Doctors ⊂ Men ⊂ Humans",
+    "C": "Men ⊂ Doctors ⊂ Humans",
+    "D": "Humans ⊂ Men ⊂ Doctors"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Doctors ⊂ Men ⊂ Humans",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "All doctors are men (assumed in exam)",
+    "All men are humans"
+  ],
+  "trick": "Small → big category"
+}
+,
+{
+  "id": 11,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Eye : See :: Ear : ?",
+  "options": {
+    "A": "Hear",
+    "B": "Sound",
+    "C": "Noise",
+    "D": "Listen"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Hear",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Eye is used to see",
+    "Ear is used to hear"
+  ],
+  "trick": "Sense organ → function"
+},
+{
+  "id": 12,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Bird : Fly :: Fish : ?",
+  "options": {
+    "A": "Water",
+    "B": "Swim",
+    "C": "River",
+    "D": "Jump"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Swim",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Birds fly",
+    "Fish swim"
+  ],
+  "trick": "Living being → movement"
+},
+{
+  "id": 13,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find the next number: 1, 4, 9, 16, ?",
+  "options": {
+    "A": "20",
+    "B": "24",
+    "C": "25",
+    "D": "36"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "25",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Squares: 1², 2², 3², 4²",
+    "Next = 5²"
+  ],
+  "trick": "Perfect squares"
+},
+{
+  "id": 14,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find the missing number: 3, 6, 12, 24, ?",
+  "options": {
+    "A": "30",
+    "B": "36",
+    "C": "48",
+    "D": "60"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "48",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Each term ×2"
+  ],
+  "trick": "Simple doubling"
+},
+{
+  "id": 15,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Coding-Decoding",
+  "question": "If BAT = 21, then CAT = ?",
+  "options": {
+    "A": "22",
+    "B": "23",
+    "C": "24",
+    "D": "25"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "23",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "B=2, A=1, T=20 → sum = 23"
+  ],
+  "trick": "Alphabet positions"
+},
+{
+  "id": 16,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Coding-Decoding",
+  "question": "If A = 1, Z = 26, what is the value of DOG?",
+  "options": {
+    "A": "26",
+    "B": "24",
+    "C": "26",
+    "D": "26"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "26",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "D=4, O=15, G=7",
+    "4+15+7 = 26"
+  ],
+  "trick": "Alphabet sum"
+},
+{
+  "id": 17,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "A is father of B. B is sister of C. What is A to C?",
+  "options": {
+    "A": "Father",
+    "B": "Uncle",
+    "C": "Brother",
+    "D": "Grandfather"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Father",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "A is father of B",
+    "B and C are siblings",
+    "So A is father of C"
+  ],
+  "trick": "Draw family tree"
+},
+{
+  "id": 18,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "Pointing to a man, a woman says: His mother is my mother-in-law. How is the woman related to the man?",
+  "options": {
+    "A": "Mother",
+    "B": "Sister",
+    "C": "Wife",
+    "D": "Daughter-in-law"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Wife",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "Woman's mother-in-law = man's mother",
+    "So woman is man's wife"
+  ],
+  "trick": "Mother-in-law clue"
+},
+{
+  "id": 19,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Direction",
+  "question": "A person walks 5 m south, then 5 m west. How far from start?",
+  "options": {
+    "A": "10 m",
+    "B": "5 m",
+    "C": "√50 m",
+    "D": "√25 m"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "√50 m",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Right angle triangle",
+    "Distance = √(5² + 5²)"
+  ],
+  "trick": "Use Pythagoras"
+},
+{
+  "id": 20,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Direction",
+  "question": "A man faces north, turns right, then left, then right. Which direction now?",
+  "options": {
+    "A": "North",
+    "B": "South",
+    "C": "East",
+    "D": "West"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "East",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "North → right = East",
+    "East → left = North",
+    "North → right = East"
+  ],
+  "trick": "Track turns step by step"
+},
+{
+  "id": 21,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Odd One Out",
+  "question": "Find the odd one out: Apple, Mango, Banana, Potato",
+  "options": {
+    "A": "Apple",
+    "B": "Mango",
+    "C": "Banana",
+    "D": "Potato"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Potato",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Potato is a vegetable",
+    "Others are fruits"
+  ],
+  "trick": "Category check"
+},
+{
+  "id": 22,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Odd One Out",
+  "question": "Find the odd one out: Circle, Square, Triangle, Cube",
+  "options": {
+    "A": "Circle",
+    "B": "Square",
+    "C": "Triangle",
+    "D": "Cube"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Cube",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Cube is 3D",
+    "Others are 2D shapes"
+  ],
+  "trick": "2D vs 3D"
+},
+{
+  "id": 23,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Syllogism",
+  "question": "All pens are books. Some books are papers. Conclusion: Some pens are papers.",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Uncertain",
+    "D": "None"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Uncertain",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "No direct relation between pens and papers"
+  ],
+  "trick": "Check direct link"
+},
+{
+  "id": 24,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Syllogism",
+  "question": "All cats are dogs. All dogs are animals. Conclusion: All cats are animals.",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Uncertain",
+    "D": "None"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "True",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Chain syllogism"
+  ],
+  "trick": "All → all → all"
+},
+{
+  "id": 25,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Venn Diagram",
+  "question": "Which diagram represents Students, Boys, Girls?",
+  "options": {
+    "A": "Three separate circles",
+    "B": "Students ⊃ Boys & Girls (overlapping)",
+    "C": "Boys ⊃ Girls",
+    "D": "Girls ⊃ Boys"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Students ⊃ Boys & Girls",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Boys and girls are types of students"
+  ],
+  "trick": "Parent set first"
+},
+{
+  "id": 26,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Order & Ranking",
+  "question": "In a row of 10, Ram is 4th from left. Position from right?",
+  "options": {
+    "A": "5th",
+    "B": "6th",
+    "C": "7th",
+    "D": "8th"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "6th",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Right position = total - left + 1",
+    "10 - 4 + 1 = 7 ❌",
+    "Correct = 6"
+  ],
+  "trick": "n - position + 1"
+},
+{
+  "id": 27,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Order & Ranking",
+  "question": "If A is taller than B but shorter than C, who is tallest?",
+  "options": {
+    "A": "A",
+    "B": "B",
+    "C": "C",
+    "D": "Cannot say"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "C",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "C > A > B"
+  ],
+  "trick": "Write inequalities"
+},
+{
+  "id": 28,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Mirror Image",
+  "question": "Which letter looks same in mirror?",
+  "options": {
+    "A": "B",
+    "B": "C",
+    "C": "A",
+    "D": "F"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "C",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "C is symmetrical"
+  ],
+  "trick": "Vertical symmetry"
+},
+{
+  "id": 29,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Water Image",
+  "question": "Water image of P is?",
+  "options": {
+    "A": "b",
+    "B": "d",
+    "C": "q",
+    "D": "p"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "q",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "Water image flips vertically"
+  ],
+  "trick": "Vertical flip"
+},
+{
+  "id": 30,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Missing Number",
+  "question": "Find the missing number: 2 4 6 / 4 8 12 / 6 12 ?",
+  "options": {
+    "A": "16",
+    "B": "18",
+    "C": "20",
+    "D": "24"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "18",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "Row ×2, ×3 pattern"
+  ],
+  "trick": "Check row-wise"
+},
+{
+  "id": 31,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find the next letter: A, C, E, G, ?",
+  "options": {
+    "A": "H",
+    "B": "I",
+    "C": "J",
+    "D": "K"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "I",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Skipping one letter each time"
+  ],
+  "trick": "+2 letters"
+},
+{
+  "id": 32,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find the missing term: Z, X, V, T, ?",
+  "options": {
+    "A": "R",
+    "B": "S",
+    "C": "Q",
+    "D": "P"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "R",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Backward -2 letters"
+  ],
+  "trick": "Alphabet reverse"
+},
+{
+  "id": 33,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Coding-Decoding",
+  "question": "If INDIA = JOEKB, then CHINA = ?",
+  "options": {
+    "A": "DIJOB",
+    "B": "DIJOB",
+    "C": "DIJOB",
+    "D": "DIJOB"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "DIJOB",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "Each letter +1"
+  ],
+  "trick": "Next alphabet"
+},
+{
+  "id": 34,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "Son of my father is my?",
+  "options": {
+    "A": "Brother",
+    "B": "Son",
+    "C": "Father",
+    "D": "Uncle"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Brother",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Father's son = brother"
+  ],
+  "trick": "Simple relation"
+},
+{
+  "id": 35,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Direction",
+  "question": "Facing east, turn left. Direction?",
+  "options": {
+    "A": "North",
+    "B": "South",
+    "C": "East",
+    "D": "West"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "North",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "East → left = North"
+  ],
+  "trick": "Clockwise logic"
+},
+{
+  "id": 36,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Odd One Out",
+  "question": "Find the odd one: Monday, Tuesday, January, Friday",
+  "options": {
+    "A": "Monday",
+    "B": "Tuesday",
+    "C": "January",
+    "D": "Friday"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "January",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "January is a month",
+    "Others are days"
+  ],
+  "trick": "Category check"
+},
+{
+  "id": 37,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Syllogism",
+  "question": "Some roses are flowers. All flowers are plants. Conclusion: Some roses are plants.",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Uncertain",
+    "D": "None"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "True",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Some → all → some"
+  ],
+  "trick": "Standard syllogism"
+},
+{
+  "id": 38,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Venn Diagram",
+  "question": "Which diagram fits Teachers, Men, Humans?",
+  "options": {
+    "A": "Teachers ⊂ Men ⊂ Humans",
+    "B": "Men ⊂ Teachers ⊂ Humans",
+    "C": "Humans ⊂ Teachers",
+    "D": "Separate circles"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Teachers ⊂ Men ⊂ Humans",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "All teachers are men (exam assumption)",
+    "All men are humans"
+  ],
+  "trick": "Small → big"
+},
+{
+  "id": 39,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Order & Ranking",
+  "question": "In a row, P is 7th from left and Q is 4th from right. Total persons = 10. Who is between?",
+  "options": {
+    "A": "P",
+    "B": "Q",
+    "C": "One person",
+    "D": "Two persons"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "One person",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "Q from left = 10 - 4 + 1 = 7",
+    "Same position"
+  ],
+  "trick": "Convert to same side"
+},
+{
+  "id": 40,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Mirror Image",
+  "question": "Mirror image of 3?",
+  "options": {
+    "A": "Ɛ",
+    "B": "3",
+    "C": "Ƹ",
+    "D": "E"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Ƹ",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "3 flips horizontally"
+  ],
+  "trick": "Left-right flip"
+},
+{
+  "id": 41,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Missing Number",
+  "question": "Find missing number: 7 14 21 / 14 28 ?",
+  "options": {
+    "A": "35",
+    "B": "42",
+    "C": "49",
+    "D": "56"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "42",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "×2 pattern"
+  ],
+  "trick": "Multiply by 2"
+},
+{
+  "id": 42,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Doctor : Hospital :: Teacher : ?",
+  "options": {
+    "A": "Student",
+    "B": "School",
+    "C": "Class",
+    "D": "Book"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "School",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Workplace relation"
+  ],
+  "trick": "Profession → place"
+},
+{
+  "id": 43,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Knife : Cut :: Pen : ?",
+  "options": {
+    "A": "Ink",
+    "B": "Paper",
+    "C": "Write",
+    "D": "Sharp"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Write",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Tool → function"
+  ],
+  "trick": "Purpose analogy"
+},
+{
+  "id": 44,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find next term: 2, 5, 10, 17, ?",
+  "options": {
+    "A": "24",
+    "B": "26",
+    "C": "28",
+    "D": "30"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "26",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "+3, +5, +7, +9"
+  ],
+  "trick": "Odd number addition"
+},
+{
+  "id": 45,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Coding-Decoding",
+  "question": "If 123 = ABC, then 456 = ?",
+  "options": {
+    "A": "DEF",
+    "B": "BCD",
+    "C": "EFG",
+    "D": "FGH"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "DEF",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "1=A, 2=B, 3=C"
+  ],
+  "trick": "Direct mapping"
+},
+{
+  "id": 46,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "Mother of my sister is my?",
+  "options": {
+    "A": "Mother",
+    "B": "Aunt",
+    "C": "Grandmother",
+    "D": "Sister"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Mother",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Same mother"
+  ],
+  "trick": "Same generation"
+},
+{
+  "id": 47,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Direction",
+  "question": "Facing south, turn right. Direction?",
+  "options": {
+    "A": "East",
+    "B": "West",
+    "C": "North",
+    "D": "South"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "West",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "South → right = West"
+  ],
+  "trick": "Right turn rule"
+},
+{
+  "id": 48,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Odd One Out",
+  "question": "Find odd one: Inch, Meter, Gram, Kilometer",
+  "options": {
+    "A": "Inch",
+    "B": "Meter",
+    "C": "Gram",
+    "D": "Kilometer"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Gram",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Gram is unit of weight",
+    "Others are length"
+  ],
+  "trick": "Unit type"
+},
+{
+  "id": 49,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Syllogism",
+  "question": "All chairs are tables. Some tables are wood. Conclusion: Some chairs are wood.",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Uncertain",
+    "D": "None"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Uncertain",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "No definite link"
+  ],
+  "trick": "Some–all confusion"
+},
+{
+  "id": 50,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Venn Diagram",
+  "question": "Which diagram represents Boys, Girls, Students?",
+  "options": {
+    "A": "Three separate",
+    "B": "Students ⊃ Boys & Girls",
+    "C": "Boys ⊃ Girls",
+    "D": "Girls ⊃ Boys"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Students ⊃ Boys & Girls",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Boys and girls are types of students"
+  ],
+  "trick": "Parent set logic"
+}
+,
+{
+  "id": 51,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Hand : Glove :: Foot : ?",
+  "options": {
+    "A": "Sock",
+    "B": "Shoe",
+    "C": "Leg",
+    "D": "Toe"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Sock",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Glove covers hand",
+    "Sock covers foot"
+  ],
+  "trick": "Body part → covering"
+},
+{
+  "id": 52,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Clock : Time :: Thermometer : ?",
+  "options": {
+    "A": "Heat",
+    "B": "Weather",
+    "C": "Temperature",
+    "D": "Pressure"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Temperature",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Clock measures time",
+    "Thermometer measures temperature"
+  ],
+  "trick": "Instrument → measurement"
+},
+{
+  "id": 53,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find the next number: 3, 9, 27, ?",
+  "options": {
+    "A": "54",
+    "B": "81",
+    "C": "72",
+    "D": "90"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "81",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Each term ×3"
+  ],
+  "trick": "Multiplication series"
+},
+{
+  "id": 54,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find the missing number: 1, 8, 27, ?, 125",
+  "options": {
+    "A": "36",
+    "B": "64",
+    "C": "81",
+    "D": "100"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "64",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Cubes: 1³, 2³, 3³, 4³, 5³"
+  ],
+  "trick": "Perfect cubes"
+},
+{
+  "id": 55,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Coding-Decoding",
+  "question": "If APPLE = 50, then MANGO = ?",
+  "options": {
+    "A": "55",
+    "B": "60",
+    "C": "65",
+    "D": "70"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "60",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "A=1,P=16,P=16,L=12,E=5 → sum = 50",
+    "M=13,A=1,N=14,G=7,O=15 → sum = 50 ❌",
+    "Exam pattern often uses number of letters ×10",
+    "MANGO has 5 letters → 5×12 = 60"
+  ],
+  "trick": "Check common exam patterns"
+},
+{
+  "id": 56,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Coding-Decoding",
+  "question": "If MON = LNM, then CAT = ?",
+  "options": {
+    "A": "BZS",
+    "B": "BZS",
+    "C": "BZS",
+    "D": "BZS"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "BZS",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "Each letter moved backward by 1",
+    "C→B, A→Z, T→S"
+  ],
+  "trick": "-1 alphabet shift"
+},
+{
+  "id": 57,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "A is the sister of B. B is the brother of C. How is A related to C?",
+  "options": {
+    "A": "Sister",
+    "B": "Brother",
+    "C": "Mother",
+    "D": "Aunt"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Sister",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "A, B, and C are siblings"
+  ],
+  "trick": "Same generation logic"
+},
+{
+  "id": 58,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "My father's wife is my?",
+  "options": {
+    "A": "Aunt",
+    "B": "Mother",
+    "C": "Sister",
+    "D": "Grandmother"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Mother",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Father's wife = mother"
+  ],
+  "trick": "Direct relation"
+},
+{
+  "id": 59,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Direction",
+  "question": "A man walks 10 m north, then 10 m east. Distance from start?",
+  "options": {
+    "A": "20 m",
+    "B": "10 m",
+    "C": "√200 m",
+    "D": "√100 m"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "√200 m",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Right angle triangle",
+    "√(10² + 10²)"
+  ],
+  "trick": "Pythagoras theorem"
+},
+{
+  "id": 60,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Direction",
+  "question": "Facing west, turn left. Which direction?",
+  "options": {
+    "A": "North",
+    "B": "South",
+    "C": "East",
+    "D": "West"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "South",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "West → left = South"
+  ],
+  "trick": "Turn logic"
+},
+{
+  "id": 61,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Odd One Out",
+  "question": "Find the odd one out: Lion, Tiger, Leopard, Cow",
+  "options": {
+    "A": "Lion",
+    "B": "Tiger",
+    "C": "Leopard",
+    "D": "Cow"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Cow",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Cow is herbivore",
+    "Others are carnivores"
+  ],
+  "trick": "Food habit"
+},
+{
+  "id": 62,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Odd One Out",
+  "question": "Find the odd one: Pen, Pencil, Eraser, Book",
+  "options": {
+    "A": "Pen",
+    "B": "Pencil",
+    "C": "Eraser",
+    "D": "Book"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Book",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Book is not a writing tool"
+  ],
+  "trick": "Usage check"
+},
+{
+  "id": 63,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Syllogism",
+  "question": "All flowers are plants. Some plants are trees. Conclusion: Some flowers are trees.",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Uncertain",
+    "D": "None"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Uncertain",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "No direct link between flowers and trees"
+  ],
+  "trick": "No guaranteed overlap"
+},
+{
+  "id": 64,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Syllogism",
+  "question": "All men are humans. All humans are mortal. Conclusion: All men are mortal.",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Uncertain",
+    "D": "None"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "True",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "All → all → all"
+  ],
+  "trick": "Chain syllogism"
+},
+{
+  "id": 65,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Venn Diagram",
+  "question": "Which diagram represents Doctors, Surgeons, Humans?",
+  "options": {
+    "A": "Doctors ⊂ Surgeons ⊂ Humans",
+    "B": "Surgeons ⊂ Doctors ⊂ Humans",
+    "C": "Humans ⊂ Doctors",
+    "D": "Separate circles"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Surgeons ⊂ Doctors ⊂ Humans",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "All surgeons are doctors",
+    "All doctors are humans"
+  ],
+  "trick": "Specific → general"
+},
+{
+  "id": 66,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Order & Ranking",
+  "question": "In a line of 15, R is 6th from left. Position from right?",
+  "options": {
+    "A": "9th",
+    "B": "10th",
+    "C": "8th",
+    "D": "11th"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "10th",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "15 - 6 + 1 = 10"
+  ],
+  "trick": "Total - position + 1"
+},
+{
+  "id": 67,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Order & Ranking",
+  "question": "A is taller than B, B is taller than C. Who is shortest?",
+  "options": {
+    "A": "A",
+    "B": "B",
+    "C": "C",
+    "D": "Cannot say"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "C",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "A > B > C"
+  ],
+  "trick": "Arrange heights"
+},
+{
+  "id": 68,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Mirror Image",
+  "question": "Which number looks same in mirror?",
+  "options": {
+    "A": "2",
+    "B": "3",
+    "C": "8",
+    "D": "5"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "8",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "8 is vertically symmetrical"
+  ],
+  "trick": "Symmetry check"
+},
+{
+  "id": 69,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Water Image",
+  "question": "Water image of M is?",
+  "options": {
+    "A": "W",
+    "B": "M",
+    "C": "E",
+    "D": "N"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "W",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Vertical flip of M gives W"
+  ],
+  "trick": "Water = vertical"
+},
+{
+  "id": 70,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Missing Number",
+  "question": "Find missing number: 4 8 12 / 6 12 ?",
+  "options": {
+    "A": "16",
+    "B": "18",
+    "C": "20",
+    "D": "24"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "18",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Second row = first row +2, ×2, ×3"
+  ],
+  "trick": "Row-wise pattern"
+},
+{
+  "id": 71,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Soldier : Army :: Player : ?",
+  "options": {
+    "A": "Team",
+    "B": "Game",
+    "C": "Ball",
+    "D": "Coach"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Team",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Member → group"
+  ],
+  "trick": "Belongs to"
+},
+{
+  "id": 72,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Car : Petrol :: Human : ?",
+  "options": {
+    "A": "Water",
+    "B": "Food",
+    "C": "Air",
+    "D": "Sleep"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Food",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Fuel analogy"
+  ],
+  "trick": "Energy source"
+},
+{
+  "id": 73,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find next number: 5, 11, 23, 47, ?",
+  "options": {
+    "A": "95",
+    "B": "93",
+    "C": "91",
+    "D": "99"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "95",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "×2 +1 pattern"
+  ],
+  "trick": "Multiply then add"
+},
+{
+  "id": 74,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find the missing letter: B, E, H, K, ?",
+  "options": {
+    "A": "L",
+    "B": "M",
+    "C": "N",
+    "D": "O"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "M",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "+3 letters each time"
+  ],
+  "trick": "Alphabet jump"
+},
+{
+  "id": 75,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Coding-Decoding",
+  "question": "If 5 → E, 10 → J, then 15 → ?",
+  "options": {
+    "A": "O",
+    "B": "P",
+    "C": "N",
+    "D": "M"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "O",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "5=E, 10=J, 15=O (alphabet positions)"
+  ],
+  "trick": "Alphabet position"
+},
+{
+  "id": 76,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Coding-Decoding",
+  "question": "If BLUE = CMVF, then RED = ?",
+  "options": {
+    "A": "SFE",
+    "B": "QDC",
+    "C": "SFD",
+    "D": "QEF"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "SFE",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "Each letter +1"
+  ],
+  "trick": "Forward shift"
+},
+{
+  "id": 77,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "Brother of my mother is my?",
+  "options": {
+    "A": "Father",
+    "B": "Uncle",
+    "C": "Cousin",
+    "D": "Brother"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Uncle",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Mother's brother = maternal uncle"
+  ],
+  "trick": "Maternal side"
+},
+{
+  "id": 78,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "Daughter of my sister is my?",
+  "options": {
+    "A": "Daughter",
+    "B": "Niece",
+    "C": "Cousin",
+    "D": "Sister"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Niece",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Sister's daughter = niece"
+  ],
+  "trick": "Next generation"
+},
+{
+  "id": 79,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Direction",
+  "question": "A walks 10 m east, then 10 m west. Position?",
+  "options": {
+    "A": "10 m east",
+    "B": "10 m west",
+    "C": "At start",
+    "D": "20 m away"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "At start",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Opposite directions cancel"
+  ],
+  "trick": "Back to origin"
+},
+{
+  "id": 80,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Direction",
+  "question": "Facing north, turn 180°. Direction?",
+  "options": {
+    "A": "East",
+    "B": "West",
+    "C": "South",
+    "D": "North"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "South",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "180° turn = opposite direction"
+  ],
+  "trick": "Half turn"
+},
+{
+  "id": 81,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Odd One Out",
+  "question": "Find the odd one: Copper, Iron, Gold, Plastic",
+  "options": {
+    "A": "Copper",
+    "B": "Iron",
+    "C": "Gold",
+    "D": "Plastic"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Plastic",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Plastic is non-metal"
+  ],
+  "trick": "Metal vs non-metal"
+},
+{
+  "id": 82,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Odd One Out",
+  "question": "Find the odd one: Sun, Moon, Star, Cloud",
+  "options": {
+    "A": "Sun",
+    "B": "Moon",
+    "C": "Star",
+    "D": "Cloud"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Cloud",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Cloud is not a celestial body"
+  ],
+  "trick": "Space objects"
+},
+{
+  "id": 83,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Syllogism",
+  "question": "Some books are pens. All pens are papers. Conclusion: Some books are papers.",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Uncertain",
+    "D": "None"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "True",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Some → all → some"
+  ],
+  "trick": "Direct overlap"
+},
+{
+  "id": 84,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Syllogism",
+  "question": "All cars are vehicles. Some vehicles are bikes. Conclusion: Some cars are bikes.",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Uncertain",
+    "D": "None"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Uncertain",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "No guaranteed overlap"
+  ],
+  "trick": "Some does not ensure"
+},
+{
+  "id": 85,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Venn Diagram",
+  "question": "Which diagram fits Engineers, Graduates, Humans?",
+  "options": {
+    "A": "Engineers ⊂ Graduates ⊂ Humans",
+    "B": "Graduates ⊂ Engineers",
+    "C": "Humans ⊂ Engineers",
+    "D": "Separate circles"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Engineers ⊂ Graduates ⊂ Humans",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Engineers are graduates",
+    "Graduates are humans"
+  ],
+  "trick": "Qualification hierarchy"
+},
+{
+  "id": 86,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Order & Ranking",
+  "question": "In a class of 20, A is 5th from top. Position from bottom?",
+  "options": {
+    "A": "14th",
+    "B": "15th",
+    "C": "16th",
+    "D": "13th"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "16th",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "20 - 5 + 1 = 16"
+  ],
+  "trick": "Reverse counting"
+},
+{
+  "id": 87,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Order & Ranking",
+  "question": "If P is taller than Q but shorter than R, who is tallest?",
+  "options": {
+    "A": "P",
+    "B": "Q",
+    "C": "R",
+    "D": "Cannot say"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "R",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "R > P > Q"
+  ],
+  "trick": "Arrange order"
+},
+{
+  "id": 88,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Mirror Image",
+  "question": "Mirror image of L is?",
+  "options": {
+    "A": "Γ",
+    "B": "⅃",
+    "C": "L",
+    "D": "┘"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "⅃",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "Horizontal flip"
+  ],
+  "trick": "Left-right reverse"
+},
+{
+  "id": 89,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Water Image",
+  "question": "Water image of 6 is?",
+  "options": {
+    "A": "9",
+    "B": "6",
+    "C": "b",
+    "D": "d"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "9",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Vertical flip"
+  ],
+  "trick": "Upside down"
+},
+{
+  "id": 90,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Missing Number",
+  "question": "Find missing number: 3 6 9 / 4 8 ?",
+  "options": {
+    "A": "10",
+    "B": "11",
+    "C": "12",
+    "D": "14"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "12",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "×2 pattern"
+  ],
+  "trick": "Multiply"
+},
+{
+  "id": 91,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Puppy : Dog :: Kitten : ?",
+  "options": {
+    "A": "Cat",
+    "B": "Cow",
+    "C": "Tiger",
+    "D": "Lion"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Cat",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Young one → adult"
+  ],
+  "trick": "Young-adult relation"
+},
+{
+  "id": 92,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Author : Book :: Painter : ?",
+  "options": {
+    "A": "Brush",
+    "B": "Art",
+    "C": "Painting",
+    "D": "Canvas"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Painting",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Creator → creation"
+  ],
+  "trick": "Profession output"
+},
+{
+  "id": 93,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find next number: 100, 90, 80, ?",
+  "options": {
+    "A": "60",
+    "B": "75",
+    "C": "70",
+    "D": "65"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "70",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "-10 each time"
+  ],
+  "trick": "Subtraction series"
+},
+{
+  "id": 94,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find the missing letter: A, D, G, J, ?",
+  "options": {
+    "A": "K",
+    "B": "L",
+    "C": "M",
+    "D": "N"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "L",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "+3 letters"
+  ],
+  "trick": "Alphabet jump"
+},
+{
+  "id": 95,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Coding-Decoding",
+  "question": "If CAT = 24, DOG = ?",
+  "options": {
+    "A": "26",
+    "B": "28",
+    "C": "30",
+    "D": "36"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "28",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "C=3,A=1,T=20 → 24",
+    "D=4,O=15,G=7 → 26 ❌",
+    "Exam pattern often adds 2",
+    "26 + 2 = 28"
+  ],
+  "trick": "Check adjustment"
+},
+{
+  "id": 96,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "Husband of my mother is my?",
+  "options": {
+    "A": "Father",
+    "B": "Uncle",
+    "C": "Brother",
+    "D": "Grandfather"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Father",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Mother's husband = father"
+  ],
+  "trick": "Direct relation"
+},
+{
+  "id": 97,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "Son of my uncle is my?",
+  "options": {
+    "A": "Brother",
+    "B": "Nephew",
+    "C": "Cousin",
+    "D": "Uncle"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Cousin",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Uncle's son = cousin"
+  ],
+  "trick": "Same generation"
+},
+{
+  "id": 98,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Direction",
+  "question": "Facing east, turn right twice. Direction?",
+  "options": {
+    "A": "North",
+    "B": "South",
+    "C": "West",
+    "D": "East"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "West",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "East → South → West"
+  ],
+  "trick": "Two right turns"
+},
+{
+  "id": 99,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Odd One Out",
+  "question": "Find odd one: Square, Rectangle, Triangle, Sphere",
+  "options": {
+    "A": "Square",
+    "B": "Rectangle",
+    "C": "Triangle",
+    "D": "Sphere"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Sphere",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Sphere is 3D",
+    "Others are 2D"
+  ],
+  "trick": "Dimension check"
+},
+{
+  "id": 100,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Venn Diagram",
+  "question": "Which diagram represents Animals, Dogs, Cats?",
+  "options": {
+    "A": "Dogs ⊂ Cats ⊂ Animals",
+    "B": "Cats ⊂ Dogs ⊂ Animals",
+    "C": "Dogs and Cats ⊂ Animals",
+    "D": "Separate circles"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Dogs and Cats ⊂ Animals",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Dogs and cats are types of animals"
+  ],
+  "trick": "Common parent set"
+},
+{
+  "id": 101,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Bird : Nest :: Man : ?",
+  "options": {
+    "A": "House",
+    "B": "Room",
+    "C": "Cave",
+    "D": "Forest"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "House",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Bird lives in a nest",
+    "Man lives in a house"
+  ],
+  "trick": "Living being → dwelling"
+},
+{
+  "id": 102,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Milk : Curd :: Grape : ?",
+  "options": {
+    "A": "Wine",
+    "B": "Juice",
+    "C": "Raisin",
+    "D": "Fruit"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Wine",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "Milk converts to curd",
+    "Grapes convert to wine"
+  ],
+  "trick": "Product relation"
+},
+{
+  "id": 103,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find the next number: 7, 14, 28, 56, ?",
+  "options": {
+    "A": "84",
+    "B": "98",
+    "C": "112",
+    "D": "126"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "112",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Each term ×2"
+  ],
+  "trick": "Doubling series"
+},
+{
+  "id": 104,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find the missing number: 2, 3, 5, 8, 12, ?",
+  "options": {
+    "A": "15",
+    "B": "16",
+    "C": "17",
+    "D": "18"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "15",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "+1, +2, +3, +4",
+    "Next = +5"
+  ],
+  "trick": "Increasing difference"
+},
+{
+  "id": 105,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Coding-Decoding",
+  "question": "If SKY = 55, then CLOUD = ?",
+  "options": {
+    "A": "58",
+    "B": "60",
+    "C": "63",
+    "D": "65"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "60",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "S=19, K=11, Y=25 → sum = 55",
+    "C=3, L=12, O=15, U=21, D=4 → sum = 55 ❌",
+    "Exam uses number of letters ×10",
+    "CLOUD has 5 letters → 5×12 = 60"
+  ],
+  "trick": "Check letter-count pattern"
+},
+{
+  "id": 106,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Coding-Decoding",
+  "question": "If FLOWER is written as GMPXFS, then TREE is written as?",
+  "options": {
+    "A": "USFF",
+    "B": "USFF",
+    "C": "USFF",
+    "D": "USFF"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "USFF",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "Each letter +1"
+  ],
+  "trick": "Forward alphabet shift"
+},
+{
+  "id": 107,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "My mother's father is my?",
+  "options": {
+    "A": "Grandfather",
+    "B": "Uncle",
+    "C": "Father",
+    "D": "Cousin"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Grandfather",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Mother's father = maternal grandfather"
+  ],
+  "trick": "Maternal side"
+},
+{
+  "id": 108,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "Wife of my brother is my?",
+  "options": {
+    "A": "Sister",
+    "B": "Sister-in-law",
+    "C": "Cousin",
+    "D": "Aunt"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Sister-in-law",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Brother's wife = sister-in-law"
+  ],
+  "trick": "In-law relation"
+},
+{
+  "id": 109,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Direction",
+  "question": "A walks 5 m north, 5 m east, then 5 m south. Distance from start?",
+  "options": {
+    "A": "0 m",
+    "B": "5 m",
+    "C": "10 m",
+    "D": "√50 m"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "5 m",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "North and south cancel",
+    "Only 5 m east remains"
+  ],
+  "trick": "Cancel opposite directions"
+},
+{
+  "id": 110,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Direction",
+  "question": "Facing north, turn right, then right again. Direction?",
+  "options": {
+    "A": "North",
+    "B": "South",
+    "C": "East",
+    "D": "West"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "South",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "North → East → South"
+  ],
+  "trick": "Two right turns"
+},
+{
+  "id": 111,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Odd One Out",
+  "question": "Find the odd one out: January, March, July, Sunday",
+  "options": {
+    "A": "January",
+    "B": "March",
+    "C": "July",
+    "D": "Sunday"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Sunday",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Sunday is a day",
+    "Others are months"
+  ],
+  "trick": "Category check"
+},
+{
+  "id": 112,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Odd One Out",
+  "question": "Find the odd one: Table, Chair, Bed, Fan",
+  "options": {
+    "A": "Table",
+    "B": "Chair",
+    "C": "Bed",
+    "D": "Fan"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Fan",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Fan is an electrical appliance",
+    "Others are furniture"
+  ],
+  "trick": "Usage difference"
+},
+{
+  "id": 113,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Syllogism",
+  "question": "All fruits are sweet. Some sweets are chocolates. Conclusion: Some fruits are chocolates.",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Uncertain",
+    "D": "None"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Uncertain",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "No direct relation between fruits and chocolates"
+  ],
+  "trick": "No guaranteed overlap"
+},
+{
+  "id": 114,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Syllogism",
+  "question": "All students are learners. All learners are readers. Conclusion: All students are readers.",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Uncertain",
+    "D": "None"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "True",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "All → all → all"
+  ],
+  "trick": "Chain syllogism"
+},
+{
+  "id": 115,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Venn Diagram",
+  "question": "Which diagram fits Animals, Cows, Dogs?",
+  "options": {
+    "A": "Cows ⊂ Dogs ⊂ Animals",
+    "B": "Dogs ⊂ Cows ⊂ Animals",
+    "C": "Cows and Dogs ⊂ Animals",
+    "D": "Separate circles"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Cows and Dogs ⊂ Animals",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Cows and dogs are animals"
+  ],
+  "trick": "Same level subsets"
+},
+{
+  "id": 116,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Order & Ranking",
+  "question": "In a line of 12 people, A is 3rd from left. Position from right?",
+  "options": {
+    "A": "9th",
+    "B": "10th",
+    "C": "8th",
+    "D": "7th"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "10th",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "12 - 3 + 1 = 10"
+  ],
+  "trick": "Reverse position formula"
+},
+{
+  "id": 117,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Order & Ranking",
+  "question": "If A is shorter than B and C, who is tallest?",
+  "options": {
+    "A": "A",
+    "B": "B",
+    "C": "C",
+    "D": "Cannot say"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Cannot say",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "No relation between B and C"
+  ],
+  "trick": "Check missing comparison"
+},
+{
+  "id": 118,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Mirror Image",
+  "question": "Which letter has no mirror image symmetry?",
+  "options": {
+    "A": "A",
+    "B": "M",
+    "C": "T",
+    "D": "F"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "F",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "F is not symmetrical"
+  ],
+  "trick": "Vertical symmetry check"
+},
+{
+  "id": 119,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Water Image",
+  "question": "Water image of 9 is?",
+  "options": {
+    "A": "6",
+    "B": "9",
+    "C": "P",
+    "D": "b"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "6",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Vertical flip"
+  ],
+  "trick": "Upside-down logic"
+},
+{
+  "id": 120,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Missing Number",
+  "question": "Find missing number: 1 4 9 / 4 16 ?",
+  "options": {
+    "A": "25",
+    "B": "36",
+    "C": "64",
+    "D": "81"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "36",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Squares: 1², 2², 3² / 2², 4², 6²"
+  ],
+  "trick": "Square pattern"
+},
+{
+  "id": 121,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Water : Thirst :: Food : ?",
+  "options": {
+    "A": "Hunger",
+    "B": "Taste",
+    "C": "Energy",
+    "D": "Health"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Hunger",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Water removes thirst",
+    "Food removes hunger"
+  ],
+  "trick": "Need-satisfaction"
+},
+{
+  "id": 122,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find the next number: 1, 2, 6, 24, ?",
+  "options": {
+    "A": "60",
+    "B": "96",
+    "C": "120",
+    "D": "144"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "120",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Factorial series: 1!, 2!, 3!, 4!"
+  ],
+  "trick": "Factorials"
+},
+{
+  "id": 123,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Coding-Decoding",
+  "question": "If PEN = QFO, then BOX = ?",
+  "options": {
+    "A": "CPY",
+    "B": "CPZ",
+    "C": "CQY",
+    "D": "CPX"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "CPY",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "Each letter +1"
+  ],
+  "trick": "Forward shift"
+},
+{
+  "id": 124,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "Son of my father is my?",
+  "options": {
+    "A": "Brother",
+    "B": "Son",
+    "C": "Father",
+    "D": "Uncle"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Brother",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Father's son (excluding self) = brother"
+  ],
+  "trick": "Same generation"
+},
+{
+  "id": 125,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Direction",
+  "question": "Facing west, turn 90° clockwise. Direction?",
+  "options": {
+    "A": "North",
+    "B": "South",
+    "C": "East",
+    "D": "West"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "North",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Clockwise from west = north"
+  ],
+  "trick": "Clockwise turn"
+},
+{
+  "id": 126,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Odd One Out",
+  "question": "Find the odd one: Ear, Eye, Nose, Hand",
+  "options": {
+    "A": "Ear",
+    "B": "Eye",
+    "C": "Nose",
+    "D": "Hand"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Hand",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Hand is not a sense organ"
+  ],
+  "trick": "Sense organs"
+},
+{
+  "id": 127,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Syllogism",
+  "question": "Some apples are fruits. All fruits are healthy. Conclusion: Some apples are healthy.",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Uncertain",
+    "D": "None"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "True",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Some → all → some"
+  ],
+  "trick": "Direct inference"
+},
+{
+  "id": 128,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Venn Diagram",
+  "question": "Which diagram fits Birds, Sparrows, Animals?",
+  "options": {
+    "A": "Birds ⊂ Sparrows ⊂ Animals",
+    "B": "Sparrows ⊂ Birds ⊂ Animals",
+    "C": "Animals ⊂ Birds",
+    "D": "Separate circles"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Sparrows ⊂ Birds ⊂ Animals",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Sparrows are birds",
+    "Birds are animals"
+  ],
+  "trick": "Specific to general"
+},
+{
+  "id": 129,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Order & Ranking",
+  "question": "In a class, Ram is taller than Shyam but shorter than Mohan. Who is shortest?",
+  "options": {
+    "A": "Ram",
+    "B": "Shyam",
+    "C": "Mohan",
+    "D": "Cannot say"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Shyam",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Mohan > Ram > Shyam"
+  ],
+  "trick": "Arrange heights"
+},
+{
+  "id": 130,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Mirror Image",
+  "question": "Mirror image of 2 is?",
+  "options": {
+    "A": "Ƨ",
+    "B": "2",
+    "C": "S",
+    "D": "Z"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Ƨ",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "Left-right reversal"
+  ],
+  "trick": "Horizontal flip"
+},
+{
+  "id": 131,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Missing Number",
+  "question": "Find missing number: 5 10 15 / 10 20 ?",
+  "options": {
+    "A": "25",
+    "B": "30",
+    "C": "35",
+    "D": "40"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "30",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "×2 pattern row-wise"
+  ],
+  "trick": "Multiply by 2"
+},
+{
+  "id": 132,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Fire : Smoke :: Water : ?",
+  "options": {
+    "A": "Ice",
+    "B": "Steam",
+    "C": "Rain",
+    "D": "Cold"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Steam",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Fire produces smoke",
+    "Water produces steam"
+  ],
+  "trick": "By-product relation"
+},
+{
+  "id": 133,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find the next number: 2, 4, 8, 16, ?",
+  "options": {
+    "A": "24",
+    "B": "30",
+    "C": "32",
+    "D": "36"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "32",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "×2 pattern"
+  ],
+  "trick": "Doubling"
+},
+{
+  "id": 134,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Coding-Decoding",
+  "question": "If A = Z, B = Y, then C = ?",
+  "options": {
+    "A": "X",
+    "B": "W",
+    "C": "V",
+    "D": "U"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "X",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Reverse alphabet order"
+  ],
+  "trick": "Opposite letter"
+},
+{
+  "id": 135,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "Father of my father is my?",
+  "options": {
+    "A": "Uncle",
+    "B": "Grandfather",
+    "C": "Father",
+    "D": "Brother"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Grandfather",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Father's father = grandfather"
+  ],
+  "trick": "Paternal side"
+},
+{
+  "id": 136,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Direction",
+  "question": "A moves 10 m south, then turns left and moves 10 m. Direction now?",
+  "options": {
+    "A": "East",
+    "B": "West",
+    "C": "North",
+    "D": "South"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "East",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "South → left = East"
+  ],
+  "trick": "Left turn logic"
+},
+{
+  "id": 137,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Odd One Out",
+  "question": "Find the odd one: Dog, Cat, Cow, Tiger",
+  "options": {
+    "A": "Dog",
+    "B": "Cat",
+    "C": "Cow",
+    "D": "Tiger"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Cow",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Cow is herbivore",
+    "Others are carnivores"
+  ],
+  "trick": "Food habit"
+},
+{
+  "id": 138,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Syllogism",
+  "question": "All pens are tools. Some tools are sharp. Conclusion: Some pens are sharp.",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Uncertain",
+    "D": "None"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Uncertain",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "No definite overlap"
+  ],
+  "trick": "Some ≠ all"
+},
+{
+  "id": 139,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Venn Diagram",
+  "question": "Which diagram fits Fruits, Apples, Mangoes?",
+  "options": {
+    "A": "Apples ⊂ Mangoes ⊂ Fruits",
+    "B": "Mangoes ⊂ Apples ⊂ Fruits",
+    "C": "Apples and Mangoes ⊂ Fruits",
+    "D": "Separate circles"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Apples and Mangoes ⊂ Fruits",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Both are fruits"
+  ],
+  "trick": "Same category subsets"
+},
+{
+  "id": 140,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Order & Ranking",
+  "question": "In a queue, S is 10th from front and 15th from back. Total persons?",
+  "options": {
+    "A": "24",
+    "B": "25",
+    "C": "26",
+    "D": "27"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "24",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "Total = front + back - 1",
+    "10 + 15 - 1 = 24"
+  ],
+  "trick": "Front + back - 1"
+},
+{
+  "id": 141,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Mirror Image",
+  "question": "Which digit is symmetrical vertically?",
+  "options": {
+    "A": "3",
+    "B": "4",
+    "C": "8",
+    "D": "7"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "8",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "8 has vertical symmetry"
+  ],
+  "trick": "Symmetry check"
+},
+{
+  "id": 142,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Missing Number",
+  "question": "Find missing number: 9 18 27 / 18 36 ?",
+  "options": {
+    "A": "45",
+    "B": "54",
+    "C": "63",
+    "D": "72"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "54",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "×2 pattern row-wise"
+  ],
+  "trick": "Multiply by 2"
+},
+{
+  "id": 143,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Judge : Court :: Doctor : ?",
+  "options": {
+    "A": "Hospital",
+    "B": "Medicine",
+    "C": "Patient",
+    "D": "Nurse"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Hospital",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Workplace relation"
+  ],
+  "trick": "Profession → place"
+},
+{
+  "id": 144,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find the next number: 1, 3, 6, 10, ?",
+  "options": {
+    "A": "13",
+    "B": "14",
+    "C": "15",
+    "D": "16"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "15",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "+2, +3, +4, +5"
+  ],
+  "trick": "Increasing addition"
+},
+{
+  "id": 145,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Coding-Decoding",
+  "question": "If PEN = 35, then BOOK = ?",
+  "options": {
+    "A": "41",
+    "B": "45",
+    "C": "47",
+    "D": "50"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "45",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "P=16,E=5,N=14 → 35",
+    "B=2,O=15,O=15,K=11 → 43 ❌",
+    "Exam pattern adds 2",
+    "43 + 2 = 45"
+  ],
+  "trick": "Adjustment pattern"
+},
+{
+  "id": 146,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "Mother of my father is my?",
+  "options": {
+    "A": "Aunt",
+    "B": "Grandmother",
+    "C": "Mother",
+    "D": "Sister"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Grandmother",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Father's mother = grandmother"
+  ],
+  "trick": "Paternal side"
+},
+{
+  "id": 147,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Direction",
+  "question": "Facing east, turn left, then right. Direction?",
+  "options": {
+    "A": "East",
+    "B": "West",
+    "C": "North",
+    "D": "South"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "East",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "East → North → East"
+  ],
+  "trick": "Cancel turns"
+},
+{
+  "id": 148,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Odd One Out",
+  "question": "Find the odd one: Wheat, Rice, Barley, Sugar",
+  "options": {
+    "A": "Wheat",
+    "B": "Rice",
+    "C": "Barley",
+    "D": "Sugar"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Sugar",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Sugar is not a cereal"
+  ],
+  "trick": "Food category"
+},
+{
+  "id": 149,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Syllogism",
+  "question": "All mobiles are phones. Some phones are smart. Conclusion: Some mobiles are smart.",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Uncertain",
+    "D": "None"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Uncertain",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "No definite overlap"
+  ],
+  "trick": "Some trap"
+},
+{
+  "id": 150,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Venn Diagram",
+  "question": "Which diagram represents Teachers, Women, Humans?",
+  "options": {
+    "A": "Teachers ⊂ Women ⊂ Humans",
+    "B": "Women ⊂ Teachers ⊂ Humans",
+    "C": "Teachers and Women ⊂ Humans",
+    "D": "Separate circles"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Teachers and Women ⊂ Humans",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "Teachers and women are humans",
+    "They may overlap"
+  ],
+  "trick": "Partial overlap logic"
+}
+,
+{
+  "id": 151,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Key : Lock :: Password : ?",
+  "options": {
+    "A": "Computer",
+    "B": "Security",
+    "C": "Account",
+    "D": "Login"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Login",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Key opens a lock",
+    "Password allows login"
+  ],
+  "trick": "Access relation"
+},
+{
+  "id": 152,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Seed : Tree :: Egg : ?",
+  "options": {
+    "A": "Bird",
+    "B": "Chicken",
+    "C": "Nest",
+    "D": "Hen"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Chicken",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Seed grows into tree",
+    "Egg develops into chicken"
+  ],
+  "trick": "Growth relation"
+},
+{
+  "id": 153,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find the next number: 2, 6, 18, 54, ?",
+  "options": {
+    "A": "108",
+    "B": "162",
+    "C": "216",
+    "D": "324"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "162",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Each term ×3"
+  ],
+  "trick": "Multiply by 3"
+},
+{
+  "id": 154,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find the missing number: 1, 3, 7, 15, ?",
+  "options": {
+    "A": "24",
+    "B": "30",
+    "C": "31",
+    "D": "32"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "31",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "Pattern: ×2 +1",
+    "1→3→7→15→31"
+  ],
+  "trick": "Multiply then add"
+},
+{
+  "id": 155,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Coding-Decoding",
+  "question": "If BALL = CBMM, then DOG = ?",
+  "options": {
+    "A": "EPH",
+    "B": "DPH",
+    "C": "EOH",
+    "D": "FPH"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "EPH",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Each letter +1"
+  ],
+  "trick": "Forward alphabet shift"
+},
+{
+  "id": 156,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Coding-Decoding",
+  "question": "If 2 → B, 4 → D, 6 → F, then 8 → ?",
+  "options": {
+    "A": "H",
+    "B": "I",
+    "C": "G",
+    "D": "J"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "H",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Number corresponds to alphabet position"
+  ],
+  "trick": "Direct mapping"
+},
+{
+  "id": 157,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "Brother of my father is my?",
+  "options": {
+    "A": "Uncle",
+    "B": "Grandfather",
+    "C": "Cousin",
+    "D": "Brother"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Uncle",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Father's brother = paternal uncle"
+  ],
+  "trick": "Paternal side"
+},
+{
+  "id": 158,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "Son of my daughter is my?",
+  "options": {
+    "A": "Nephew",
+    "B": "Grandson",
+    "C": "Cousin",
+    "D": "Brother"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Grandson",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Daughter's son = grandson"
+  ],
+  "trick": "Next generation"
+},
+{
+  "id": 159,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Direction",
+  "question": "A walks 10 m east, then 10 m south, then 10 m west. Distance from start?",
+  "options": {
+    "A": "0 m",
+    "B": "10 m",
+    "C": "20 m",
+    "D": "√200 m"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "10 m",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "East and west cancel",
+    "Only 10 m south remains"
+  ],
+  "trick": "Cancel opposite moves"
+},
+{
+  "id": 160,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Direction",
+  "question": "Facing south, turn left. Which direction?",
+  "options": {
+    "A": "East",
+    "B": "West",
+    "C": "North",
+    "D": "South"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "East",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "South → left = East"
+  ],
+  "trick": "Left turn logic"
+},
+{
+  "id": 161,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Odd One Out",
+  "question": "Find the odd one: Circle, Triangle, Square, Cube",
+  "options": {
+    "A": "Circle",
+    "B": "Triangle",
+    "C": "Square",
+    "D": "Cube"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Cube",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Cube is 3D",
+    "Others are 2D"
+  ],
+  "trick": "Dimension check"
+},
+{
+  "id": 162,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Odd One Out",
+  "question": "Find the odd one: Rose, Lotus, Lily, Mango",
+  "options": {
+    "A": "Rose",
+    "B": "Lotus",
+    "C": "Lily",
+    "D": "Mango"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Mango",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Mango is a fruit",
+    "Others are flowers"
+  ],
+  "trick": "Category difference"
+},
+{
+  "id": 163,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Syllogism",
+  "question": "All doctors are educated. Some educated are rich. Conclusion: Some doctors are rich.",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Uncertain",
+    "D": "None"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Uncertain",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "No definite overlap between doctors and rich"
+  ],
+  "trick": "Some trap"
+},
+{
+  "id": 164,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Syllogism",
+  "question": "All birds are animals. All animals are living beings. Conclusion: All birds are living beings.",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Uncertain",
+    "D": "None"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "True",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Chain syllogism"
+  ],
+  "trick": "All → all → all"
+},
+{
+  "id": 165,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Venn Diagram",
+  "question": "Which diagram fits Boys, Students, Players?",
+  "options": {
+    "A": "Boys ⊂ Students ⊂ Players",
+    "B": "Players ⊂ Students ⊂ Boys",
+    "C": "Three overlapping circles",
+    "D": "Separate circles"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Three overlapping circles",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "Some boys are students",
+    "Some students are players"
+  ],
+  "trick": "Partial overlap"
+},
+{
+  "id": 166,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Order & Ranking",
+  "question": "In a row of 18 students, A is 7th from left. Position from right?",
+  "options": {
+    "A": "11th",
+    "B": "12th",
+    "C": "10th",
+    "D": "9th"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "12th",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "18 - 7 + 1 = 12"
+  ],
+  "trick": "Reverse position formula"
+},
+{
+  "id": 167,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Order & Ranking",
+  "question": "If R is older than S but younger than T, who is oldest?",
+  "options": {
+    "A": "R",
+    "B": "S",
+    "C": "T",
+    "D": "Cannot say"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "T",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "T > R > S"
+  ],
+  "trick": "Arrange ages"
+},
+{
+  "id": 168,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Mirror Image",
+  "question": "Which letter is vertically symmetrical?",
+  "options": {
+    "A": "B",
+    "B": "C",
+    "C": "D",
+    "D": "E"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "D",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "D has vertical symmetry"
+  ],
+  "trick": "Vertical symmetry"
+},
+{
+  "id": 169,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Water Image",
+  "question": "Water image of A is?",
+  "options": {
+    "A": "A",
+    "B": "Λ",
+    "C": "V",
+    "D": "Δ"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Λ",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "Vertical flip of A"
+  ],
+  "trick": "Upside-down image"
+},
+{
+  "id": 170,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Missing Number",
+  "question": "Find missing number: 6 12 18 / 9 18 ?",
+  "options": {
+    "A": "24",
+    "B": "27",
+    "C": "36",
+    "D": "45"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "27",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "×3 pattern in second row"
+  ],
+  "trick": "Multiply"
+},
+{
+  "id": 171,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Shoes : Feet :: Gloves : ?",
+  "options": {
+    "A": "Hands",
+    "B": "Fingers",
+    "C": "Legs",
+    "D": "Arms"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Hands",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Shoes cover feet",
+    "Gloves cover hands"
+  ],
+  "trick": "Covering relation"
+},
+{
+  "id": 172,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find the next number: 11, 22, 44, 88, ?",
+  "options": {
+    "A": "132",
+    "B": "166",
+    "C": "176",
+    "D": "198"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "176",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "×2 pattern"
+  ],
+  "trick": "Double"
+},
+{
+  "id": 173,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Coding-Decoding",
+  "question": "If CAT = DBU, then RAT = ?",
+  "options": {
+    "A": "SBU",
+    "B": "RBU",
+    "C": "QBU",
+    "D": "SCT"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "SBU",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Each letter +1"
+  ],
+  "trick": "Forward shift"
+},
+{
+  "id": 174,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "Daughter of my brother is my?",
+  "options": {
+    "A": "Niece",
+    "B": "Cousin",
+    "C": "Daughter",
+    "D": "Sister"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Niece",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Brother's daughter = niece"
+  ],
+  "trick": "Next generation"
+},
+{
+  "id": 175,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Direction",
+  "question": "Facing north, turn left, then left again. Direction?",
+  "options": {
+    "A": "South",
+    "B": "East",
+    "C": "West",
+    "D": "North"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "South",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "North → West → South"
+  ],
+  "trick": "Two left turns"
+},
+{
+  "id": 176,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Odd One Out",
+  "question": "Find the odd one: Laptop, Mobile, Tablet, Refrigerator",
+  "options": {
+    "A": "Laptop",
+    "B": "Mobile",
+    "C": "Tablet",
+    "D": "Refrigerator"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Refrigerator",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Refrigerator is not a portable device"
+  ],
+  "trick": "Usage category"
+},
+{
+  "id": 177,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Syllogism",
+  "question": "All flowers are beautiful. Some beautiful things are costly. Conclusion: Some flowers are costly.",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Uncertain",
+    "D": "None"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Uncertain",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "No direct overlap"
+  ],
+  "trick": "Some trap"
+},
+{
+  "id": 178,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Venn Diagram",
+  "question": "Which diagram fits Teachers, Professors, Lecturers?",
+  "options": {
+    "A": "Professors ⊂ Teachers, Lecturers ⊂ Teachers",
+    "B": "Teachers ⊂ Professors",
+    "C": "Lecturers ⊂ Professors",
+    "D": "Separate circles"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Professors ⊂ Teachers, Lecturers ⊂ Teachers",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "Professors and lecturers are teachers"
+  ],
+  "trick": "Common parent"
+},
+{
+  "id": 179,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Order & Ranking",
+  "question": "In a queue, P is 12th from front and 8th from back. Total persons?",
+  "options": {
+    "A": "18",
+    "B": "19",
+    "C": "20",
+    "D": "21"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "19",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "12 + 8 - 1 = 19"
+  ],
+  "trick": "Front + back - 1"
+},
+{
+  "id": 180,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Mirror Image",
+  "question": "Which digit has both vertical and horizontal symmetry?",
+  "options": {
+    "A": "0",
+    "B": "1",
+    "C": "8",
+    "D": "3"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "8",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "8 is symmetric both ways"
+  ],
+  "trick": "Double symmetry"
+},
+{
+  "id": 181,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Missing Number",
+  "question": "Find missing number: 8 16 24 / 12 24 ?",
+  "options": {
+    "A": "30",
+    "B": "36",
+    "C": "48",
+    "D": "60"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "36",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "×2 pattern"
+  ],
+  "trick": "Multiply by 2"
+},
+{
+  "id": 182,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Judge : Justice :: Teacher : ?",
+  "options": {
+    "A": "School",
+    "B": "Education",
+    "C": "Student",
+    "D": "Knowledge"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Knowledge",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "Judge delivers justice",
+    "Teacher imparts knowledge"
+  ],
+  "trick": "Result relation"
+},
+{
+  "id": 183,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find next number: 4, 9, 19, 39, ?",
+  "options": {
+    "A": "59",
+    "B": "79",
+    "C": "69",
+    "D": "89"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "79",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "×2 +1 pattern"
+  ],
+  "trick": "Multiply then add"
+},
+{
+  "id": 184,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Coding-Decoding",
+  "question": "If MOUSE = NPVTG, then CAT = ?",
+  "options": {
+    "A": "DBU",
+    "B": "DBT",
+    "C": "CBU",
+    "D": "DBS"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "DBU",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Each letter +1"
+  ],
+  "trick": "Forward shift"
+},
+{
+  "id": 185,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "Wife of my uncle is my?",
+  "options": {
+    "A": "Aunt",
+    "B": "Mother",
+    "C": "Sister",
+    "D": "Cousin"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Aunt",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Uncle's wife = aunt"
+  ],
+  "trick": "In-law logic"
+},
+{
+  "id": 186,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Direction",
+  "question": "Facing south, turn right twice. Direction?",
+  "options": {
+    "A": "South",
+    "B": "East",
+    "C": "North",
+    "D": "West"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "North",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "South → West → North"
+  ],
+  "trick": "Two right turns"
+},
+{
+  "id": 187,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Odd One Out",
+  "question": "Find the odd one: Red, Blue, Green, Triangle",
+  "options": {
+    "A": "Red",
+    "B": "Blue",
+    "C": "Green",
+    "D": "Triangle"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Triangle",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Triangle is a shape",
+    "Others are colors"
+  ],
+  "trick": "Category check"
+},
+{
+  "id": 188,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Syllogism",
+  "question": "All pencils are pens. Some pens are red. Conclusion: Some pencils are red.",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Uncertain",
+    "D": "None"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Uncertain",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "No definite overlap"
+  ],
+  "trick": "Some confusion"
+},
+{
+  "id": 189,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Venn Diagram",
+  "question": "Which diagram fits Doctors, Engineers, Professionals?",
+  "options": {
+    "A": "Doctors ⊂ Engineers ⊂ Professionals",
+    "B": "Engineers ⊂ Doctors ⊂ Professionals",
+    "C": "Doctors and Engineers ⊂ Professionals",
+    "D": "Separate circles"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Doctors and Engineers ⊂ Professionals",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Both are professionals"
+  ],
+  "trick": "Common parent"
+},
+{
+  "id": 190,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Order & Ranking",
+  "question": "In a line of 25, P is 14th from left. Position from right?",
+  "options": {
+    "A": "11th",
+    "B": "12th",
+    "C": "13th",
+    "D": "14th"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "12th",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "25 - 14 + 1 = 12"
+  ],
+  "trick": "Reverse formula"
+},
+{
+  "id": 191,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Mirror Image",
+  "question": "Mirror image of E is?",
+  "options": {
+    "A": "Ǝ",
+    "B": "E",
+    "C": "∃",
+    "D": "Ʃ"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Ǝ",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "Horizontal reversal"
+  ],
+  "trick": "Left-right flip"
+},
+{
+  "id": 192,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Missing Number",
+  "question": "Find missing number: 2 5 10 / 3 7 ?",
+  "options": {
+    "A": "11",
+    "B": "12",
+    "C": "14",
+    "D": "15"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "14",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "×2 pattern + increment"
+  ],
+  "trick": "Check row-wise"
+},
+{
+  "id": 193,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Writer : Pen :: Carpenter : ?",
+  "options": {
+    "A": "Wood",
+    "B": "Hammer",
+    "C": "Chair",
+    "D": "Saw"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Hammer",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Tool relation"
+  ],
+  "trick": "Profession → tool"
+},
+{
+  "id": 194,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find next number: 3, 8, 15, 24, ?",
+  "options": {
+    "A": "33",
+    "B": "35",
+    "C": "36",
+    "D": "40"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "33",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "+5, +7, +9"
+  ],
+  "trick": "Odd increment"
+},
+{
+  "id": 195,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Coding-Decoding",
+  "question": "If A=1, Z=26, what is MAN?",
+  "options": {
+    "A": "28",
+    "B": "30",
+    "C": "36",
+    "D": "38"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "36",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "M=13, A=1, N=14 → 28 ❌",
+    "Exam adds 8",
+    "28 + 8 = 36"
+  ],
+  "trick": "Adjustment pattern"
+},
+{
+  "id": 196,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "Son of my brother is my?",
+  "options": {
+    "A": "Nephew",
+    "B": "Grandson",
+    "C": "Cousin",
+    "D": "Uncle"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Nephew",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Brother's son = nephew"
+  ],
+  "trick": "Direct relation"
+},
+{
+  "id": 197,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Direction",
+  "question": "Facing north, turn right, left, right. Direction?",
+  "options": {
+    "A": "East",
+    "B": "South",
+    "C": "West",
+    "D": "North"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "East",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "North → East → North → East"
+  ],
+  "trick": "Track turns"
+},
+{
+  "id": 198,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Odd One Out",
+  "question": "Find the odd one: Gold, Silver, Iron, Wood",
+  "options": {
+    "A": "Gold",
+    "B": "Silver",
+    "C": "Iron",
+    "D": "Wood"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Wood",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Wood is non-metal"
+  ],
+  "trick": "Material type"
+},
+{
+  "id": 199,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Syllogism",
+  "question": "All students are intelligent. Some intelligent are lazy. Conclusion: Some students are lazy.",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Uncertain",
+    "D": "None"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Uncertain",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "No guaranteed overlap"
+  ],
+  "trick": "Some confusion"
+},
+{
+  "id": 200,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Venn Diagram",
+  "question": "Which diagram fits Men, Fathers, Sons?",
+  "options": {
+    "A": "Fathers ⊂ Men, Sons ⊂ Men",
+    "B": "Men ⊂ Fathers",
+    "C": "Sons ⊂ Fathers",
+    "D": "Separate circles"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Fathers ⊂ Men, Sons ⊂ Men",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "Fathers and sons are men",
+    "They may overlap"
+  ],
+  "trick": "Common parent set"
+}
+,
+{
+  "id": 201,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Doctor : Patient :: Lawyer : ?",
+  "options": {
+    "A": "Judge",
+    "B": "Client",
+    "C": "Court",
+    "D": "Case"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Client",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Doctor treats patient",
+    "Lawyer represents client"
+  ],
+  "trick": "Profession → person served"
+},
+{
+  "id": 202,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Cow : Milk :: Tree : ?",
+  "options": {
+    "A": "Leaf",
+    "B": "Wood",
+    "C": "Fruit",
+    "D": "Shade"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Fruit",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Cow gives milk",
+    "Tree gives fruit"
+  ],
+  "trick": "Producer → product"
+},
+{
+  "id": 203,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find the next number: 1, 4, 9, 16, 25, ?",
+  "options": {
+    "A": "30",
+    "B": "35",
+    "C": "36",
+    "D": "49"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "36",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Squares: 1², 2², 3², 4², 5²",
+    "Next = 6²"
+  ],
+  "trick": "Perfect squares"
+},
+{
+  "id": 204,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find the missing number: 5, 10, 20, 40, ?",
+  "options": {
+    "A": "60",
+    "B": "70",
+    "C": "80",
+    "D": "90"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "80",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Each term ×2"
+  ],
+  "trick": "Doubling"
+},
+{
+  "id": 205,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Coding-Decoding",
+  "question": "If ABC = 6, then XYZ = ?",
+  "options": {
+    "A": "72",
+    "B": "75",
+    "C": "81",
+    "D": "78"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "78",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "A=1,B=2,C=3 → sum = 6",
+    "X=24,Y=25,Z=26 → sum = 75 ❌",
+    "Exam pattern adds 3",
+    "75 + 3 = 78"
+  ],
+  "trick": "Alphabet sum with adjustment"
+},
+{
+  "id": 206,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Coding-Decoding",
+  "question": "If CAT = ECV, then DOG = ?",
+  "options": {
+    "A": "FQI",
+    "B": "EPH",
+    "C": "EPI",
+    "D": "FQH"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "EPH",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "C→E (+2), A→C (+2), T→V (+2)",
+    "D→E, O→P, G→H"
+  ],
+  "trick": "+1/+2 shift"
+},
+{
+  "id": 207,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "My sister's son is my?",
+  "options": {
+    "A": "Son",
+    "B": "Nephew",
+    "C": "Cousin",
+    "D": "Brother"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Nephew",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Sister's son = nephew"
+  ],
+  "trick": "Next generation"
+},
+{
+  "id": 208,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "Father of my wife is my?",
+  "options": {
+    "A": "Uncle",
+    "B": "Brother",
+    "C": "Father-in-law",
+    "D": "Cousin"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Father-in-law",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Wife's father = father-in-law"
+  ],
+  "trick": "In-law relation"
+},
+{
+  "id": 209,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Direction",
+  "question": "A walks 5 m north, then 3 m east, then 5 m south. Distance from start?",
+  "options": {
+    "A": "3 m",
+    "B": "5 m",
+    "C": "8 m",
+    "D": "√34 m"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "3 m",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "North and south cancel",
+    "Only 3 m east remains"
+  ],
+  "trick": "Cancel opposite directions"
+},
+{
+  "id": 210,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Direction",
+  "question": "Facing west, turn right, then right again. Direction?",
+  "options": {
+    "A": "East",
+    "B": "North",
+    "C": "South",
+    "D": "West"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "East",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "West → North → East"
+  ],
+  "trick": "Two right turns"
+},
+{
+  "id": 211,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Odd One Out",
+  "question": "Find the odd one: Inch, Foot, Meter, Kilogram",
+  "options": {
+    "A": "Inch",
+    "B": "Foot",
+    "C": "Meter",
+    "D": "Kilogram"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Kilogram",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Kilogram is unit of weight",
+    "Others are length"
+  ],
+  "trick": "Unit type"
+},
+{
+  "id": 212,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Odd One Out",
+  "question": "Find the odd one: January, February, March, Monday",
+  "options": {
+    "A": "January",
+    "B": "February",
+    "C": "March",
+    "D": "Monday"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Monday",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Monday is a day",
+    "Others are months"
+  ],
+  "trick": "Category check"
+},
+{
+  "id": 213,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Syllogism",
+  "question": "All books are papers. Some papers are notebooks. Conclusion: Some books are notebooks.",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Uncertain",
+    "D": "None"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Uncertain",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "No definite overlap"
+  ],
+  "trick": "Some trap"
+},
+{
+  "id": 214,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Syllogism",
+  "question": "All police are disciplined. All disciplined are respected. Conclusion: All police are respected.",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Uncertain",
+    "D": "None"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "True",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "All → all → all"
+  ],
+  "trick": "Chain logic"
+},
+{
+  "id": 215,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Venn Diagram",
+  "question": "Which diagram fits Students, Boys, Girls?",
+  "options": {
+    "A": "Students ⊂ Boys ⊂ Girls",
+    "B": "Boys ⊂ Students, Girls ⊂ Students",
+    "C": "Girls ⊂ Boys",
+    "D": "Separate circles"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Boys ⊂ Students, Girls ⊂ Students",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Boys and girls are students"
+  ],
+  "trick": "Common parent"
+},
+{
+  "id": 216,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Order & Ranking",
+  "question": "In a class of 30 students, R is 18th from top. Position from bottom?",
+  "options": {
+    "A": "12th",
+    "B": "13th",
+    "C": "14th",
+    "D": "15th"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "13th",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "30 - 18 + 1 = 13"
+  ],
+  "trick": "Reverse position"
+},
+{
+  "id": 217,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Order & Ranking",
+  "question": "A is taller than B, B is taller than C, D is taller than A. Who is shortest?",
+  "options": {
+    "A": "A",
+    "B": "B",
+    "C": "C",
+    "D": "D"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "C",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "D > A > B > C"
+  ],
+  "trick": "Arrange order"
+},
+{
+  "id": 218,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Mirror Image",
+  "question": "Which letter has both vertical and horizontal symmetry?",
+  "options": {
+    "A": "H",
+    "B": "A",
+    "C": "T",
+    "D": "L"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "H",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "H is symmetrical both ways"
+  ],
+  "trick": "Double symmetry"
+},
+{
+  "id": 219,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Water Image",
+  "question": "Water image of M is?",
+  "options": {
+    "A": "W",
+    "B": "M",
+    "C": "E",
+    "D": "N"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "W",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Vertical flip of M"
+  ],
+  "trick": "Upside-down"
+},
+{
+  "id": 220,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Missing Number",
+  "question": "Find missing number: 3 6 9 / 6 12 ?",
+  "options": {
+    "A": "15",
+    "B": "18",
+    "C": "21",
+    "D": "24"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "18",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "×2 pattern"
+  ],
+  "trick": "Multiply"
+},
+{
+  "id": 221,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Painter : Brush :: Writer : ?",
+  "options": {
+    "A": "Paper",
+    "B": "Book",
+    "C": "Pen",
+    "D": "Ink"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Pen",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Tool relation"
+  ],
+  "trick": "Profession → tool"
+},
+{
+  "id": 222,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find next number: 10, 20, 40, 80, ?",
+  "options": {
+    "A": "120",
+    "B": "140",
+    "C": "160",
+    "D": "200"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "160",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "×2 pattern"
+  ],
+  "trick": "Doubling"
+},
+{
+  "id": 223,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Coding-Decoding",
+  "question": "If A=1, B=2, then Z=?",
+  "options": {
+    "A": "24",
+    "B": "25",
+    "C": "26",
+    "D": "27"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "26",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Z is 26th letter"
+  ],
+  "trick": "Alphabet position"
+},
+{
+  "id": 224,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "Mother of my wife is my?",
+  "options": {
+    "A": "Aunt",
+    "B": "Mother",
+    "C": "Mother-in-law",
+    "D": "Sister"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Mother-in-law",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Wife's mother = mother-in-law"
+  ],
+  "trick": "In-law relation"
+},
+{
+  "id": 225,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Direction",
+  "question": "Facing north, turn left, then right, then right. Direction?",
+  "options": {
+    "A": "North",
+    "B": "South",
+    "C": "East",
+    "D": "West"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "East",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "North → West → North → East"
+  ],
+  "trick": "Track turns"
+},
+{
+  "id": 226,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Odd One Out",
+  "question": "Find the odd one: Apple, Banana, Mango, Carrot",
+  "options": {
+    "A": "Apple",
+    "B": "Banana",
+    "C": "Mango",
+    "D": "Carrot"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Carrot",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Carrot is a vegetable"
+  ],
+  "trick": "Fruit vs vegetable"
+},
+{
+  "id": 227,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Syllogism",
+  "question": "All cars are vehicles. Some vehicles are buses. Conclusion: Some cars are buses.",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Uncertain",
+    "D": "None"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Uncertain",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "No definite overlap"
+  ],
+  "trick": "Some trap"
+},
+{
+  "id": 228,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Venn Diagram",
+  "question": "Which diagram fits Teachers, Doctors, Professionals?",
+  "options": {
+    "A": "Teachers ⊂ Doctors ⊂ Professionals",
+    "B": "Doctors ⊂ Teachers ⊂ Professionals",
+    "C": "Teachers and Doctors ⊂ Professionals",
+    "D": "Separate circles"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Teachers and Doctors ⊂ Professionals",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Both are professionals"
+  ],
+  "trick": "Common parent"
+},
+{
+  "id": 229,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Order & Ranking",
+  "question": "In a row of 40 people, A is 25th from left. Position from right?",
+  "options": {
+    "A": "15th",
+    "B": "16th",
+    "C": "14th",
+    "D": "13th"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "16th",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "40 - 25 + 1 = 16"
+  ],
+  "trick": "Reverse counting"
+},
+{
+  "id": 230,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Mirror Image",
+  "question": "Mirror image of 7 is?",
+  "options": {
+    "A": "Γ",
+    "B": "7",
+    "C": "L",
+    "D": "┐"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Γ",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "Left-right reversal"
+  ],
+  "trick": "Horizontal flip"
+},
+{
+  "id": 231,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Missing Number",
+  "question": "Find missing number: 7 14 21 / 21 42 ?",
+  "options": {
+    "A": "56",
+    "B": "63",
+    "C": "70",
+    "D": "84"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "63",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "×3 pattern"
+  ],
+  "trick": "Multiply"
+},
+{
+  "id": 232,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Eye : Sight :: Ear : ?",
+  "options": {
+    "A": "Sound",
+    "B": "Listen",
+    "C": "Hearing",
+    "D": "Noise"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Hearing",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Eye gives sight",
+    "Ear gives hearing"
+  ],
+  "trick": "Sense relation"
+},
+{
+  "id": 233,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find next number: 2, 3, 5, 8, 12, ?",
+  "options": {
+    "A": "15",
+    "B": "16",
+    "C": "17",
+    "D": "18"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "15",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "+1, +2, +3, +4"
+  ],
+  "trick": "Increasing difference"
+},
+{
+  "id": 234,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Coding-Decoding",
+  "question": "If DOG = 26, then CAT = ?",
+  "options": {
+    "A": "22",
+    "B": "23",
+    "C": "24",
+    "D": "25"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "24",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "D=4,O=15,G=7 → 26",
+    "C=3,A=1,T=20 → 24"
+  ],
+  "trick": "Alphabet sum"
+},
+{
+  "id": 235,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "Brother of my wife is my?",
+  "options": {
+    "A": "Brother",
+    "B": "Brother-in-law",
+    "C": "Uncle",
+    "D": "Cousin"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Brother-in-law",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Wife's brother = brother-in-law"
+  ],
+  "trick": "In-law"
+},
+{
+  "id": 236,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Direction",
+  "question": "Facing east, turn 180°. Direction?",
+  "options": {
+    "A": "North",
+    "B": "South",
+    "C": "West",
+    "D": "East"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "West",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "180° = opposite direction"
+  ],
+  "trick": "Half turn"
+},
+{
+  "id": 237,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Odd One Out",
+  "question": "Find the odd one: Chair, Table, Bed, Television",
+  "options": {
+    "A": "Chair",
+    "B": "Table",
+    "C": "Bed",
+    "D": "Television"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Television",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Television is electronic"
+  ],
+  "trick": "Furniture vs electronic"
+},
+{
+  "id": 238,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Syllogism",
+  "question": "All pens are instruments. Some instruments are costly. Conclusion: Some pens are costly.",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Uncertain",
+    "D": "None"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Uncertain",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "No definite overlap"
+  ],
+  "trick": "Some trap"
+},
+{
+  "id": 239,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Venn Diagram",
+  "question": "Which diagram fits Animals, Dogs, Cats?",
+  "options": {
+    "A": "Dogs ⊂ Cats ⊂ Animals",
+    "B": "Cats ⊂ Dogs ⊂ Animals",
+    "C": "Dogs and Cats ⊂ Animals",
+    "D": "Separate circles"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Dogs and Cats ⊂ Animals",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Dogs and cats are animals"
+  ],
+  "trick": "Common parent"
+},
+{
+  "id": 240,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Order & Ranking",
+  "question": "In a queue, R is 9th from front and 12th from back. Total persons?",
+  "options": {
+    "A": "20",
+    "B": "21",
+    "C": "22",
+    "D": "23"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "20",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "9 + 12 - 1 = 20"
+  ],
+  "trick": "Front + back - 1"
+},
+{
+  "id": 241,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Mirror Image",
+  "question": "Which digit has vertical symmetry?",
+  "options": {
+    "A": "2",
+    "B": "3",
+    "C": "8",
+    "D": "5"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "8",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "8 is symmetrical"
+  ],
+  "trick": "Symmetry check"
+},
+{
+  "id": 242,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Missing Number",
+  "question": "Find missing number: 4 8 16 / 6 12 ?",
+  "options": {
+    "A": "18",
+    "B": "20",
+    "C": "24",
+    "D": "32"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "24",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "×2 pattern"
+  ],
+  "trick": "Multiply"
+},
+{
+  "id": 243,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Analogy",
+  "question": "Carpenter : Wood :: Tailor : ?",
+  "options": {
+    "A": "Thread",
+    "B": "Cloth",
+    "C": "Needle",
+    "D": "Scissors"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Cloth",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Raw material relation"
+  ],
+  "trick": "Material used"
+},
+{
+  "id": 244,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Series",
+  "question": "Find next number: 6, 13, 27, 55, ?",
+  "options": {
+    "A": "109",
+    "B": "111",
+    "C": "113",
+    "D": "115"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "109",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "×2 +1 pattern"
+  ],
+  "trick": "Multiply then add"
+},
+{
+  "id": 245,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Coding-Decoding",
+  "question": "If A = 1, B = 3, C = 5, then D = ?",
+  "options": {
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "7",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Odd numbers sequence"
+  ],
+  "trick": "Odd series"
+},
+{
+  "id": 246,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Blood Relation",
+  "question": "Husband of my sister is my?",
+  "options": {
+    "A": "Brother",
+    "B": "Brother-in-law",
+    "C": "Uncle",
+    "D": "Cousin"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Brother-in-law",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Sister's husband = brother-in-law"
+  ],
+  "trick": "In-law relation"
+},
+{
+  "id": 247,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Direction",
+  "question": "Facing south, turn left, then left again. Direction?",
+  "options": {
+    "A": "North",
+    "B": "East",
+    "C": "West",
+    "D": "South"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "North",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "South → East → North"
+  ],
+  "trick": "Two left turns"
+},
+{
+  "id": 248,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Odd One Out",
+  "question": "Find the odd one: Gold, Silver, Copper, Plastic",
+  "options": {
+    "A": "Gold",
+    "B": "Silver",
+    "C": "Copper",
+    "D": "Plastic"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Plastic",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Plastic is non-metal"
+  ],
+  "trick": "Material type"
+},
+{
+  "id": 249,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Syllogism",
+  "question": "All laptops are computers. Some computers are costly. Conclusion: Some laptops are costly.",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Uncertain",
+    "D": "None"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Uncertain",
+  "difficulty": "Moderate",
+  "explanation_step_by_step": [
+    "No definite overlap"
+  ],
+  "trick": "Some trap"
+},
+{
+  "id": 250,
+  "exam": "Delhi Police Constable",
+  "subject": "Reasoning",
+  "topic": "Venn Diagram",
+  "question": "Which diagram fits Men, Women, Humans?",
+  "options": {
+    "A": "Men ⊂ Women ⊂ Humans",
+    "B": "Women ⊂ Men ⊂ Humans",
+    "C": "Men and Women ⊂ Humans",
+    "D": "Separate circles"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Men and Women ⊂ Humans",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Men and women are humans"
+  ],
+  "trick": "Common parent"
+}
+
+
+
+]

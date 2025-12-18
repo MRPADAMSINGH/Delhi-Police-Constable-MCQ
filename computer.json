@@ -1,0 +1,1477 @@
+[
+{
+  "id": 1,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Basics of Computer",
+  "question": "What is a computer?",
+  "options": {
+    "A": "An electronic machine that processes data",
+    "B": "A mechanical device",
+    "C": "A communication device",
+    "D": "A storage device"
+  },
+  "correct_answer": "A",
+  "difficulty": "Easy",
+  "explanation": "A computer is an electronic machine that takes input, processes it and produces output.",
+  "trick": "Computer = Input → Process → Output"
+},
+{
+  "id": 2,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Basics of Computer",
+  "question": "Which of the following is NOT a characteristic of a computer?",
+  "options": {
+    "A": "Speed",
+    "B": "Accuracy",
+    "C": "Intelligence",
+    "D": "Storage"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Computer has no intelligence of its own.",
+  "trick": "Computer follows instructions only"
+},
+{
+  "id": 3,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Basics of Computer",
+  "question": "Who is known as the father of computer?",
+  "options": {
+    "A": "Charles Babbage",
+    "B": "Alan Turing",
+    "C": "Bill Gates",
+    "D": "John Von Neumann"
+  },
+  "correct_answer": "A",
+  "difficulty": "Easy",
+  "explanation": "Charles Babbage designed the Analytical Engine.",
+  "trick": "Babbage = Father"
+},
+{
+  "id": 4,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Types of Computer",
+  "question": "Which type of computer is used for scientific calculations?",
+  "options": {
+    "A": "Analog",
+    "B": "Digital",
+    "C": "Hybrid",
+    "D": "Supercomputer"
+  },
+  "correct_answer": "D",
+  "difficulty": "Easy",
+  "explanation": "Supercomputers are used for complex scientific calculations.",
+  "trick": "Science = Supercomputer"
+},
+{
+  "id": 5,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Data & Information",
+  "question": "Raw facts and figures are called:",
+  "options": {
+    "A": "Information",
+    "B": "Data",
+    "C": "Output",
+    "D": "Processing"
+  },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "Data becomes information after processing.",
+  "trick": "Raw = Data"
+},
+{
+  "id": 6,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Hardware",
+  "question": "Which of the following is an input device?",
+  "options": {
+    "A": "Printer",
+    "B": "Monitor",
+    "C": "Keyboard",
+    "D": "Speaker"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Keyboard is used to input data.",
+  "trick": "Typing = Input"
+},
+{
+  "id": 7,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Hardware",
+  "question": "Which device displays output on screen?",
+  "options": {
+    "A": "Scanner",
+    "B": "Monitor",
+    "C": "Mouse",
+    "D": "Keyboard"
+  },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "Monitor shows visual output.",
+  "trick": "Screen = Monitor"
+},
+{
+  "id": 8,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "CPU",
+  "question": "Which part of CPU performs calculations?",
+  "options": {
+    "A": "CU",
+    "B": "Register",
+    "C": "ALU",
+    "D": "Cache"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "ALU performs arithmetic and logical operations.",
+  "trick": "ALU = Calculate"
+},
+{
+  "id": 9,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Memory",
+  "question": "Which memory is volatile?",
+  "options": {
+    "A": "ROM",
+    "B": "Hard Disk",
+    "C": "RAM",
+    "D": "DVD"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "RAM loses data when power is off.",
+  "trick": "RAM = Temporary"
+},
+{
+  "id": 10,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Memory",
+  "question": "Which memory is permanent?",
+  "options": {
+    "A": "RAM",
+    "B": "Cache",
+    "C": "ROM",
+    "D": "Register"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "ROM stores permanent instructions.",
+  "trick": "ROM = Permanent"
+},
+{
+  "id": 11,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Software",
+  "question": "Which of the following is system software?",
+  "options": {
+    "A": "MS Word",
+    "B": "Windows",
+    "C": "Excel",
+    "D": "Chrome"
+  },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "Windows is an operating system.",
+  "trick": "OS = System software"
+},
+{
+  "id": 12,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Operating System",
+  "question": "Which operating system is developed by Microsoft?",
+  "options": {
+    "A": "Linux",
+    "B": "Unix",
+    "C": "Windows",
+    "D": "Android"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Windows is developed by Microsoft.",
+  "trick": "Microsoft = Windows"
+},
+{
+  "id": 13,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "MS Word",
+  "question": "MS Word is used for:",
+  "options": {
+    "A": "Data analysis",
+    "B": "Presentation",
+    "C": "Document creation",
+    "D": "Internet browsing"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "MS Word is a word processing software.",
+  "trick": "Word = Document"
+},
+{
+  "id": 14,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "MS Excel",
+  "question": "MS Excel is mainly used for:",
+  "options": {
+    "A": "Typing letters",
+    "B": "Calculations and data",
+    "C": "Presentations",
+    "D": "Browsing"
+  },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "Excel is spreadsheet software.",
+  "trick": "Excel = Calculation"
+},
+{
+  "id": 15,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "MS PowerPoint",
+  "question": "PowerPoint is used for:",
+  "options": {
+    "A": "Typing",
+    "B": "Calculations",
+    "C": "Presentations",
+    "D": "Database"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "PowerPoint creates slide presentations.",
+  "trick": "Slides = PPT"
+},
+{
+  "id": 16,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Internet",
+  "question": "WWW stands for:",
+  "options": {
+    "A": "World Web Wide",
+    "B": "Wide World Web",
+    "C": "World Wide Web",
+    "D": "Web World Wide"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "WWW means World Wide Web.",
+  "trick": "Triple W"
+},
+{
+  "id": 17,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Internet",
+  "question": "Which software is used to browse the internet?",
+  "options": {
+    "A": "Browser",
+    "B": "Compiler",
+    "C": "Antivirus",
+    "D": "Driver"
+  },
+  "correct_answer": "A",
+  "difficulty": "Easy",
+  "explanation": "Browser helps access websites.",
+  "trick": "Browse = Browser"
+},
+{
+  "id": 18,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Email",
+  "question": "Which symbol is used in an email address?",
+  "options": {
+    "A": "#",
+    "B": "@",
+    "C": "$",
+    "D": "&"
+  },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "@ is mandatory in email IDs.",
+  "trick": "Email = @"
+},
+{
+  "id": 19,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Cyber Security",
+  "question": "A computer virus is:",
+  "options": {
+    "A": "Hardware problem",
+    "B": "Software that damages data",
+    "C": "Input device",
+    "D": "Operating system"
+  },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "Virus is a harmful program.",
+  "trick": "Virus = Damage"
+},
+{
+  "id": 20,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Cyber Security",
+  "question": "Which software protects a computer from virus?",
+  "options": {
+    "A": "Browser",
+    "B": "Antivirus",
+    "C": "Compiler",
+    "D": "Driver"
+  },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "Antivirus detects and removes viruses.",
+  "trick": "Anti = Against"
+}
+
+,
+{
+  "id": 21,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Hardware",
+  "question": "Which of the following is an output device?",
+  "options": {
+    "A": "Mouse",
+    "B": "Keyboard",
+    "C": "Monitor",
+    "D": "Scanner"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Monitor displays the output on screen.",
+  "trick": "Display = Output"
+},
+{
+  "id": 22,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Hardware",
+  "question": "CPU stands for:",
+  "options": {
+    "A": "Central Process Unit",
+    "B": "Central Processing Unit",
+    "C": "Computer Personal Unit",
+    "D": "Control Processing Unit"
+  },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "CPU means Central Processing Unit.",
+  "trick": "CPU = Brain of computer"
+},
+{
+  "id": 23,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "CPU",
+  "question": "Which part of CPU controls all operations?",
+  "options": {
+    "A": "ALU",
+    "B": "CU",
+    "C": "Register",
+    "D": "Cache"
+  },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "Control Unit directs all operations.",
+  "trick": "CU = Control"
+},
+{
+  "id": 24,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Memory",
+  "question": "1 Kilobyte (KB) equals:",
+  "options": {
+    "A": "100 bytes",
+    "B": "512 bytes",
+    "C": "1024 bytes",
+    "D": "2048 bytes"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "1 KB = 1024 bytes.",
+  "trick": "Binary system = 1024"
+},
+{
+  "id": 25,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Memory",
+  "question": "Which memory is used to store BIOS?",
+  "options": {
+    "A": "RAM",
+    "B": "ROM",
+    "C": "Hard Disk",
+    "D": "Cache"
+  },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "BIOS is stored in ROM.",
+  "trick": "BIOS = ROM"
+},
+{
+  "id": 26,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Software",
+  "question": "Which of the following is application software?",
+  "options": {
+    "A": "Linux",
+    "B": "Windows",
+    "C": "MS Excel",
+    "D": "DOS"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "MS Excel is application software.",
+  "trick": "User work = Application"
+},
+{
+  "id": 27,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Operating System",
+  "question": "Which OS is open-source?",
+  "options": {
+    "A": "Windows",
+    "B": "macOS",
+    "C": "Linux",
+    "D": "MS-DOS"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Linux is open-source.",
+  "trick": "Open-source = Linux"
+},
+{
+  "id": 28,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "MS Word",
+  "question": "Which feature is used to correct spelling mistakes in MS Word?",
+  "options": {
+    "A": "Grammar",
+    "B": "Spell Check",
+    "C": "Auto Format",
+    "D": "Mail Merge"
+  },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "Spell Check identifies spelling errors.",
+  "trick": "Spelling = Spell Check"
+},
+{
+  "id": 29,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "MS Excel",
+  "question": "A worksheet in Excel consists of:",
+  "options": {
+    "A": "Rows only",
+    "B": "Columns only",
+    "C": "Rows and columns",
+    "D": "Pages"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Worksheet has rows and columns.",
+  "trick": "Excel = Table"
+},
+{
+  "id": 30,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "MS PowerPoint",
+  "question": "Each page of a PowerPoint presentation is called:",
+  "options": {
+    "A": "Document",
+    "B": "Slide",
+    "C": "Sheet",
+    "D": "Frame"
+  },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "PowerPoint consists of slides.",
+  "trick": "PPT = Slides"
+},
+{
+  "id": 31,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Internet",
+  "question": "Which protocol is used to transfer web pages?",
+  "options": {
+    "A": "FTP",
+    "B": "SMTP",
+    "C": "HTTP",
+    "D": "POP3"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "HTTP transfers web pages.",
+  "trick": "Web = HTTP"
+},
+{
+  "id": 32,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Internet",
+  "question": "Which is an example of a web browser?",
+  "options": {
+    "A": "Google",
+    "B": "Chrome",
+    "C": "Yahoo",
+    "D": "Gmail"
+  },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "Chrome is a web browser.",
+  "trick": "Browse = Browser"
+},
+{
+  "id": 33,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Email",
+  "question": "Which protocol is used to send emails?",
+  "options": {
+    "A": "POP3",
+    "B": "IMAP",
+    "C": "SMTP",
+    "D": "FTP"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "SMTP sends emails.",
+  "trick": "Send = SMTP"
+},
+{
+  "id": 34,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Email",
+  "question": "Which protocol is used to receive emails?",
+  "options": {
+    "A": "SMTP",
+    "B": "FTP",
+    "C": "POP3",
+    "D": "HTTP"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "POP3 receives emails.",
+  "trick": "Receive = POP3"
+},
+{
+  "id": 35,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Cyber Security",
+  "question": "Unauthorized access to computer data is called:",
+  "options": {
+    "A": "Hacking",
+    "B": "Formatting",
+    "C": "Encryption",
+    "D": "Debugging"
+  },
+  "correct_answer": "A",
+  "difficulty": "Easy",
+  "explanation": "Hacking means illegal access.",
+  "trick": "Illegal access = Hacking"
+},
+{
+  "id": 36,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Cyber Security",
+  "question": "Which of the following is a strong password?",
+  "options": {
+    "A": "12345",
+    "B": "password",
+    "C": "Ab@1234",
+    "D": "name123"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Strong passwords include letters, numbers and symbols.",
+  "trick": "Mix = Strong"
+},
+{
+  "id": 37,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Storage",
+  "question": "Which device is used for long-term data storage?",
+  "options": {
+    "A": "RAM",
+    "B": "Cache",
+    "C": "Hard Disk",
+    "D": "Register"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Hard disk stores data permanently.",
+  "trick": "Permanent = Hard Disk"
+},
+{
+  "id": 38,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Storage",
+  "question": "Which of the following is an optical storage device?",
+  "options": {
+    "A": "Pen Drive",
+    "B": "Hard Disk",
+    "C": "CD",
+    "D": "RAM"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "CD uses laser technology.",
+  "trick": "Laser = Optical"
+},
+{
+  "id": 39,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "File System",
+  "question": "Which key is used to rename a file in Windows?",
+  "options": {
+    "A": "F1",
+    "B": "F2",
+    "C": "F5",
+    "D": "Delete"
+  },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "F2 is used to rename files.",
+  "trick": "Rename = F2"
+},
+{
+  "id": 40,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "File System",
+  "question": "Which key combination is used to copy data?",
+  "options": {
+    "A": "Ctrl + X",
+    "B": "Ctrl + V",
+    "C": "Ctrl + C",
+    "D": "Ctrl + Z"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Ctrl + C copies data.",
+  "trick": "Copy = C"
+},
+{
+  "id": 41,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "File System",
+  "question": "Which key combination is used to paste data?",
+  "options": {
+    "A": "Ctrl + X",
+    "B": "Ctrl + V",
+    "C": "Ctrl + C",
+    "D": "Ctrl + P"
+  },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "Ctrl + V pastes copied data.",
+  "trick": "Paste = V"
+},
+{
+  "id": 42,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Shortcut Keys",
+  "question": "Ctrl + Z is used for:",
+  "options": {
+    "A": "Redo",
+    "B": "Undo",
+    "C": "Save",
+    "D": "Open"
+  },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "Ctrl + Z undoes last action.",
+  "trick": "Z = Undo"
+},
+{
+  "id": 43,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Shortcut Keys",
+  "question": "Ctrl + S is used to:",
+  "options": {
+    "A": "Save",
+    "B": "Search",
+    "C": "Select All",
+    "D": "Share"
+  },
+  "correct_answer": "A",
+  "difficulty": "Easy",
+  "explanation": "Ctrl + S saves the file.",
+  "trick": "S = Save"
+},
+{
+  "id": 44,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Shortcut Keys",
+  "question": "Ctrl + A is used to:",
+  "options": {
+    "A": "Add",
+    "B": "Align",
+    "C": "Select All",
+    "D": "Apply"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Ctrl + A selects all content.",
+  "trick": "A = All"
+},
+{
+  "id": 45,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Networking",
+  "question": "LAN stands for:",
+  "options": {
+    "A": "Large Area Network",
+    "B": "Local Area Network",
+    "C": "Logical Area Network",
+    "D": "Long Area Network"
+  },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "LAN means Local Area Network.",
+  "trick": "Local = LAN"
+},
+{
+  "id": 46,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Networking",
+  "question": "Which device connects two different networks?",
+  "options": {
+    "A": "Hub",
+    "B": "Switch",
+    "C": "Router",
+    "D": "Repeater"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Router connects different networks.",
+  "trick": "Route = Router"
+},
+{
+  "id": 47,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Networking",
+  "question": "Which network covers a large geographical area?",
+  "options": {
+    "A": "LAN",
+    "B": "MAN",
+    "C": "WAN",
+    "D": "PAN"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "WAN covers large areas.",
+  "trick": "Wide = WAN"
+},
+{
+  "id": 48,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Cloud Computing",
+  "question": "Which is an example of cloud storage?",
+  "options": {
+    "A": "Hard Disk",
+    "B": "Pen Drive",
+    "C": "Google Drive",
+    "D": "DVD"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Google Drive is cloud-based storage.",
+  "trick": "Cloud = Online"
+},
+{
+  "id": 49,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Cyber Security",
+  "question": "Which attack steals personal information online?",
+  "options": {
+    "A": "Phishing",
+    "B": "Formatting",
+    "C": "Scanning",
+    "D": "Booting"
+  },
+  "correct_answer": "A",
+  "difficulty": "Easy",
+  "explanation": "Phishing tricks users to steal data.",
+  "trick": "Fake links = Phishing"
+},
+{
+  "id": 50,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Cyber Security",
+  "question": "Which symbol is commonly used in URLs?",
+  "options": {
+    "A": "@",
+    "B": "://",
+    "C": "#",
+    "D": "$"
+  },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "URLs use :// after protocol.",
+  "trick": "http://"
+}
+,
+{
+  "id": 51,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Basics of Computer",
+  "question": "Which of the following is the brain of the computer?",
+  "options": { "A": "RAM", "B": "Hard Disk", "C": "CPU", "D": "Monitor" },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "CPU controls and processes all operations.",
+  "trick": "Brain = CPU"
+},
+{
+  "id": 52,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Basics of Computer",
+  "question": "Which unit performs logical comparisons?",
+  "options": { "A": "CU", "B": "ALU", "C": "RAM", "D": "ROM" },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "ALU performs arithmetic and logical operations.",
+  "trick": "Logic = ALU"
+},
+{
+  "id": 53,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Memory",
+  "question": "Which memory is fastest?",
+  "options": { "A": "RAM", "B": "Hard Disk", "C": "Cache", "D": "ROM" },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Cache memory works closest to CPU.",
+  "trick": "Closest = Fastest"
+},
+{
+  "id": 54,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Memory",
+  "question": "Which memory is non-volatile?",
+  "options": { "A": "RAM", "B": "Cache", "C": "ROM", "D": "Register" },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "ROM does not lose data when power is off.",
+  "trick": "Permanent = ROM"
+},
+{
+  "id": 55,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Hardware",
+  "question": "Which device is used to scan images?",
+  "options": { "A": "Printer", "B": "Scanner", "C": "Plotter", "D": "Speaker" },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "Scanner converts paper data into digital form.",
+  "trick": "Scan = Scanner"
+},
+{
+  "id": 56,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Hardware",
+  "question": "Which device is used for audio output?",
+  "options": { "A": "Microphone", "B": "Speaker", "C": "Scanner", "D": "Keyboard" },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "Speakers produce sound output.",
+  "trick": "Sound = Speaker"
+},
+{
+  "id": 57,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Software",
+  "question": "MS Paint is an example of:",
+  "options": { "A": "System software", "B": "Utility software", "C": "Application software", "D": "Programming software" },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "MS Paint is used by users for drawing.",
+  "trick": "User work = Application"
+},
+{
+  "id": 58,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Operating System",
+  "question": "Which operating system is used in smartphones?",
+  "options": { "A": "Windows", "B": "Linux", "C": "Android", "D": "DOS" },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Android is widely used in smartphones.",
+  "trick": "Mobile = Android"
+},
+{
+  "id": 59,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Operating System",
+  "question": "Which OS was developed by Apple?",
+  "options": { "A": "Linux", "B": "Windows", "C": "Unix", "D": "macOS" },
+  "correct_answer": "D",
+  "difficulty": "Easy",
+  "explanation": "macOS is developed by Apple.",
+  "trick": "Apple = macOS"
+},
+{
+  "id": 60,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "MS Word",
+  "question": "Which feature is used to send the same letter to many people?",
+  "options": { "A": "Spell Check", "B": "Mail Merge", "C": "Auto Correct", "D": "Thesaurus" },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "Mail Merge combines document with address list.",
+  "trick": "Many letters = Mail Merge"
+},
+{
+  "id": 61,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "MS Word",
+  "question": "Which shortcut key is used to make text bold?",
+  "options": { "A": "Ctrl + I", "B": "Ctrl + U", "C": "Ctrl + B", "D": "Ctrl + T" },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Ctrl + B applies bold formatting.",
+  "trick": "B = Bold"
+},
+{
+  "id": 62,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "MS Excel",
+  "question": "Which symbol is used to start a formula in Excel?",
+  "options": { "A": "+", "B": "-", "C": "=", "D": "*" },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "All formulas in Excel start with '='.",
+  "trick": "Formula = '='"
+},
+{
+  "id": 63,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "MS Excel",
+  "question": "A cell in Excel is the intersection of:",
+  "options": { "A": "Rows only", "B": "Columns only", "C": "Row and Column", "D": "Sheet and Chart" },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Cell is formed by row and column.",
+  "trick": "Box = Cell"
+},
+{
+  "id": 64,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "MS PowerPoint",
+  "question": "Which view is used to see all slides together?",
+  "options": { "A": "Slide View", "B": "Normal View", "C": "Slide Sorter View", "D": "Reading View" },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Slide Sorter shows all slides at once.",
+  "trick": "All slides = Sorter"
+},
+{
+  "id": 65,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Internet",
+  "question": "Which search engine is developed by Google?",
+  "options": { "A": "Bing", "B": "Yahoo", "C": "DuckDuckGo", "D": "Google Search" },
+  "correct_answer": "D",
+  "difficulty": "Easy",
+  "explanation": "Google Search is developed by Google.",
+  "trick": "Google = Google Search"
+},
+{
+  "id": 66,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Internet",
+  "question": "What does URL stand for?",
+  "options": { "A": "Uniform Resource Locator", "B": "Universal Resource Link", "C": "Uniform Record Link", "D": "Universal Record Locator" },
+  "correct_answer": "A",
+  "difficulty": "Easy",
+  "explanation": "URL is the address of a webpage.",
+  "trick": "Web address = URL"
+},
+{
+  "id": 67,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Email",
+  "question": "Which field hides email recipients from others?",
+  "options": { "A": "To", "B": "Cc", "C": "Bcc", "D": "Subject" },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Bcc hides recipient addresses.",
+  "trick": "Blind = Bcc"
+},
+{
+  "id": 68,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Cyber Security",
+  "question": "Which is an example of malware?",
+  "options": { "A": "Antivirus", "B": "Firewall", "C": "Trojan Horse", "D": "Browser" },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Trojan is a type of malware.",
+  "trick": "Malicious = Malware"
+},
+{
+  "id": 69,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Cyber Security",
+  "question": "Which protects a network from unauthorized access?",
+  "options": { "A": "Router", "B": "Switch", "C": "Firewall", "D": "Hub" },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Firewall filters incoming and outgoing traffic.",
+  "trick": "Wall = Protection"
+},
+{
+  "id": 70,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Networking",
+  "question": "Which device broadcasts data to all computers?",
+  "options": { "A": "Router", "B": "Switch", "C": "Hub", "D": "Modem" },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Hub sends data to all connected devices.",
+  "trick": "All = Hub"
+},
+{
+  "id": 71,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Networking",
+  "question": "Which device converts digital signals to analog?",
+  "options": { "A": "Router", "B": "Modem", "C": "Switch", "D": "Hub" },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "Modem modulates and demodulates signals.",
+  "trick": "MO-DEM"
+},
+{
+  "id": 72,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Networking",
+  "question": "What is the full form of MAN?",
+  "options": { "A": "Main Area Network", "B": "Medium Area Network", "C": "Metropolitan Area Network", "D": "Multiple Area Network" },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "MAN covers a city.",
+  "trick": "Metro = MAN"
+},
+{
+  "id": 73,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Storage",
+  "question": "Which storage device is portable?",
+  "options": { "A": "Hard Disk", "B": "Pen Drive", "C": "ROM", "D": "Cache" },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "Pen drive is small and portable.",
+  "trick": "Carry = Pen Drive"
+},
+{
+  "id": 74,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Storage",
+  "question": "1 Gigabyte (GB) equals:",
+  "options": { "A": "512 MB", "B": "1000 MB", "C": "1024 MB", "D": "2048 MB" },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "1 GB = 1024 MB.",
+  "trick": "Binary = 1024"
+},
+{
+  "id": 75,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "File System",
+  "question": "Which file extension is used for MS Word?",
+  "options": { "A": ".xls", "B": ".ppt", "C": ".docx", "D": ".pdf" },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": ".docx is Word document format.",
+  "trick": "Word = docx"
+},
+{
+  "id": 76,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "File System",
+  "question": "Recycle Bin stores:",
+  "options": { "A": "Permanent files", "B": "Deleted files", "C": "System files", "D": "Hidden files" },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "Deleted files go to Recycle Bin.",
+  "trick": "Delete = Bin"
+},
+{
+  "id": 77,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Shortcut Keys",
+  "question": "Ctrl + P is used for:",
+  "options": { "A": "Paste", "B": "Print", "C": "Preview", "D": "Page Setup" },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "Ctrl + P opens print dialog.",
+  "trick": "P = Print"
+},
+{
+  "id": 78,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Shortcut Keys",
+  "question": "Alt + F4 is used to:",
+  "options": { "A": "Restart computer", "B": "Close current window", "C": "Open task manager", "D": "Minimize window" },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "Alt + F4 closes the active window.",
+  "trick": "Exit = Alt+F4"
+},
+{
+  "id": 79,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Shortcut Keys",
+  "question": "Ctrl + Shift + Esc opens:",
+  "options": { "A": "Control Panel", "B": "Task Manager", "C": "Run Dialog", "D": "File Explorer" },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "This shortcut directly opens Task Manager.",
+  "trick": "Emergency = Task Manager"
+},
+{
+  "id": 80,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Cloud Computing",
+  "question": "Cloud computing means:",
+  "options": {
+    "A": "Storing data online",
+    "B": "Using computer without internet",
+    "C": "Using CD",
+    "D": "Using printer"
+  },
+  "correct_answer": "A",
+  "difficulty": "Easy",
+  "explanation": "Cloud services are accessed via internet.",
+  "trick": "Online = Cloud"
+},
+{
+  "id": 81,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Cyber Security",
+  "question": "Two-step verification improves:",
+  "options": { "A": "Speed", "B": "Security", "C": "Storage", "D": "Memory" },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "It adds an extra security layer.",
+  "trick": "Two steps = Safer"
+},
+{
+  "id": 82,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Cyber Security",
+  "question": "Which is safe internet practice?",
+  "options": {
+    "A": "Sharing OTP",
+    "B": "Using strong password",
+    "C": "Clicking unknown links",
+    "D": "Ignoring updates"
+  },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "Strong passwords improve security.",
+  "trick": "Strong = Safe"
+},
+{
+  "id": 83,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Basics of Computer",
+  "question": "Computer works on which number system?",
+  "options": { "A": "Decimal", "B": "Octal", "C": "Binary", "D": "Hexadecimal" },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Computer understands binary (0 and 1).",
+  "trick": "0–1 = Binary"
+},
+{
+  "id": 84,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Basics of Computer",
+  "question": "Binary number system uses how many digits?",
+  "options": { "A": "2", "B": "4", "C": "8", "D": "10" },
+  "correct_answer": "A",
+  "difficulty": "Easy",
+  "explanation": "Binary uses 0 and 1.",
+  "trick": "Bi = 2"
+},
+{
+  "id": 85,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Programming",
+  "question": "Which language is machine dependent?",
+  "options": { "A": "C", "B": "Java", "C": "Python", "D": "Machine Language" },
+  "correct_answer": "D",
+  "difficulty": "Easy",
+  "explanation": "Machine language depends on hardware.",
+  "trick": "Machine = Machine language"
+},
+{
+  "id": 86,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Programming",
+  "question": "Which language is known as high-level language?",
+  "options": { "A": "Machine", "B": "Assembly", "C": "Python", "D": "Binary" },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Python is user-friendly high-level language.",
+  "trick": "Human-friendly = High-level"
+},
+{
+  "id": 87,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Basics of Computer",
+  "question": "Which unit converts input into output?",
+  "options": { "A": "CPU", "B": "ALU", "C": "CU", "D": "Monitor" },
+  "correct_answer": "A",
+  "difficulty": "Easy",
+  "explanation": "CPU processes input into output.",
+  "trick": "Process = CPU"
+},
+{
+  "id": 88,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Storage",
+  "question": "Which storage has highest capacity?",
+  "options": { "A": "CD", "B": "DVD", "C": "Blu-ray", "D": "Hard Disk" },
+  "correct_answer": "D",
+  "difficulty": "Easy",
+  "explanation": "Hard disk stores large amounts of data.",
+  "trick": "Largest = HDD"
+},
+{
+  "id": 89,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Internet",
+  "question": "Which protocol is used for secure web browsing?",
+  "options": { "A": "HTTP", "B": "FTP", "C": "HTTPS", "D": "SMTP" },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "HTTPS provides secure communication.",
+  "trick": "Secure = HTTPS"
+},
+{
+  "id": 90,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Internet",
+  "question": "What is the full form of ISP?",
+  "options": {
+    "A": "Internet Service Provider",
+    "B": "Internal Service Provider",
+    "C": "International Service Provider",
+    "D": "Internet System Provider"
+  },
+  "correct_answer": "A",
+  "difficulty": "Easy",
+  "explanation": "ISP provides internet services.",
+  "trick": "Internet = ISP"
+},
+{
+  "id": 91,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Email",
+  "question": "Email attachment means:",
+  "options": {
+    "A": "Address",
+    "B": "Subject",
+    "C": "File sent with email",
+    "D": "Signature"
+  },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Attachment is a file sent with email.",
+  "trick": "Attach = File"
+},
+{
+  "id": 92,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Cyber Security",
+  "question": "Which software removes viruses?",
+  "options": { "A": "Browser", "B": "Firewall", "C": "Antivirus", "D": "Driver" },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Antivirus removes malware.",
+  "trick": "Anti = Against"
+},
+{
+  "id": 93,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Shortcut Keys",
+  "question": "Ctrl + F is used to:",
+  "options": { "A": "Find", "B": "Format", "C": "Forward", "D": "Font" },
+  "correct_answer": "A",
+  "difficulty": "Easy",
+  "explanation": "Ctrl + F searches text.",
+  "trick": "F = Find"
+},
+{
+  "id": 94,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Shortcut Keys",
+  "question": "Ctrl + O is used to:",
+  "options": { "A": "Open", "B": "Close", "C": "Save", "D": "Print" },
+  "correct_answer": "A",
+  "difficulty": "Easy",
+  "explanation": "Ctrl + O opens files.",
+  "trick": "O = Open"
+},
+{
+  "id": 95,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "File System",
+  "question": "Which extension is used for Excel files?",
+  "options": { "A": ".docx", "B": ".xlsx", "C": ".pptx", "D": ".txt" },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": ".xlsx is Excel file format.",
+  "trick": "Excel = xlsx"
+},
+{
+  "id": 96,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "File System",
+  "question": "Which extension is used for PowerPoint files?",
+  "options": { "A": ".docx", "B": ".xlsx", "C": ".pptx", "D": ".pdf" },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": ".pptx is PowerPoint format.",
+  "trick": "PPT = pptx"
+},
+{
+  "id": 97,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Cloud Computing",
+  "question": "Which service is cloud-based email?",
+  "options": { "A": "MS Word", "B": "Gmail", "C": "Notepad", "D": "Paint" },
+  "correct_answer": "B",
+  "difficulty": "Easy",
+  "explanation": "Gmail is accessed via internet.",
+  "trick": "Mail online = Gmail"
+},
+{
+  "id": 98,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Basics of Computer",
+  "question": "Which of the following is NOT hardware?",
+  "options": { "A": "Mouse", "B": "Keyboard", "C": "Monitor", "D": "Windows" },
+  "correct_answer": "D",
+  "difficulty": "Easy",
+  "explanation": "Windows is software.",
+  "trick": "Touchable = Hardware"
+},
+{
+  "id": 99,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Basics of Computer",
+  "question": "Which device is used to point and click?",
+  "options": { "A": "Keyboard", "B": "Scanner", "C": "Mouse", "D": "Printer" },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "Mouse is a pointing device.",
+  "trick": "Point = Mouse"
+},
+{
+  "id": 100,
+  "exam": "Delhi Police Constable",
+  "subject": "Computer Fundamentals",
+  "topic": "Basics of Computer",
+  "question": "Which unit stores instructions temporarily?",
+  "options": { "A": "ROM", "B": "Hard Disk", "C": "RAM", "D": "DVD" },
+  "correct_answer": "C",
+  "difficulty": "Easy",
+  "explanation": "RAM temporarily stores running instructions.",
+  "trick": "Temporary = RAM"
+}
+
+
+]
