@@ -1,1 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Padam Singh</title>
+
+  <!-- Tailwind CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- Feather Icons -->
+  <script src="https://unpkg.com/feather-icons"></script>
+
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            primary: "#2563eb",
+            secondary: "#1e40af"
+          }
+        }
+      }
+    }
+  </script>
+</head>
+
+<body class="bg-gray-100 h-screen overflow-hidden">
+
+<!-- ===== Overlay (mobile) ===== -->
+<div
+  id="sidebarOverlay"
+  class="fixed inset-0 bg-black/40 z-30 hidden md:hidden"
+  onclick="toggleSidebar()"
+></div>
+
+<!-- ===== Main Layout ===== -->
+<div class="flex h-full">
+
+  <!-- ===== Sidebar ===== -->
+  <aside
+    id="sidebar"
+    class="fixed md:static inset-y-0 left-0 z-40 w-72
+           bg-white border-r shadow-lg p-4
+           transform -translate-x-full md:translate-x-0
+           transition-transform duration-300"
+  >
+
+    <!-- Logo -->
+    <div class="mb-6">
+      <h1 class="text-xl font-bold text-primary flex items-center gap-2">
+        <i data-feather="book"></i> MCQ Portal | Padam Singh
+      </h1>
+    </div>
+
+    <!-- Subjects -->
+    <div class="mb-6">
+      <h2 class="font-semibold text-gray-700 mb-3">Subjects</h2>
+
+      <div class="space-y-3">
+        <ul>
+                        <li class="mb-2">
+                           <button class="subject-btn flex items-center px-3 py-2 rounded-lg
+           text-gray-700
+           transition-all duration-200
+           hover:bg-gray-100 hover:text-gray-900" onclick="selectSubject(this); loadMCQ('computer.json')">
+          Computer
+        </button>
+                        </li>
+                        <li class="mb-2">
+                            <button class="subject-btn flex items-center px-3 py-2 rounded-lg
+           text-gray-700
+           transition-all duration-200
+           hover:bg-gray-100 hover:text-gray-900" onclick="selectSubject(this); loadMCQ('gk.json')">
+          GK / CA
+        </button>
+                        </li>
+                        <li class="mb-2">
+                          <button class="subject-btn flex items-center px-3 py-2 rounded-lg
+           text-gray-700
+           transition-all duration-200
+           hover:bg-gray-100 hover:text-gray-900" onclick="selectSubject(this); loadMCQ('maths.json')">
+          Maths
+        </button>
+                        </li>
+                        <li class="mb-2">
+                          <button class="subject-btn flex items-center px-3 py-2 rounded-lg
+           text-gray-700
+           transition-all duration-200
+           hover:bg-gray-100 hover:text-gray-900" onclick="selectSubject(this); loadMCQ('reasoning.json')">
+          Reasoning
+        </button>
+                        </li>
+
+        </ul>
+        
+      
+      </div>
+    </div>
+
+    <!-- Language -->
+    <div>
+      <h2 class="font-semibold text-gray-700 mb-2">Language</h2>
+      <div
+        id="google_translate_element"
+        class="bg-gray-50 border rounded-lg shadow px-3 py-2 text-sm"
+      ></div>
+    </div>
+
+     <!-- Social Links -->
+  <h2 class="font-semibold text-gray-700 mb-2">Connect</h2>
+  <ul class="space-y-2">
+    <li>
+      <a
+        href="https://www.linkedin.com/in/mrpadamsingh/"
+        target="_blank"
+        class="flex items-center px-3 py-2 rounded-lg
+               text-gray-700 transition-all duration-200
+               hover:bg-gray-100 hover:shadow-md"
+      >
+        <i data-feather="linkedin" class="mr-2"></i>
+        LinkedIn
+      </a>
+    </li>
+
+    <li>
+      <a
+        href="http://github.com/mrPADAMSINGH/"
+        target="_blank"
+        class="flex items-center px-3 py-2 rounded-lg
+               text-gray-700 transition-all duration-200
+               hover:bg-gray-100 hover:shadow-md"
+      >
+        <i data-feather="github" class="mr-2"></i>
+        GitHub
+      </a>
+    </li>
+  </ul>
+
+  </aside>
+
+  <!-- ===== Right Content ===== -->
+  <div class="flex-1 flex flex-col">
+
+    <!-- Header -->
+    <header class="bg-white shadow-sm px-4 py-3 flex items-center gap-3">
+      <!-- Hamburger -->
+      <button
+        class="md:hidden p-2 rounded-lg hover:bg-gray-100"
+        onclick="toggleSidebar()"
+      >
+        <i data-feather="menu"></i>
+      </button>
+
+      <h2 class="text-lg font-semibold text-gray-800">
+        MCQ Practice
+      </h2>
+    </header>
+
+    <!-- Content -->
+    <main class="flex-1 p-6 bg-gradient-to-br from-gray-100 to-gray-200 overflow-hidden">
+
+      <!-- MCQ Box -->
+      <div class="bg-white/90 backdrop-blur-md rounded-xl shadow-xl h-full p-6 overflow-hidden">
+
+        <!-- Scrollable MCQs -->
+        <div
+          id="mcq-container"
+          class="h-full overflow-y-auto pr-3 space-y-4"
+        >
+          <div class="text-center text-gray-500 mt-20 text-xl font-medium tracking-wide
+">
+            Select a subject from the left panel to start practice
+          </div>
+        </div>
+
+      </div>
+    </main>
+
+  </div>
+</div>
+
+<!-- ===== Footer ===== -->
+<!-- <footer class="bg-white text-center text-sm text-gray-500 py-2 border-t">
+  © 2025 MCQ Practice Portal • Exam Ready
+</footer> -->
+
+<!-- ===== Inline Tailwind Styles ===== -->
+<style>
+  .subject-btn {
+    @apply w-full text-left px-4 py-3
+           border border-gray-300 rounded-lg
+           bg-white cursor-pointer
+           transition-all duration-200
+           hover:bg-gray-100 hover:shadow-md;
+  }
+
+  .subject-btn-active {
+    @apply bg-primary text-white border-primary shadow-lg;
+  }
+</style>
+
+<!-- ===== Scripts ===== -->
+<script>
+  function toggleSidebar() {
+    document.getElementById("sidebar").classList.toggle("-translate-x-full");
+    document.getElementById("sidebarOverlay").classList.toggle("hidden");
+  }
+
+  function selectSubject(btn) {
+    document
+      .querySelectorAll(".subject-btn")
+      .forEach(b => b.classList.remove("subject-btn-active"));
+    btn.classList.add("subject-btn-active");
+
+    // auto close sidebar on mobile
+    if (window.innerWidth < 768) toggleSidebar();
+  }
+
+  feather.replace();
+</script>
+
+<!-- Google Translate -->
+<script>
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement(
+      { pageLanguage: 'en' },
+      'google_translate_element'
+    );
+  }
+</script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<!-- Your MCQ JS -->
+<script src="script.js"></script>
+
+</body>
+</html>
 
