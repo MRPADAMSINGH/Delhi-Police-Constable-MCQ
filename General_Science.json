@@ -1,0 +1,5773 @@
+[
+  {
+    "id": 1,
+    "exam": "Delhi Police Head Constable",
+    "subject": "General Science",
+    "topic": "Physics – Motion",
+    "question_type": "Previous Year Based",
+    "question": "What is the SI unit of speed?",
+    "options": {
+      "A": "Meter",
+      "B": "Meter per second",
+      "C": "Kilogram",
+      "D": "Second"
+    },
+    "correct_answer": "B",
+    "correct_option_text": "Meter per second",
+    "difficulty": "Easy",
+    "explanation_step_by_step": [
+      "Speed = Distance / Time",
+      "SI unit of distance is meter",
+      "SI unit of time is second",
+      "Therefore, SI unit of speed is meter per second"
+    ],
+    "trick": "Speed = m/s",
+    "exam_tip": "Very basic and frequently asked unit question"
+  },
+  {
+    "id": 2,
+    "exam": "Delhi Police Head Constable",
+    "subject": "General Science",
+    "topic": "Physics – Force",
+    "question_type": "Repeated",
+    "question": "Which law of motion gives the definition of force?",
+    "options": {
+      "A": "First law of motion",
+      "B": "Second law of motion",
+      "C": "Third law of motion",
+      "D": "Law of gravitation"
+    },
+    "correct_answer": "B",
+    "correct_option_text": "Second law of motion",
+    "difficulty": "Easy",
+    "explanation_step_by_step": [
+      "Newton’s Second Law states that Force = mass × acceleration",
+      "It mathematically defines force"
+    ],
+    "trick": "Force = m × a → Second law",
+    "exam_tip": "Common MCQ in SSC and Police exams"
+  },
+  {
+    "id": 3,
+    "exam": "Delhi Police Head Constable",
+    "subject": "General Science",
+    "topic": "Physics – Gravitation",
+    "question_type": "Previous Year Based",
+    "question": "Who discovered the law of gravitation?",
+    "options": {
+      "A": "Albert Einstein",
+      "B": "Galileo",
+      "C": "Isaac Newton",
+      "D": "James Watt"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "Isaac Newton",
+    "difficulty": "Easy",
+    "explanation_step_by_step": [
+      "Law of gravitation explains attraction between masses",
+      "It was given by Sir Isaac Newton"
+    ],
+    "trick": "Gravity = Newton",
+    "exam_tip": "Direct factual question"
+  },
+  {
+    "id": 4,
+    "exam": "Delhi Police Head Constable",
+    "subject": "General Science",
+    "topic": "Physics – Heat",
+    "question_type": "Repeated",
+    "question": "What is the SI unit of temperature?",
+    "options": {
+      "A": "Celsius",
+      "B": "Fahrenheit",
+      "C": "Kelvin",
+      "D": "Joule"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "Kelvin",
+    "difficulty": "Easy",
+    "explanation_step_by_step": [
+      "Temperature measures degree of hotness",
+      "SI unit of temperature is Kelvin"
+    ],
+    "trick": "SI temperature = K",
+    "exam_tip": "Frequently repeated unit question"
+  },
+  {
+    "id": 5,
+    "exam": "Delhi Police Head Constable",
+    "subject": "General Science",
+    "topic": "Physics – Sound",
+    "question_type": "Previous Year Based",
+    "question": "Sound cannot travel through which medium?",
+    "options": {
+      "A": "Solid",
+      "B": "Liquid",
+      "C": "Gas",
+      "D": "Vacuum"
+    },
+    "correct_answer": "D",
+    "correct_option_text": "Vacuum",
+    "difficulty": "Easy",
+    "explanation_step_by_step": [
+      "Sound requires a material medium",
+      "Vacuum has no particles",
+      "Therefore, sound cannot travel in vacuum"
+    ],
+    "trick": "No medium = no sound",
+    "exam_tip": "Classic physics MCQ"
+  },
+  {
+    "id": 6,
+    "exam": "Delhi Police Head Constable",
+    "subject": "General Science",
+    "topic": "Physics – Electricity",
+    "question_type": "Repeated",
+    "question": "What is the SI unit of electric current?",
+    "options": {
+      "A": "Volt",
+      "B": "Ampere",
+      "C": "Ohm",
+      "D": "Watt"
+    },
+    "correct_answer": "B",
+    "correct_option_text": "Ampere",
+    "difficulty": "Easy",
+    "explanation_step_by_step": [
+      "Electric current is the flow of charge",
+      "SI unit of current is Ampere"
+    ],
+    "trick": "Current = Ampere",
+    "exam_tip": "Very basic electricity question"
+  },
+  {
+    "id": 7,
+    "exam": "Delhi Police Head Constable",
+    "subject": "General Science",
+    "topic": "Physics – Magnetism",
+    "question_type": "Previous Year Based",
+    "question": "Which metal is attracted by a magnet?",
+    "options": {
+      "A": "Copper",
+      "B": "Aluminium",
+      "C": "Iron",
+      "D": "Silver"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "Iron",
+    "difficulty": "Easy",
+    "explanation_step_by_step": [
+      "Magnetic materials include iron, cobalt and nickel",
+      "Iron is most commonly attracted"
+    ],
+    "trick": "Magnet loves Iron",
+    "exam_tip": "Common magnetism MCQ"
+  },
+  {
+    "id": 8,
+    "exam": "Delhi Police Head Constable",
+    "subject": "General Science",
+    "topic": "Chemistry – Matter",
+    "question_type": "Repeated",
+    "question": "Which of the following is a physical change?",
+    "options": {
+      "A": "Burning of paper",
+      "B": "Rusting of iron",
+      "C": "Melting of ice",
+      "D": "Cooking of food"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "Melting of ice",
+    "difficulty": "Easy",
+    "explanation_step_by_step": [
+      "Physical change does not form a new substance",
+      "Ice remains water after melting"
+    ],
+    "trick": "State change = Physical",
+    "exam_tip": "Very common chemistry question"
+  },
+  {
+    "id": 9,
+    "exam": "Delhi Police Head Constable",
+    "subject": "General Science",
+    "topic": "Chemistry – Acids",
+    "question_type": "Previous Year Based",
+    "question": "Which acid is present in lemon?",
+    "options": {
+      "A": "Acetic acid",
+      "B": "Citric acid",
+      "C": "Sulphuric acid",
+      "D": "Hydrochloric acid"
+    },
+    "correct_answer": "B",
+    "correct_option_text": "Citric acid",
+    "difficulty": "Easy",
+    "explanation_step_by_step": [
+      "Lemon tastes sour due to citric acid",
+      "Citric acid is a natural organic acid"
+    ],
+    "trick": "Citrus → Citric",
+    "exam_tip": "Frequently asked chemistry of daily life"
+  },
+  {
+    "id": 10,
+    "exam": "Delhi Police Head Constable",
+    "subject": "General Science",
+    "topic": "Chemistry – Elements",
+    "question_type": "Repeated",
+    "question": "What is the chemical symbol of Sodium?",
+    "options": {
+      "A": "So",
+      "B": "Na",
+      "C": "S",
+      "D": "Sn"
+    },
+    "correct_answer": "B",
+    "correct_option_text": "Na",
+    "difficulty": "Easy",
+    "explanation_step_by_step": [
+      "Sodium comes from Latin word Natrium",
+      "Hence its symbol is Na"
+    ],
+    "trick": "Sodium = Na",
+    "exam_tip": "Very basic element-symbol question"
+  }
+  ,
+{
+  "id": 11,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Pressure",
+  "question_type": "Previous Year Based",
+  "question": "What is the SI unit of pressure?",
+  "options": {
+    "A": "Newton",
+    "B": "Pascal",
+    "C": "Joule",
+    "D": "Watt"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Pascal",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Pressure = Force / Area",
+    "SI unit of force is Newton",
+    "SI unit of area is square meter",
+    "Hence SI unit of pressure is Pascal"
+  ],
+  "trick": "Pressure = Pascal",
+  "exam_tip": "Very common unit-based question"
+},
+{
+  "id": 12,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Work & Energy",
+  "question_type": "Repeated",
+  "question": "What is the SI unit of work?",
+  "options": {
+    "A": "Watt",
+    "B": "Newton",
+    "C": "Joule",
+    "D": "Pascal"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Joule",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Work is done when force causes displacement",
+    "SI unit of work is Joule"
+  ],
+  "trick": "Work = Joule",
+  "exam_tip": "Basic physics formula-based MCQ"
+},
+{
+  "id": 13,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Heat",
+  "question_type": "Previous Year Based",
+  "question": "Which device is used to measure temperature?",
+  "options": {
+    "A": "Barometer",
+    "B": "Thermometer",
+    "C": "Ammeter",
+    "D": "Hygrometer"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Thermometer",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Temperature indicates hotness or coldness",
+    "Thermometer is used to measure temperature"
+  ],
+  "trick": "Temp → Thermometer",
+  "exam_tip": "Frequently asked instrument-based question"
+},
+{
+  "id": 14,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Light",
+  "question_type": "Repeated",
+  "question": "Which mirror is used as a rear-view mirror in vehicles?",
+  "options": {
+    "A": "Concave mirror",
+    "B": "Convex mirror",
+    "C": "Plane mirror",
+    "D": "Cylindrical mirror"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Convex mirror",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Convex mirror provides a wider field of view",
+    "Images formed are erect and diminished"
+  ],
+  "trick": "Wide view → Convex",
+  "exam_tip": "Very common optics question"
+},
+{
+  "id": 15,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Electricity",
+  "question_type": "Previous Year Based",
+  "question": "Which law gives the relation between current, voltage and resistance?",
+  "options": {
+    "A": "Newton’s Law",
+    "B": "Faraday’s Law",
+    "C": "Ohm’s Law",
+    "D": "Coulomb’s Law"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Ohm’s Law",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Ohm’s Law states V = IR",
+    "It relates voltage, current and resistance"
+  ],
+  "trick": "V = IR → Ohm",
+  "exam_tip": "Very important law-based MCQ"
+},
+{
+  "id": 16,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Matter",
+  "question_type": "Repeated",
+  "question": "Which state of matter has a definite volume but no definite shape?",
+  "options": {
+    "A": "Solid",
+    "B": "Liquid",
+    "C": "Gas",
+    "D": "Plasma"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Liquid",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Liquids have fixed volume",
+    "They take the shape of the container"
+  ],
+  "trick": "Fixed volume, flexible shape = Liquid",
+  "exam_tip": "Basic concept of states of matter"
+},
+{
+  "id": 17,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Acids & Bases",
+  "question_type": "Previous Year Based",
+  "question": "Which acid is present in the human stomach?",
+  "options": {
+    "A": "Sulphuric acid",
+    "B": "Acetic acid",
+    "C": "Hydrochloric acid",
+    "D": "Nitric acid"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Hydrochloric acid",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Stomach secretes acid for digestion",
+    "The acid present is Hydrochloric acid"
+  ],
+  "trick": "Stomach = HCl",
+  "exam_tip": "Very common biology-chemistry question"
+},
+{
+  "id": 18,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Elements",
+  "question_type": "Repeated",
+  "question": "Which element has atomic number 1?",
+  "options": {
+    "A": "Helium",
+    "B": "Hydrogen",
+    "C": "Oxygen",
+    "D": "Nitrogen"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Hydrogen",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Atomic number represents number of protons",
+    "Hydrogen has 1 proton"
+  ],
+  "trick": "1 = Hydrogen",
+  "exam_tip": "Very basic atomic structure question"
+},
+{
+  "id": 19,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Chemical Reactions",
+  "question_type": "Previous Year Based",
+  "question": "Rusting of iron is an example of which type of reaction?",
+  "options": {
+    "A": "Combination reaction",
+    "B": "Decomposition reaction",
+    "C": "Oxidation reaction",
+    "D": "Neutralization reaction"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Oxidation reaction",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Rusting involves reaction with oxygen",
+    "Addition of oxygen is oxidation"
+  ],
+  "trick": "Rust = Oxidation",
+  "exam_tip": "Frequently asked reaction-type question"
+},
+{
+  "id": 20,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Everyday Life",
+  "question_type": "Repeated",
+  "question": "Which gas is filled in LPG cylinders?",
+  "options": {
+    "A": "Methane",
+    "B": "Butane and Propane",
+    "C": "Ethane",
+    "D": "Carbon dioxide"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Butane and Propane",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "LPG stands for Liquefied Petroleum Gas",
+    "It mainly contains butane and propane"
+  ],
+  "trick": "LPG = Propane + Butane",
+  "exam_tip": "Very common daily life chemistry question"
+},
+{
+  "id": 21,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Sound",
+  "question_type": "Previous Year Based",
+  "question": "What is the unit of frequency?",
+  "options": {
+    "A": "Decibel",
+    "B": "Hertz",
+    "C": "Watt",
+    "D": "Ampere"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Hertz",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Frequency means number of oscillations per second",
+    "Its SI unit is Hertz"
+  ],
+  "trick": "Frequency = Hz",
+  "exam_tip": "Frequently asked in sound chapter"
+},
+{
+  "id": 22,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Electronics",
+  "question_type": "Repeated",
+  "question": "Which device converts AC to DC?",
+  "options": {
+    "A": "Transformer",
+    "B": "Rectifier",
+    "C": "Amplifier",
+    "D": "Generator"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Rectifier",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "AC is alternating current",
+    "Rectifier converts AC into DC"
+  ],
+  "trick": "AC → DC = Rectifier",
+  "exam_tip": "Important electronics MCQ"
+},
+{
+  "id": 23,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Electrochemistry",
+  "question_type": "Previous Year Based",
+  "question": "Which electrode is positively charged in an electrolytic cell?",
+  "options": {
+    "A": "Cathode",
+    "B": "Anode",
+    "C": "Neutral electrode",
+    "D": "Both A and B"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Anode",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "In electrolytic cell, anode is connected to positive terminal",
+    "Hence anode is positively charged"
+  ],
+  "trick": "Electrolytic → Anode +",
+  "exam_tip": "Often confused, but important"
+},
+{
+  "id": 24,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Measurement",
+  "question_type": "Repeated",
+  "question": "Which instrument is used to measure electric current?",
+  "options": {
+    "A": "Voltmeter",
+    "B": "Ammeter",
+    "C": "Ohmmeter",
+    "D": "Galvanometer"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Ammeter",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Electric current is measured in amperes",
+    "Ammeter measures electric current"
+  ],
+  "trick": "Ampere → Ammeter",
+  "exam_tip": "Very common instrument-based MCQ"
+},
+{
+  "id": 25,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Acids & Bases",
+  "question_type": "Previous Year Based",
+  "question": "Which substance turns blue litmus red?",
+  "options": {
+    "A": "Base",
+    "B": "Salt",
+    "C": "Acid",
+    "D": "Neutral solution"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Acid",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Acids change blue litmus to red",
+    "Bases change red litmus to blue"
+  ],
+  "trick": "Blue → Red = Acid",
+  "exam_tip": "Basic acid-base property question"
+}
+,
+{
+  "id": 26,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Motion",
+  "question_type": "Previous Year Based",
+  "question": "What does the slope of a distance-time graph represent?",
+  "options": {
+    "A": "Acceleration",
+    "B": "Speed",
+    "C": "Distance",
+    "D": "Time"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Speed",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Slope means change in distance divided by change in time",
+    "Distance / Time gives speed"
+  ],
+  "trick": "d–t graph slope = Speed",
+  "exam_tip": "Graph-based questions are common in SSC exams"
+},
+{
+  "id": 27,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Laws of Motion",
+  "question_type": "Repeated",
+  "question": "Newton’s third law of motion states that:",
+  "options": {
+    "A": "Force is mass times acceleration",
+    "B": "Every action has an equal and opposite reaction",
+    "C": "Body remains at rest unless acted upon",
+    "D": "Momentum is conserved"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Every action has an equal and opposite reaction",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Newton’s third law explains interaction forces",
+    "Action and reaction are equal and opposite"
+  ],
+  "trick": "Action = Reaction",
+  "exam_tip": "Very frequently repeated law-based MCQ"
+},
+{
+  "id": 28,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Gravitation",
+  "question_type": "Previous Year Based",
+  "question": "The value of acceleration due to gravity on Earth is approximately:",
+  "options": {
+    "A": "8.9 m/s²",
+    "B": "9.8 m/s²",
+    "C": "10.8 m/s²",
+    "D": "9.0 m/s²"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "9.8 m/s²",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Acceleration due to gravity is denoted by g",
+    "Its approximate value on Earth is 9.8 m/s²"
+  ],
+  "trick": "g ≈ 9.8",
+  "exam_tip": "Standard numerical value asked many times"
+},
+{
+  "id": 29,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Heat",
+  "question_type": "Repeated",
+  "question": "Heat is transferred from one body to another due to difference in:",
+  "options": {
+    "A": "Pressure",
+    "B": "Density",
+    "C": "Temperature",
+    "D": "Volume"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Temperature",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Heat flows from higher temperature to lower temperature",
+    "Temperature difference causes heat transfer"
+  ],
+  "trick": "Heat flows due to temperature difference",
+  "exam_tip": "Basic heat concept frequently tested"
+},
+{
+  "id": 30,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Electricity",
+  "question_type": "Previous Year Based",
+  "question": "Which material is a good conductor of electricity?",
+  "options": {
+    "A": "Rubber",
+    "B": "Glass",
+    "C": "Copper",
+    "D": "Plastic"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Copper",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Conductors allow electric current to pass",
+    "Copper is widely used due to high conductivity"
+  ],
+  "trick": "Best conductor → Copper",
+  "exam_tip": "Very common conductor–insulator question"
+},
+{
+  "id": 31,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Magnetism",
+  "question_type": "Repeated",
+  "question": "Which pole of a magnet points towards the geographic north?",
+  "options": {
+    "A": "South pole",
+    "B": "Magnetic south pole",
+    "C": "North pole",
+    "D": "Neutral pole"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "North pole",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "A freely suspended magnet aligns north–south",
+    "The north pole points towards geographic north"
+  ],
+  "trick": "North seeks North",
+  "exam_tip": "Basic magnet property"
+},
+{
+  "id": 32,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Light",
+  "question_type": "Previous Year Based",
+  "question": "The bending of light when it passes from one medium to another is called:",
+  "options": {
+    "A": "Reflection",
+    "B": "Diffraction",
+    "C": "Refraction",
+    "D": "Dispersion"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Refraction",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Light changes direction when it changes medium",
+    "This phenomenon is called refraction"
+  ],
+  "trick": "Medium change → Refraction",
+  "exam_tip": "Very common optics MCQ"
+},
+{
+  "id": 33,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Sound",
+  "question_type": "Repeated",
+  "question": "Sound waves are:",
+  "options": {
+    "A": "Transverse waves",
+    "B": "Electromagnetic waves",
+    "C": "Longitudinal waves",
+    "D": "Stationary waves"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Longitudinal waves",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Particles vibrate parallel to direction of sound",
+    "Hence sound waves are longitudinal"
+  ],
+  "trick": "Sound = Longitudinal",
+  "exam_tip": "Frequently repeated wave question"
+},
+{
+  "id": 34,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Matter",
+  "question_type": "Previous Year Based",
+  "question": "Which state of matter has neither definite shape nor definite volume?",
+  "options": {
+    "A": "Solid",
+    "B": "Liquid",
+    "C": "Gas",
+    "D": "Plasma"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Gas",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Gases spread to fill the container",
+    "They have no fixed shape or volume"
+  ],
+  "trick": "No shape + no volume = Gas",
+  "exam_tip": "Very basic state of matter question"
+},
+{
+  "id": 35,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Elements",
+  "question_type": "Repeated",
+  "question": "Which metal is liquid at room temperature?",
+  "options": {
+    "A": "Sodium",
+    "B": "Mercury",
+    "C": "Lead",
+    "D": "Aluminium"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Mercury",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Mercury remains liquid at room temperature",
+    "It is used in thermometers"
+  ],
+  "trick": "Liquid metal = Mercury",
+  "exam_tip": "Frequently asked static chemistry question"
+},
+{
+  "id": 36,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Acids & Bases",
+  "question_type": "Previous Year Based",
+  "question": "Which base is present in soap?",
+  "options": {
+    "A": "Sodium hydroxide",
+    "B": "Potassium hydroxide",
+    "C": "Calcium hydroxide",
+    "D": "Ammonium hydroxide"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Sodium hydroxide",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Soap is made by saponification reaction",
+    "Sodium hydroxide is commonly used"
+  ],
+  "trick": "Soap → NaOH",
+  "exam_tip": "Important chemistry of daily life question"
+},
+{
+  "id": 37,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Atomic Structure",
+  "question_type": "Repeated",
+  "question": "What is the charge of an electron?",
+  "options": {
+    "A": "Positive",
+    "B": "Negative",
+    "C": "Neutral",
+    "D": "Variable"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Negative",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Electron is a subatomic particle",
+    "It carries a negative charge"
+  ],
+  "trick": "Electron = Negative",
+  "exam_tip": "Very basic atomic concept"
+},
+{
+  "id": 38,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Reactions",
+  "question_type": "Previous Year Based",
+  "question": "Burning of coal is an example of:",
+  "options": {
+    "A": "Endothermic reaction",
+    "B": "Exothermic reaction",
+    "C": "Neutralization",
+    "D": "Decomposition"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Exothermic reaction",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Burning releases heat",
+    "Heat releasing reactions are exothermic"
+  ],
+  "trick": "Heat release → Exothermic",
+  "exam_tip": "Common reaction-based MCQ"
+},
+{
+  "id": 39,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Everyday Life",
+  "question_type": "Repeated",
+  "question": "Which gas is used in soda water?",
+  "options": {
+    "A": "Oxygen",
+    "B": "Nitrogen",
+    "C": "Carbon dioxide",
+    "D": "Hydrogen"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Carbon dioxide",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Soda water contains dissolved CO₂",
+    "It gives the fizzy effect"
+  ],
+  "trick": "Soda = CO₂",
+  "exam_tip": "Frequently asked daily life question"
+},
+{
+  "id": 40,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Units",
+  "question_type": "Previous Year Based",
+  "question": "What is the SI unit of power?",
+  "options": {
+    "A": "Joule",
+    "B": "Newton",
+    "C": "Watt",
+    "D": "Volt"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Watt",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Power = Work / Time",
+    "SI unit of power is Watt"
+  ],
+  "trick": "Power = Watt",
+  "exam_tip": "Very common unit question"
+},
+{
+  "id": 41,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Communication",
+  "question_type": "Repeated",
+  "question": "Which waves are used in mobile communication?",
+  "options": {
+    "A": "Sound waves",
+    "B": "Radio waves",
+    "C": "Ultraviolet waves",
+    "D": "X-rays"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Radio waves",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Mobile communication uses electromagnetic waves",
+    "Radio waves are used for transmission"
+  ],
+  "trick": "Mobile → Radio waves",
+  "exam_tip": "Important modern physics question"
+},
+{
+  "id": 42,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Fiber Optics",
+  "question_type": "Previous Year Based",
+  "question": "Fiber optic cables work on the principle of:",
+  "options": {
+    "A": "Reflection",
+    "B": "Refraction",
+    "C": "Total internal reflection",
+    "D": "Diffraction"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Total internal reflection",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Light reflects repeatedly inside the fiber",
+    "This phenomenon is total internal reflection"
+  ],
+  "trick": "Fiber = TIR",
+  "exam_tip": "Very important communication-based MCQ"
+},
+{
+  "id": 43,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Electrochemistry",
+  "question_type": "Repeated",
+  "question": "Which electrolyte is used in a lead-acid battery?",
+  "options": {
+    "A": "Nitric acid",
+    "B": "Hydrochloric acid",
+    "C": "Sulphuric acid",
+    "D": "Acetic acid"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Sulphuric acid",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Lead-acid batteries are used in vehicles",
+    "Sulphuric acid acts as electrolyte"
+  ],
+  "trick": "Lead battery → H₂SO₄",
+  "exam_tip": "Frequently asked battery question"
+},
+{
+  "id": 44,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Elements",
+  "question_type": "Previous Year Based",
+  "question": "Which element is essential for combustion?",
+  "options": {
+    "A": "Hydrogen",
+    "B": "Nitrogen",
+    "C": "Oxygen",
+    "D": "Carbon dioxide"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Oxygen",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Combustion is burning",
+    "Oxygen supports burning"
+  ],
+  "trick": "Burning → Oxygen",
+  "exam_tip": "Very basic chemistry concept"
+},
+{
+  "id": 45,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Electronics",
+  "question_type": "Repeated",
+  "question": "Which component stores electric charge?",
+  "options": {
+    "A": "Resistor",
+    "B": "Capacitor",
+    "C": "Inductor",
+    "D": "Diode"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Capacitor",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Capacitor stores charge between two plates",
+    "Used in electronic circuits"
+  ],
+  "trick": "Charge store → Capacitor",
+  "exam_tip": "Common electronics MCQ"
+},
+{
+  "id": 46,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Acids",
+  "question_type": "Previous Year Based",
+  "question": "Which acid is used in car batteries?",
+  "options": {
+    "A": "Hydrochloric acid",
+    "B": "Sulphuric acid",
+    "C": "Nitric acid",
+    "D": "Acetic acid"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Sulphuric acid",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Car batteries are lead-acid batteries",
+    "They use sulphuric acid"
+  ],
+  "trick": "Car battery → H₂SO₄",
+  "exam_tip": "Very frequently repeated question"
+},
+{
+  "id": 47,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Measurement",
+  "question_type": "Repeated",
+  "question": "Which instrument is used to measure atmospheric pressure?",
+  "options": {
+    "A": "Thermometer",
+    "B": "Manometer",
+    "C": "Barometer",
+    "D": "Hygrometer"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Barometer",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Atmospheric pressure is pressure of air",
+    "Barometer measures atmospheric pressure"
+  ],
+  "trick": "Air pressure → Barometer",
+  "exam_tip": "Common instrument-based question"
+},
+{
+  "id": 48,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Elements",
+  "question_type": "Previous Year Based",
+  "question": "Which element is used in pencil lead?",
+  "options": {
+    "A": "Carbon",
+    "B": "Lead",
+    "C": "Graphite",
+    "D": "Silicon"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Graphite",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Pencil lead is actually graphite",
+    "Graphite is an allotrope of carbon"
+  ],
+  "trick": "Pencil → Graphite",
+  "exam_tip": "Very common trick question"
+},
+{
+  "id": 49,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Motion",
+  "question_type": "Repeated",
+  "question": "Which quantity has both magnitude and direction?",
+  "options": {
+    "A": "Speed",
+    "B": "Distance",
+    "C": "Scalar",
+    "D": "Velocity"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Velocity",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Velocity has magnitude and direction",
+    "Hence it is a vector quantity"
+  ],
+  "trick": "Direction present → Vector",
+  "exam_tip": "Basic scalar vs vector question"
+},
+{
+  "id": 50,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Chemical Change",
+  "question_type": "Previous Year Based",
+  "question": "Which of the following is a chemical change?",
+  "options": {
+    "A": "Cutting of paper",
+    "B": "Melting of wax",
+    "C": "Rusting of iron",
+    "D": "Boiling of water"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Rusting of iron",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Chemical change forms a new substance",
+    "Rust is a new compound (iron oxide)"
+  ],
+  "trick": "New substance → Chemical change",
+  "exam_tip": "Very frequently repeated concept"
+}
+,
+{
+  "id": 51,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Motion",
+  "question_type": "Previous Year Based",
+  "question": "What is the SI unit of acceleration?",
+  "options": {
+    "A": "m/s",
+    "B": "m/s²",
+    "C": "km/h",
+    "D": "cm/s²"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "m/s²",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Acceleration is the rate of change of velocity",
+    "Velocity unit is m/s",
+    "Change per second gives m/s²"
+  ],
+  "trick": "Acceleration = m/s²",
+  "exam_tip": "Very common units question"
+},
+{
+  "id": 52,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Laws of Motion",
+  "question_type": "Repeated",
+  "question": "Which law of motion is also known as the law of inertia?",
+  "options": {
+    "A": "First law",
+    "B": "Second law",
+    "C": "Third law",
+    "D": "Law of gravitation"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "First law",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Inertia means resistance to change",
+    "Newton’s First Law explains inertia"
+  ],
+  "trick": "Inertia = First law",
+  "exam_tip": "Frequently repeated theory question"
+},
+{
+  "id": 53,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Gravitation",
+  "question_type": "Previous Year Based",
+  "question": "Weight of a body depends on:",
+  "options": {
+    "A": "Mass only",
+    "B": "Volume only",
+    "C": "Gravity only",
+    "D": "Mass and gravity"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Mass and gravity",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Weight = mass × gravity",
+    "Both mass and gravitational force affect weight"
+  ],
+  "trick": "W = m × g",
+  "exam_tip": "Common formula-based MCQ"
+},
+{
+  "id": 54,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Heat",
+  "question_type": "Repeated",
+  "question": "Which mode of heat transfer does not require a medium?",
+  "options": {
+    "A": "Conduction",
+    "B": "Convection",
+    "C": "Radiation",
+    "D": "All require medium"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Radiation",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Radiation transfers heat via electromagnetic waves",
+    "It does not require a material medium"
+  ],
+  "trick": "No medium → Radiation",
+  "exam_tip": "Very common heat-transfer question"
+},
+{
+  "id": 55,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Electricity",
+  "question_type": "Previous Year Based",
+  "question": "What is the SI unit of resistance?",
+  "options": {
+    "A": "Ampere",
+    "B": "Volt",
+    "C": "Ohm",
+    "D": "Watt"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Ohm",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Resistance opposes the flow of current",
+    "Its SI unit is Ohm"
+  ],
+  "trick": "Resistance = Ohm",
+  "exam_tip": "Very basic electricity MCQ"
+},
+{
+  "id": 56,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Magnetism",
+  "question_type": "Repeated",
+  "question": "Which instrument is used to detect electric current?",
+  "options": {
+    "A": "Ammeter",
+    "B": "Voltmeter",
+    "C": "Galvanometer",
+    "D": "Ohmmeter"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Galvanometer",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Galvanometer is sensitive to small currents",
+    "It detects presence of current"
+  ],
+  "trick": "Detect current → Galvanometer",
+  "exam_tip": "Frequently asked instrument-based question"
+},
+{
+  "id": 57,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Light",
+  "question_type": "Previous Year Based",
+  "question": "Which colour of light has the maximum wavelength?",
+  "options": {
+    "A": "Violet",
+    "B": "Blue",
+    "C": "Green",
+    "D": "Red"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Red",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "VIBGYOR is the spectrum order",
+    "Red has the longest wavelength"
+  ],
+  "trick": "VIBGYOR → R longest",
+  "exam_tip": "Very common spectrum question"
+},
+{
+  "id": 58,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Sound",
+  "question_type": "Repeated",
+  "question": "Which characteristic of sound depends on frequency?",
+  "options": {
+    "A": "Loudness",
+    "B": "Pitch",
+    "C": "Quality",
+    "D": "Intensity"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Pitch",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Frequency determines how sharp or shrill a sound is",
+    "This property is called pitch"
+  ],
+  "trick": "Frequency → Pitch",
+  "exam_tip": "Very frequently repeated question"
+},
+{
+  "id": 59,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Matter",
+  "question_type": "Previous Year Based",
+  "question": "Which process converts solid directly into gas?",
+  "options": {
+    "A": "Evaporation",
+    "B": "Condensation",
+    "C": "Sublimation",
+    "D": "Melting"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Sublimation",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "In sublimation, solid changes directly to gas",
+    "No liquid state is involved"
+  ],
+  "trick": "Solid → Gas = Sublimation",
+  "exam_tip": "Common phase-change question"
+},
+{
+  "id": 60,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Elements",
+  "question_type": "Repeated",
+  "question": "Which non-metal is liquid at room temperature?",
+  "options": {
+    "A": "Bromine",
+    "B": "Chlorine",
+    "C": "Iodine",
+    "D": "Sulphur"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Bromine",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Bromine is the only liquid non-metal",
+    "It is reddish-brown in colour"
+  ],
+  "trick": "Liquid non-metal = Bromine",
+  "exam_tip": "Frequently asked static GK chemistry"
+},
+{
+  "id": 61,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Acids & Bases",
+  "question_type": "Previous Year Based",
+  "question": "Which substance is used to neutralize acidic soil?",
+  "options": {
+    "A": "Salt",
+    "B": "Lime",
+    "C": "Vinegar",
+    "D": "Urea"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Lime",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Acidic soil needs a base for neutralization",
+    "Lime (calcium compounds) is basic"
+  ],
+  "trick": "Acidic soil → Lime",
+  "exam_tip": "Important agriculture-based MCQ"
+},
+{
+  "id": 62,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Atomic Structure",
+  "question_type": "Repeated",
+  "question": "Which particle has maximum mass?",
+  "options": {
+    "A": "Electron",
+    "B": "Proton",
+    "C": "Neutron",
+    "D": "Photon"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Neutron",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Electron is very light",
+    "Neutron is slightly heavier than proton"
+  ],
+  "trick": "Heaviest (atomic) → Neutron",
+  "exam_tip": "Basic atomic structure question"
+},
+{
+  "id": 63,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Reactions",
+  "question_type": "Previous Year Based",
+  "question": "Which reaction absorbs heat?",
+  "options": {
+    "A": "Exothermic",
+    "B": "Oxidation",
+    "C": "Endothermic",
+    "D": "Neutralization"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Endothermic",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Endothermic reactions absorb heat",
+    "They require energy to proceed"
+  ],
+  "trick": "Heat absorbed → Endothermic",
+  "exam_tip": "Very common chemistry MCQ"
+},
+{
+  "id": 64,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Everyday Life",
+  "question_type": "Repeated",
+  "question": "Which chemical is used for bleaching cotton fabrics?",
+  "options": {
+    "A": "Bleaching powder",
+    "B": "Washing soda",
+    "C": "Baking soda",
+    "D": "Caustic soda"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Bleaching powder",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Bleaching powder releases chlorine",
+    "Chlorine acts as a bleaching agent"
+  ],
+  "trick": "Bleach cloth → Bleaching powder",
+  "exam_tip": "Frequently asked daily life chemistry"
+},
+{
+  "id": 65,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Units",
+  "question_type": "Previous Year Based",
+  "question": "Which is the SI unit of energy?",
+  "options": {
+    "A": "Watt",
+    "B": "Joule",
+    "C": "Newton",
+    "D": "Pascal"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Joule",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Energy is capacity to do work",
+    "SI unit of energy is Joule"
+  ],
+  "trick": "Energy = Joule",
+  "exam_tip": "Very basic physics unit question"
+},
+{
+  "id": 66,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Communication",
+  "question_type": "Repeated",
+  "question": "Which device converts sound energy into electrical energy?",
+  "options": {
+    "A": "Speaker",
+    "B": "Microphone",
+    "C": "Amplifier",
+    "D": "Oscillator"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Microphone",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Microphone receives sound waves",
+    "It converts them into electrical signals"
+  ],
+  "trick": "Sound → Electric = Mic",
+  "exam_tip": "Frequently asked communication question"
+},
+{
+  "id": 67,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Fiber Optics",
+  "question_type": "Previous Year Based",
+  "question": "Fiber optic communication mainly uses which type of signal?",
+  "options": {
+    "A": "Electrical",
+    "B": "Magnetic",
+    "C": "Light",
+    "D": "Sound"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Light",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Fiber optics transmit information using light",
+    "Light travels via total internal reflection"
+  ],
+  "trick": "Fiber → Light",
+  "exam_tip": "Important modern physics question"
+},
+{
+  "id": 68,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Electrochemistry",
+  "question_type": "Repeated",
+  "question": "Which metal is used as the negative plate in a lead-acid battery?",
+  "options": {
+    "A": "Zinc",
+    "B": "Copper",
+    "C": "Lead",
+    "D": "Nickel"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Lead",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Lead-acid batteries use lead plates",
+    "Negative plate is spongy lead"
+  ],
+  "trick": "Lead battery → Lead plates",
+  "exam_tip": "Common battery-related MCQ"
+},
+{
+  "id": 69,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Measurement",
+  "question_type": "Previous Year Based",
+  "question": "Which instrument measures humidity in air?",
+  "options": {
+    "A": "Barometer",
+    "B": "Hygrometer",
+    "C": "Thermometer",
+    "D": "Anemometer"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Hygrometer",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Humidity means moisture content in air",
+    "Hygrometer measures humidity"
+  ],
+  "trick": "Humidity → Hygrometer",
+  "exam_tip": "Frequently asked weather instrument question"
+},
+{
+  "id": 70,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Elements",
+  "question_type": "Repeated",
+  "question": "Which gas is known as laughing gas?",
+  "options": {
+    "A": "Nitric oxide",
+    "B": "Nitrous oxide",
+    "C": "Carbon monoxide",
+    "D": "Sulphur dioxide"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Nitrous oxide",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Nitrous oxide causes laughing effect",
+    "Used as anesthetic gas"
+  ],
+  "trick": "Laughing gas → N₂O",
+  "exam_tip": "Very common chemistry MCQ"
+},
+{
+  "id": 71,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Motion",
+  "question_type": "Previous Year Based",
+  "question": "Which quantity is measured by an odometer?",
+  "options": {
+    "A": "Speed",
+    "B": "Velocity",
+    "C": "Distance",
+    "D": "Acceleration"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Distance",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Odometer measures total distance travelled",
+    "Used in vehicles"
+  ],
+  "trick": "Odo → Distance",
+  "exam_tip": "Frequently asked measurement MCQ"
+},
+{
+  "id": 72,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Acids & Bases",
+  "question_type": "Repeated",
+  "question": "Which indicator turns red in acidic solution?",
+  "options": {
+    "A": "Blue litmus",
+    "B": "Red litmus",
+    "C": "Phenolphthalein",
+    "D": "Methyl orange"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Blue litmus",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Acids turn blue litmus red",
+    "This is a basic acid test"
+  ],
+  "trick": "Blue → Red = Acid",
+  "exam_tip": "Very basic acid-base indicator question"
+},
+{
+  "id": 73,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Sound",
+  "question_type": "Previous Year Based",
+  "question": "Which sound has the highest pitch?",
+  "options": {
+    "A": "Low frequency sound",
+    "B": "High frequency sound",
+    "C": "Loud sound",
+    "D": "Soft sound"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "High frequency sound",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Pitch depends on frequency",
+    "Higher frequency means higher pitch"
+  ],
+  "trick": "High frequency → High pitch",
+  "exam_tip": "Frequently repeated sound question"
+},
+{
+  "id": 74,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Atomic Structure",
+  "question_type": "Repeated",
+  "question": "Atomic number is equal to the number of:",
+  "options": {
+    "A": "Neutrons",
+    "B": "Electrons",
+    "C": "Protons",
+    "D": "Protons and neutrons"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Protons",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Atomic number defines the element",
+    "It is equal to number of protons"
+  ],
+  "trick": "Atomic number → Protons",
+  "exam_tip": "Very common atomic concept"
+},
+{
+  "id": 75,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Electronics",
+  "question_type": "Previous Year Based",
+  "question": "Which device allows current to flow only in one direction?",
+  "options": {
+    "A": "Resistor",
+    "B": "Capacitor",
+    "C": "Diode",
+    "D": "Inductor"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Diode",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Diode conducts current in one direction",
+    "Used in rectifiers"
+  ],
+  "trick": "One-way current → Diode",
+  "exam_tip": "Important electronics MCQ"
+}
+,
+{
+  "id": 76,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Motion",
+  "question_type": "Previous Year Based",
+  "question": "Which quantity remains constant in uniform circular motion?",
+  "options": {
+    "A": "Velocity",
+    "B": "Speed",
+    "C": "Acceleration",
+    "D": "Direction"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Speed",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "In circular motion, direction of velocity changes continuously",
+    "Magnitude of velocity (speed) remains constant"
+  ],
+  "trick": "Circular motion → Speed constant",
+  "exam_tip": "Conceptual motion question often asked"
+},
+{
+  "id": 77,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Laws of Motion",
+  "question_type": "Repeated",
+  "question": "Momentum is equal to:",
+  "options": {
+    "A": "Mass × velocity",
+    "B": "Force × time",
+    "C": "Mass × acceleration",
+    "D": "Velocity × time"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Mass × velocity",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Momentum is the product of mass and velocity",
+    "Symbolically, p = m × v"
+  ],
+  "trick": "Momentum → m×v",
+  "exam_tip": "Very common formula-based MCQ"
+},
+{
+  "id": 78,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Gravitation",
+  "question_type": "Previous Year Based",
+  "question": "On which of the following does gravitational force depend?",
+  "options": {
+    "A": "Mass only",
+    "B": "Distance only",
+    "C": "Mass and distance",
+    "D": "Volume and mass"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Mass and distance",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Newton’s law of gravitation depends on masses of bodies",
+    "It also depends inversely on square of distance"
+  ],
+  "trick": "Gravity → Mass + Distance",
+  "exam_tip": "Frequently asked conceptual gravitation question"
+},
+{
+  "id": 79,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Heat",
+  "question_type": "Repeated",
+  "question": "Which scale is used to measure absolute temperature?",
+  "options": {
+    "A": "Celsius",
+    "B": "Fahrenheit",
+    "C": "Kelvin",
+    "D": "Rankine"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Kelvin",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Kelvin scale starts from absolute zero",
+    "It is used for absolute temperature"
+  ],
+  "trick": "Absolute temperature → Kelvin",
+  "exam_tip": "Very common temperature question"
+},
+{
+  "id": 80,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Electricity",
+  "question_type": "Previous Year Based",
+  "question": "Electric power is calculated by the formula:",
+  "options": {
+    "A": "P = VI",
+    "B": "P = IR",
+    "C": "P = I²R",
+    "D": "P = V/R"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "P = VI",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Electric power is product of voltage and current",
+    "Hence, P = V × I"
+  ],
+  "trick": "Power → VI",
+  "exam_tip": "Important electricity formula"
+},
+{
+  "id": 81,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Magnetism",
+  "question_type": "Repeated",
+  "question": "Like poles of magnets:",
+  "options": {
+    "A": "Attract each other",
+    "B": "Repel each other",
+    "C": "Neutralize each other",
+    "D": "Destroy each other"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Repel each other",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Like magnetic poles repel",
+    "Unlike poles attract"
+  ],
+  "trick": "Like → Repel",
+  "exam_tip": "Basic magnetism concept"
+},
+{
+  "id": 82,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Light",
+  "question_type": "Previous Year Based",
+  "question": "Which phenomenon is responsible for the formation of rainbow?",
+  "options": {
+    "A": "Reflection",
+    "B": "Refraction",
+    "C": "Dispersion",
+    "D": "Total internal reflection"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Dispersion",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "White light splits into different colours",
+    "This splitting is called dispersion"
+  ],
+  "trick": "Rainbow → Dispersion",
+  "exam_tip": "Very common optics question"
+},
+{
+  "id": 83,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Sound",
+  "question_type": "Repeated",
+  "question": "Loudness of sound depends on:",
+  "options": {
+    "A": "Frequency",
+    "B": "Amplitude",
+    "C": "Wavelength",
+    "D": "Speed"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Amplitude",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Amplitude represents height of sound waves",
+    "Greater amplitude means louder sound"
+  ],
+  "trick": "Loudness → Amplitude",
+  "exam_tip": "Very frequently repeated sound MCQ"
+},
+{
+  "id": 84,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Matter",
+  "question_type": "Previous Year Based",
+  "question": "Which process is used to separate salt from seawater?",
+  "options": {
+    "A": "Filtration",
+    "B": "Distillation",
+    "C": "Evaporation",
+    "D": "Sedimentation"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Evaporation",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Water evaporates leaving salt behind",
+    "This method is evaporation"
+  ],
+  "trick": "Salt from water → Evaporation",
+  "exam_tip": "Common separation technique question"
+},
+{
+  "id": 85,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Elements",
+  "question_type": "Repeated",
+  "question": "Which metal is used for galvanization of iron?",
+  "options": {
+    "A": "Copper",
+    "B": "Zinc",
+    "C": "Tin",
+    "D": "Aluminium"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Zinc",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Galvanization prevents rusting",
+    "Zinc coating protects iron"
+  ],
+  "trick": "Galvanization → Zinc",
+  "exam_tip": "Very common corrosion-related MCQ"
+},
+{
+  "id": 86,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Acids & Bases",
+  "question_type": "Previous Year Based",
+  "question": "Which acid is used in the manufacture of fertilizers?",
+  "options": {
+    "A": "Hydrochloric acid",
+    "B": "Sulphuric acid",
+    "C": "Acetic acid",
+    "D": "Citric acid"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Sulphuric acid",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Sulphuric acid is widely used in fertilizer industry",
+    "It is called the king of chemicals"
+  ],
+  "trick": "Fertilizer → H₂SO₄",
+  "exam_tip": "Important industrial chemistry question"
+},
+{
+  "id": 87,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Atomic Structure",
+  "question_type": "Repeated",
+  "question": "Which subatomic particle has no charge?",
+  "options": {
+    "A": "Electron",
+    "B": "Proton",
+    "C": "Neutron",
+    "D": "Positron"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Neutron",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Neutrons are electrically neutral",
+    "They are present in the nucleus"
+  ],
+  "trick": "No charge → Neutron",
+  "exam_tip": "Basic atomic concept"
+},
+{
+  "id": 88,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Reactions",
+  "question_type": "Previous Year Based",
+  "question": "Which reaction involves exchange of ions between compounds?",
+  "options": {
+    "A": "Combination reaction",
+    "B": "Decomposition reaction",
+    "C": "Displacement reaction",
+    "D": "Double displacement reaction"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Double displacement reaction",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Ions of two compounds exchange places",
+    "This forms new compounds"
+  ],
+  "trick": "Ion exchange → Double displacement",
+  "exam_tip": "Frequently asked reaction-type question"
+},
+{
+  "id": 89,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Everyday Life",
+  "question_type": "Repeated",
+  "question": "Which chemical is used in making washing soda?",
+  "options": {
+    "A": "Sodium chloride",
+    "B": "Sodium carbonate",
+    "C": "Sodium bicarbonate",
+    "D": "Calcium carbonate"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Sodium carbonate",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Washing soda is sodium carbonate",
+    "Used for cleaning purposes"
+  ],
+  "trick": "Washing soda → Na₂CO₃",
+  "exam_tip": "Common daily life chemistry MCQ"
+},
+{
+  "id": 90,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Units",
+  "question_type": "Previous Year Based",
+  "question": "Which is the SI unit of force?",
+  "options": {
+    "A": "Joule",
+    "B": "Pascal",
+    "C": "Newton",
+    "D": "Watt"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Newton",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Force causes change in motion",
+    "SI unit of force is Newton"
+  ],
+  "trick": "Force → Newton",
+  "exam_tip": "Very basic physics unit question"
+},
+{
+  "id": 91,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Communication",
+  "question_type": "Repeated",
+  "question": "Which part of the electromagnetic spectrum is used in TV remote controls?",
+  "options": {
+    "A": "Ultraviolet",
+    "B": "Infrared",
+    "C": "Microwave",
+    "D": "Radio waves"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Infrared",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Remote controls transmit signals using infrared rays",
+    "Infrared is invisible to human eye"
+  ],
+  "trick": "Remote → IR",
+  "exam_tip": "Frequently asked modern physics MCQ"
+},
+{
+  "id": 92,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Fiber Optics",
+  "question_type": "Previous Year Based",
+  "question": "Fiber optic cables are mainly used for:",
+  "options": {
+    "A": "Power transmission",
+    "B": "Sound transmission",
+    "C": "Data communication",
+    "D": "Heat transfer"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Data communication",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Fiber optics carry information as light signals",
+    "Used in internet and telecom networks"
+  ],
+  "trick": "Fiber → Data",
+  "exam_tip": "Common communication technology question"
+},
+{
+  "id": 93,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Electrochemistry",
+  "question_type": "Repeated",
+  "question": "Which process is used to coat one metal over another using electricity?",
+  "options": {
+    "A": "Electrolysis",
+    "B": "Electroplating",
+    "C": "Galvanization",
+    "D": "Smelting"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Electroplating",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Electric current is used to deposit metal",
+    "This process is electroplating"
+  ],
+  "trick": "Metal coat → Electroplating",
+  "exam_tip": "Frequently asked electrochemistry MCQ"
+},
+{
+  "id": 94,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Elements",
+  "question_type": "Previous Year Based",
+  "question": "Which element is essential for respiration?",
+  "options": {
+    "A": "Nitrogen",
+    "B": "Carbon dioxide",
+    "C": "Oxygen",
+    "D": "Hydrogen"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Oxygen",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Respiration releases energy",
+    "Oxygen supports respiration"
+  ],
+  "trick": "Breathing → Oxygen",
+  "exam_tip": "Very basic biology-chemistry overlap"
+},
+{
+  "id": 95,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Electronics",
+  "question_type": "Repeated",
+  "question": "Which semiconductor device is used for amplification?",
+  "options": {
+    "A": "Diode",
+    "B": "Resistor",
+    "C": "Transistor",
+    "D": "Capacitor"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Transistor",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Transistors increase signal strength",
+    "Used as amplifiers in circuits"
+  ],
+  "trick": "Amplify → Transistor",
+  "exam_tip": "Important electronics MCQ"
+},
+{
+  "id": 96,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Measurement",
+  "question_type": "Previous Year Based",
+  "question": "Which instrument is used to measure wind speed?",
+  "options": {
+    "A": "Hygrometer",
+    "B": "Barometer",
+    "C": "Anemometer",
+    "D": "Thermometer"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Anemometer",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Wind speed refers to movement of air",
+    "Anemometer measures wind speed"
+  ],
+  "trick": "Wind speed → Anemometer",
+  "exam_tip": "Frequently asked weather instrument question"
+},
+{
+  "id": 97,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Acids & Bases",
+  "question_type": "Repeated",
+  "question": "Which base is commonly known as slaked lime?",
+  "options": {
+    "A": "Calcium oxide",
+    "B": "Calcium hydroxide",
+    "C": "Sodium hydroxide",
+    "D": "Potassium hydroxide"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Calcium hydroxide",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Slaked lime is calcium hydroxide",
+    "Used in whitewashing"
+  ],
+  "trick": "Slaked lime → Ca(OH)₂",
+  "exam_tip": "Common chemistry terminology question"
+},
+{
+  "id": 98,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Atomic Structure",
+  "question_type": "Previous Year Based",
+  "question": "Mass number is the sum of:",
+  "options": {
+    "A": "Protons and electrons",
+    "B": "Electrons and neutrons",
+    "C": "Protons and neutrons",
+    "D": "Neutrons only"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Protons and neutrons",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Mass number = number of nucleons",
+    "Nucleons include protons and neutrons"
+  ],
+  "trick": "Mass no. → p + n",
+  "exam_tip": "Very common atomic structure MCQ"
+},
+{
+  "id": 99,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Reactions",
+  "question_type": "Repeated",
+  "question": "Which reaction involves loss of electrons?",
+  "options": {
+    "A": "Reduction",
+    "B": "Oxidation",
+    "C": "Neutralization",
+    "D": "Combination"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Oxidation",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Oxidation involves loss of electrons",
+    "Reduction involves gain of electrons"
+  ],
+  "trick": "LEO → Oxidation",
+  "exam_tip": "Very important redox concept"
+},
+{
+  "id": 100,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Units",
+  "question_type": "Previous Year Based",
+  "question": "Which SI unit is used to measure frequency?",
+  "options": {
+    "A": "Watt",
+    "B": "Hertz",
+    "C": "Newton",
+    "D": "Pascal"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Hertz",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Frequency means number of cycles per second",
+    "Its SI unit is Hertz"
+  ],
+  "trick": "Frequency → Hz",
+  "exam_tip": "Very frequently repeated unit question"
+}
+,
+{
+  "id": 101,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Motion",
+  "question_type": "Previous Year Based",
+  "question": "Which instrument is used to measure speed of a vehicle?",
+  "options": {
+    "A": "Odometer",
+    "B": "Speedometer",
+    "C": "Altimeter",
+    "D": "Anemometer"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Speedometer",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Speed is distance covered per unit time",
+    "Speedometer directly measures speed of vehicles"
+  ],
+  "trick": "Speed → Speedometer",
+  "exam_tip": "Very common measurement-based MCQ"
+},
+{
+  "id": 102,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Laws of Motion",
+  "question_type": "Repeated",
+  "question": "Newton’s second law is related to:",
+  "options": {
+    "A": "Inertia",
+    "B": "Force",
+    "C": "Action–reaction",
+    "D": "Momentum conservation"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Force",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Second law gives F = m × a",
+    "It mathematically defines force"
+  ],
+  "trick": "Second law → Force",
+  "exam_tip": "Very frequently repeated concept"
+},
+{
+  "id": 103,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Gravitation",
+  "question_type": "Previous Year Based",
+  "question": "Weight of a body becomes zero when it is:",
+  "options": {
+    "A": "On Earth",
+    "B": "At rest",
+    "C": "In free fall",
+    "D": "On Moon"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "In free fall",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "During free fall, body and surroundings accelerate equally",
+    "Hence apparent weight becomes zero"
+  ],
+  "trick": "Free fall → Zero weight",
+  "exam_tip": "Conceptual gravitation question"
+},
+{
+  "id": 104,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Heat",
+  "question_type": "Repeated",
+  "question": "Which metal is the best conductor of heat?",
+  "options": {
+    "A": "Iron",
+    "B": "Copper",
+    "C": "Silver",
+    "D": "Aluminium"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Silver",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Different metals conduct heat differently",
+    "Silver has the highest thermal conductivity"
+  ],
+  "trick": "Best heat conductor → Silver",
+  "exam_tip": "Frequently asked properties of metals"
+},
+{
+  "id": 105,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Electricity",
+  "question_type": "Previous Year Based",
+  "question": "What happens to resistance of a conductor when temperature increases?",
+  "options": {
+    "A": "Decreases",
+    "B": "Becomes zero",
+    "C": "Increases",
+    "D": "Remains same"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Increases",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Higher temperature increases atomic vibrations",
+    "This obstructs electron flow, increasing resistance"
+  ],
+  "trick": "Temp ↑ → Resistance ↑",
+  "exam_tip": "Important conceptual electricity question"
+},
+{
+  "id": 106,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Magnetism",
+  "question_type": "Repeated",
+  "question": "Magnetic field lines emerge from:",
+  "options": {
+    "A": "South pole",
+    "B": "North pole",
+    "C": "Both poles",
+    "D": "Centre of magnet"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "North pole",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Magnetic field lines start from north pole",
+    "They enter the south pole"
+  ],
+  "trick": "Field lines → N to S",
+  "exam_tip": "Basic magnetism MCQ"
+},
+{
+  "id": 107,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Light",
+  "question_type": "Previous Year Based",
+  "question": "Which mirror is used in solar cookers?",
+  "options": {
+    "A": "Plane mirror",
+    "B": "Convex mirror",
+    "C": "Concave mirror",
+    "D": "Cylindrical mirror"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Concave mirror",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Concave mirrors converge light rays",
+    "They focus heat at one point"
+  ],
+  "trick": "Focus heat → Concave",
+  "exam_tip": "Common optics application question"
+},
+{
+  "id": 108,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Sound",
+  "question_type": "Repeated",
+  "question": "Echo is produced due to:",
+  "options": {
+    "A": "Refraction of sound",
+    "B": "Diffraction of sound",
+    "C": "Reflection of sound",
+    "D": "Absorption of sound"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Reflection of sound",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Sound waves bounce back from a surface",
+    "This reflected sound is heard as echo"
+  ],
+  "trick": "Echo → Reflection",
+  "exam_tip": "Very frequently asked sound question"
+},
+{
+  "id": 109,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Matter",
+  "question_type": "Previous Year Based",
+  "question": "Which separation technique is used to separate cream from milk?",
+  "options": {
+    "A": "Filtration",
+    "B": "Distillation",
+    "C": "Centrifugation",
+    "D": "Evaporation"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Centrifugation",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Centrifugation separates substances by density",
+    "Cream is lighter than milk"
+  ],
+  "trick": "Cream from milk → Centrifuge",
+  "exam_tip": "Common daily life chemistry MCQ"
+},
+{
+  "id": 110,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Elements",
+  "question_type": "Repeated",
+  "question": "Which metal is used in making aircraft bodies?",
+  "options": {
+    "A": "Iron",
+    "B": "Copper",
+    "C": "Aluminium",
+    "D": "Zinc"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Aluminium",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Aluminium is light and strong",
+    "It resists corrosion"
+  ],
+  "trick": "Aircraft → Aluminium",
+  "exam_tip": "Frequently asked application-based question"
+},
+{
+  "id": 111,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Acids & Bases",
+  "question_type": "Previous Year Based",
+  "question": "Which acid is present in vinegar?",
+  "options": {
+    "A": "Citric acid",
+    "B": "Acetic acid",
+    "C": "Lactic acid",
+    "D": "Oxalic acid"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Acetic acid",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Vinegar has sour taste",
+    "This is due to acetic acid"
+  ],
+  "trick": "Vinegar → Acetic",
+  "exam_tip": "Very common daily life chemistry MCQ"
+},
+{
+  "id": 112,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Atomic Structure",
+  "question_type": "Repeated",
+  "question": "Electrons revolve around the nucleus in:",
+  "options": {
+    "A": "Orbits",
+    "B": "Shells",
+    "C": "Clouds",
+    "D": "Energy levels"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Energy levels",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Modern atomic model uses energy levels",
+    "Electrons occupy fixed energy states"
+  ],
+  "trick": "Modern atom → Energy levels",
+  "exam_tip": "Conceptual atomic structure question"
+},
+{
+  "id": 113,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Reactions",
+  "question_type": "Previous Year Based",
+  "question": "Which reaction occurs when zinc reacts with copper sulphate?",
+  "options": {
+    "A": "Combination",
+    "B": "Decomposition",
+    "C": "Displacement",
+    "D": "Neutralization"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Displacement",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Zinc displaces copper from its compound",
+    "This is displacement reaction"
+  ],
+  "trick": "More reactive → Displace",
+  "exam_tip": "Very common reaction-based MCQ"
+},
+{
+  "id": 114,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Everyday Life",
+  "question_type": "Repeated",
+  "question": "Which chemical is used to purify drinking water?",
+  "options": {
+    "A": "Bleaching powder",
+    "B": "Baking soda",
+    "C": "Washing soda",
+    "D": "Lime"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Bleaching powder",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Bleaching powder releases chlorine",
+    "Chlorine kills germs in water"
+  ],
+  "trick": "Water purification → Bleaching powder",
+  "exam_tip": "Very frequently asked question"
+},
+{
+  "id": 115,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Units",
+  "question_type": "Previous Year Based",
+  "question": "Which SI unit is used to measure electric charge?",
+  "options": {
+    "A": "Ampere",
+    "B": "Volt",
+    "C": "Coulomb",
+    "D": "Ohm"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Coulomb",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Electric charge is measured in Coulomb",
+    "It is a derived SI unit"
+  ],
+  "trick": "Charge → Coulomb",
+  "exam_tip": "Basic electricity unit question"
+},
+{
+  "id": 116,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Communication",
+  "question_type": "Repeated",
+  "question": "Which wave has the highest frequency in electromagnetic spectrum?",
+  "options": {
+    "A": "Radio waves",
+    "B": "Microwaves",
+    "C": "X-rays",
+    "D": "Gamma rays"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Gamma rays",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "EM spectrum frequency increases from radio to gamma",
+    "Gamma rays have highest frequency"
+  ],
+  "trick": "Highest frequency → Gamma",
+  "exam_tip": "Very common spectrum-based MCQ"
+},
+{
+  "id": 117,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Fiber Optics",
+  "question_type": "Previous Year Based",
+  "question": "Which material is commonly used for optical fiber core?",
+  "options": {
+    "A": "Copper",
+    "B": "Plastic",
+    "C": "Glass",
+    "D": "Aluminium"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Glass",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Optical fibers transmit light",
+    "High purity glass is used as core"
+  ],
+  "trick": "Fiber core → Glass",
+  "exam_tip": "Important fiber optic question"
+},
+{
+  "id": 118,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Electrochemistry",
+  "question_type": "Repeated",
+  "question": "Which electrode is negative in an electrolytic cell?",
+  "options": {
+    "A": "Anode",
+    "B": "Cathode",
+    "C": "Neutral electrode",
+    "D": "Both A and B"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Cathode",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Cathode is connected to negative terminal",
+    "Reduction occurs at cathode"
+  ],
+  "trick": "Electrolytic → Cathode −",
+  "exam_tip": "Frequently confused concept"
+},
+{
+  "id": 119,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Elements",
+  "question_type": "Previous Year Based",
+  "question": "Which element is essential for making steel?",
+  "options": {
+    "A": "Carbon",
+    "B": "Zinc",
+    "C": "Copper",
+    "D": "Aluminium"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Carbon",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Steel is an alloy of iron and carbon",
+    "Carbon increases strength"
+  ],
+  "trick": "Steel → Carbon",
+  "exam_tip": "Very common metallurgy question"
+},
+{
+  "id": 120,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Measurement",
+  "question_type": "Repeated",
+  "question": "Which instrument is used to measure blood pressure?",
+  "options": {
+    "A": "Barometer",
+    "B": "Manometer",
+    "C": "Sphygmomanometer",
+    "D": "Thermometer"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Sphygmomanometer",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Blood pressure is measured in mm Hg",
+    "Instrument used is sphygmomanometer"
+  ],
+  "trick": "BP → Sphygmo",
+  "exam_tip": "Frequently asked biology-physics overlap"
+},
+{
+  "id": 121,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Acids & Bases",
+  "question_type": "Repeated",
+  "question": "Which base is used in the manufacture of soap?",
+  "options": {
+    "A": "Calcium hydroxide",
+    "B": "Sodium hydroxide",
+    "C": "Potassium hydroxide",
+    "D": "Ammonium hydroxide"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Sodium hydroxide",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Soap is made by saponification",
+    "Sodium hydroxide is commonly used"
+  ],
+  "trick": "Soap → NaOH",
+  "exam_tip": "Very common daily life chemistry MCQ"
+},
+{
+  "id": 122,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Sound",
+  "question_type": "Previous Year Based",
+  "question": "Which phenomenon causes sound to bend around obstacles?",
+  "options": {
+    "A": "Reflection",
+    "B": "Refraction",
+    "C": "Diffraction",
+    "D": "Resonance"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Diffraction",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Diffraction is bending of waves around obstacles",
+    "Sound waves show diffraction"
+  ],
+  "trick": "Bending → Diffraction",
+  "exam_tip": "Conceptual wave question"
+},
+{
+  "id": 123,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Atomic Structure",
+  "question_type": "Repeated",
+  "question": "Isotopes of an element have the same:",
+  "options": {
+    "A": "Mass number",
+    "B": "Atomic number",
+    "C": "Neutrons",
+    "D": "Mass"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Atomic number",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Isotopes differ in neutrons",
+    "Atomic number (protons) remains same"
+  ],
+  "trick": "Isotope → Same Z",
+  "exam_tip": "Very common atomic structure MCQ"
+},
+{
+  "id": 124,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Reactions",
+  "question_type": "Previous Year Based",
+  "question": "Which reaction involves formation of a precipitate?",
+  "options": {
+    "A": "Combination",
+    "B": "Decomposition",
+    "C": "Double displacement",
+    "D": "Oxidation"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Double displacement",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Precipitate forms when insoluble solid is produced",
+    "This occurs in double displacement reactions"
+  ],
+  "trick": "Precipitate → Double displacement",
+  "exam_tip": "Frequently asked chemistry concept"
+},
+{
+  "id": 125,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Electronics",
+  "question_type": "Repeated",
+  "question": "Which electronic component is used to reduce voltage?",
+  "options": {
+    "A": "Resistor",
+    "B": "Capacitor",
+    "C": "Transformer",
+    "D": "Diode"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Transformer",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Transformer can step up or step down voltage",
+    "Used in power supply circuits"
+  ],
+  "trick": "Voltage change → Transformer",
+  "exam_tip": "Important electronics MCQ"
+},
+{
+  "id": 126,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Motion",
+  "question_type": "Previous Year Based",
+  "question": "Uniform motion means:",
+  "options": {
+    "A": "Changing speed",
+    "B": "Equal distance in equal time",
+    "C": "Increasing speed",
+    "D": "Zero acceleration only"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Equal distance in equal time",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Uniform motion has constant speed",
+    "Hence equal distances in equal intervals of time"
+  ],
+  "trick": "Uniform → Equal distance",
+  "exam_tip": "Very basic motion MCQ"
+},
+{
+  "id": 127,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Everyday Life",
+  "question_type": "Repeated",
+  "question": "Which gas is used in fire extinguishers?",
+  "options": {
+    "A": "Oxygen",
+    "B": "Carbon dioxide",
+    "C": "Nitrogen",
+    "D": "Hydrogen"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Carbon dioxide",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "CO₂ does not support combustion",
+    "It cuts off oxygen supply"
+  ],
+  "trick": "Fire extinguisher → CO₂",
+  "exam_tip": "Very frequently asked MCQ"
+},
+{
+  "id": 128,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Units",
+  "question_type": "Previous Year Based",
+  "question": "Which SI unit is used to measure intensity of electric current?",
+  "options": {
+    "A": "Volt",
+    "B": "Ohm",
+    "C": "Ampere",
+    "D": "Watt"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Ampere",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Electric current intensity is current",
+    "SI unit is Ampere"
+  ],
+  "trick": "Current → Ampere",
+  "exam_tip": "Basic electricity MCQ"
+},
+{
+  "id": 129,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Elements",
+  "question_type": "Repeated",
+  "question": "Which metal is stored in kerosene?",
+  "options": {
+    "A": "Iron",
+    "B": "Copper",
+    "C": "Sodium",
+    "D": "Aluminium"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Sodium",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Sodium reacts violently with air and water",
+    "Hence it is stored in kerosene"
+  ],
+  "trick": "Reactive metal → Kerosene",
+  "exam_tip": "Very common chemistry MCQ"
+},
+{
+  "id": 130,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Heat",
+  "question_type": "Previous Year Based",
+  "question": "Which colour is the best absorber of heat?",
+  "options": {
+    "A": "White",
+    "B": "Red",
+    "C": "Black",
+    "D": "Yellow"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Black",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Black surfaces absorb maximum heat",
+    "White reflects most heat"
+  ],
+  "trick": "Absorb heat → Black",
+  "exam_tip": "Very common heat question"
+},
+{
+  "id": 131,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Acids & Bases",
+  "question_type": "Repeated",
+  "question": "Which acid is known as the king of chemicals?",
+  "options": {
+    "A": "Nitric acid",
+    "B": "Hydrochloric acid",
+    "C": "Sulphuric acid",
+    "D": "Phosphoric acid"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Sulphuric acid",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Sulphuric acid has wide industrial use",
+    "Hence called king of chemicals"
+  ],
+  "trick": "King of chemicals → H₂SO₄",
+  "exam_tip": "Very frequently asked static GK"
+},
+{
+  "id": 132,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Sound",
+  "question_type": "Previous Year Based",
+  "question": "Sound travels fastest in:",
+  "options": {
+    "A": "Gas",
+    "B": "Liquid",
+    "C": "Solid",
+    "D": "Vacuum"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Solid",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Particles are closest in solids",
+    "Sound transmission is fastest"
+  ],
+  "trick": "Closest particles → Fastest sound",
+  "exam_tip": "Very common sound MCQ"
+},
+{
+  "id": 133,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Atomic Structure",
+  "question_type": "Repeated",
+  "question": "Which subatomic particle determines the chemical properties of an element?",
+  "options": {
+    "A": "Proton",
+    "B": "Neutron",
+    "C": "Electron",
+    "D": "Nucleus"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Electron",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Chemical reactions involve outer electrons",
+    "Hence electrons determine chemical properties"
+  ],
+  "trick": "Chemistry → Electrons",
+  "exam_tip": "Important conceptual question"
+},
+{
+  "id": 134,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Communication",
+  "question_type": "Previous Year Based",
+  "question": "Which wave is used for satellite communication?",
+  "options": {
+    "A": "Radio waves",
+    "B": "Microwaves",
+    "C": "Infrared",
+    "D": "Ultraviolet"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Microwaves",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Microwaves can penetrate atmosphere",
+    "Used in satellite communication"
+  ],
+  "trick": "Satellite → Microwave",
+  "exam_tip": "Very common modern physics MCQ"
+},
+{
+  "id": 135,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Reactions",
+  "question_type": "Repeated",
+  "question": "Which process is used to prevent rusting?",
+  "options": {
+    "A": "Oxidation",
+    "B": "Reduction",
+    "C": "Galvanization",
+    "D": "Electrolysis"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Galvanization",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Galvanization coats iron with zinc",
+    "Zinc prevents corrosion"
+  ],
+  "trick": "Rust prevention → Galvanization",
+  "exam_tip": "Very frequently asked MCQ"
+},
+{
+  "id": 136,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Electronics",
+  "question_type": "Previous Year Based",
+  "question": "Which component opposes the flow of current?",
+  "options": {
+    "A": "Capacitor",
+    "B": "Resistor",
+    "C": "Diode",
+    "D": "Transistor"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Resistor",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Resistance opposes current",
+    "Resistor provides resistance"
+  ],
+  "trick": "Oppose current → Resistor",
+  "exam_tip": "Basic electronics MCQ"
+},
+{
+  "id": 137,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Everyday Life",
+  "question_type": "Repeated",
+  "question": "Which chemical is used in making glass?",
+  "options": {
+    "A": "Sodium chloride",
+    "B": "Calcium carbonate",
+    "C": "Silica",
+    "D": "Baking soda"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Silica",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Glass is made mainly from silica",
+    "Other compounds are added"
+  ],
+  "trick": "Glass → Silica",
+  "exam_tip": "Very common daily life chemistry question"
+},
+{
+  "id": 138,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Measurement",
+  "question_type": "Previous Year Based",
+  "question": "Which instrument measures electric potential difference?",
+  "options": {
+    "A": "Ammeter",
+    "B": "Voltmeter",
+    "C": "Galvanometer",
+    "D": "Ohmmeter"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Voltmeter",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Potential difference is voltage",
+    "Voltmeter measures voltage"
+  ],
+  "trick": "Voltage → Voltmeter",
+  "exam_tip": "Very common electricity MCQ"
+},
+{
+  "id": 139,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Acids & Bases",
+  "question_type": "Repeated",
+  "question": "Which substance turns red litmus blue?",
+  "options": {
+    "A": "Acid",
+    "B": "Base",
+    "C": "Salt",
+    "D": "Water"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Base",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Bases change red litmus to blue",
+    "Acids do the opposite"
+  ],
+  "trick": "Red → Blue = Base",
+  "exam_tip": "Very basic acid–base question"
+},
+{
+  "id": 140,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Heat",
+  "question_type": "Previous Year Based",
+  "question": "Which device works on the principle of convection?",
+  "options": {
+    "A": "Thermos flask",
+    "B": "Electric iron",
+    "C": "Room heater",
+    "D": "Solar cooker"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Room heater",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Hot air rises and cold air sinks",
+    "This circulation is convection"
+  ],
+  "trick": "Air circulation → Convection",
+  "exam_tip": "Conceptual heat transfer question"
+},
+{
+  "id": 141,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Atomic Structure",
+  "question_type": "Repeated",
+  "question": "Which scientist proposed the planetary model of atom?",
+  "options": {
+    "A": "Dalton",
+    "B": "Thomson",
+    "C": "Rutherford",
+    "D": "Bohr"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Rutherford",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Rutherford compared atom to solar system",
+    "Electrons revolve around nucleus"
+  ],
+  "trick": "Planetary model → Rutherford",
+  "exam_tip": "Frequently asked atomic model question"
+},
+{
+  "id": 142,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Motion",
+  "question_type": "Previous Year Based",
+  "question": "Which quantity changes in accelerated motion?",
+  "options": {
+    "A": "Mass",
+    "B": "Speed",
+    "C": "Distance",
+    "D": "Time"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Speed",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Acceleration is change in velocity",
+    "Velocity includes speed"
+  ],
+  "trick": "Acceleration → Speed change",
+  "exam_tip": "Basic motion concept"
+},
+{
+  "id": 143,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Reactions",
+  "question_type": "Repeated",
+  "question": "Which reaction occurs when acid reacts with base?",
+  "options": {
+    "A": "Oxidation",
+    "B": "Reduction",
+    "C": "Neutralization",
+    "D": "Displacement"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Neutralization",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Acid + Base → Salt + Water",
+    "This is neutralization"
+  ],
+  "trick": "Acid + Base → Neutral",
+  "exam_tip": "Very common chemistry MCQ"
+},
+{
+  "id": 144,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Sound",
+  "question_type": "Previous Year Based",
+  "question": "Which sound is harmful to human ears?",
+  "options": {
+    "A": "Low pitch sound",
+    "B": "High pitch sound",
+    "C": "Ultrasonic sound",
+    "D": "Audible sound"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Ultrasonic sound",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Ultrasonic waves have very high frequency",
+    "They can damage tissues"
+  ],
+  "trick": "Very high freq → Ultrasonic",
+  "exam_tip": "Frequently asked sound-related question"
+},
+{
+  "id": 145,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Elements",
+  "question_type": "Repeated",
+  "question": "Which element is required for making nuclear fuel?",
+  "options": {
+    "A": "Uranium",
+    "B": "Thorium",
+    "C": "Plutonium",
+    "D": "All of the above"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "All of the above",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Uranium, thorium and plutonium are nuclear fuels",
+    "Used in nuclear reactors"
+  ],
+  "trick": "Nuclear fuel → UTP",
+  "exam_tip": "Important science & technology MCQ"
+},
+{
+  "id": 146,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Units",
+  "question_type": "Previous Year Based",
+  "question": "Which unit is used to measure magnetic field strength?",
+  "options": {
+    "A": "Tesla",
+    "B": "Weber",
+    "C": "Gauss",
+    "D": "Ampere"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Tesla",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Magnetic field strength SI unit is Tesla",
+    "Named after Nikola Tesla"
+  ],
+  "trick": "Magnetic field → Tesla",
+  "exam_tip": "Less common but important unit question"
+},
+{
+  "id": 147,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Everyday Life",
+  "question_type": "Repeated",
+  "question": "Which chemical is used as an antacid?",
+  "options": {
+    "A": "Sodium carbonate",
+    "B": "Magnesium hydroxide",
+    "C": "Calcium sulphate",
+    "D": "Sodium chloride"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Magnesium hydroxide",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Antacids neutralize stomach acid",
+    "Magnesium hydroxide is a base"
+  ],
+  "trick": "Antacid → Mg(OH)₂",
+  "exam_tip": "Frequently asked health-related chemistry MCQ"
+},
+{
+  "id": 148,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Electronics",
+  "question_type": "Previous Year Based",
+  "question": "Which device converts electrical energy into light energy?",
+  "options": {
+    "A": "Electric motor",
+    "B": "Electric heater",
+    "C": "Electric bulb",
+    "D": "Generator"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Electric bulb",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Electric bulb glows due to heating of filament",
+    "It converts electrical energy to light"
+  ],
+  "trick": "Electric → Light = Bulb",
+  "exam_tip": "Very basic physics MCQ"
+},
+{
+  "id": 149,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Atomic Structure",
+  "question_type": "Repeated",
+  "question": "Which isotope of hydrogen is radioactive?",
+  "options": {
+    "A": "Protium",
+    "B": "Deuterium",
+    "C": "Tritium",
+    "D": "All are radioactive"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Tritium",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Tritium has two neutrons",
+    "It is radioactive"
+  ],
+  "trick": "Radioactive H → Tritium",
+  "exam_tip": "Frequently asked isotope question"
+},
+{
+  "id": 150,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Measurement",
+  "question_type": "Previous Year Based",
+  "question": "Which instrument is used to measure altitude?",
+  "options": {
+    "A": "Barometer",
+    "B": "Altimeter",
+    "C": "Hygrometer",
+    "D": "Manometer"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Altimeter",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Altitude means height above sea level",
+    "Altimeter measures altitude"
+  ],
+  "trick": "Altitude → Altimeter",
+  "exam_tip": "Very common geography-physics overlap"
+}
+,
+{
+  "id": 151,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Motion",
+  "question_type": "Previous Year Based",
+  "question": "What is the rate of change of velocity called?",
+  "options": {
+    "A": "Speed",
+    "B": "Acceleration",
+    "C": "Momentum",
+    "D": "Force"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Acceleration",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Velocity changes when speed or direction changes",
+    "Rate of change of velocity is acceleration"
+  ],
+  "trick": "ΔVelocity/time → Acceleration",
+  "exam_tip": "Very basic motion definition"
+},
+{
+  "id": 152,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Laws of Motion",
+  "question_type": "Repeated",
+  "question": "The unit of momentum is:",
+  "options": {
+    "A": "kg m/s",
+    "B": "kg m/s²",
+    "C": "N s",
+    "D": "Both A and C"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Both A and C",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Momentum = mass × velocity → kg m/s",
+    "Impulse = change in momentum → N s"
+  ],
+  "trick": "Momentum unit → kg·m/s = N·s",
+  "exam_tip": "Frequently confused units question"
+},
+{
+  "id": 153,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Gravitation",
+  "question_type": "Previous Year Based",
+  "question": "Where does a body have minimum weight?",
+  "options": {
+    "A": "At poles",
+    "B": "At equator",
+    "C": "At Earth’s center",
+    "D": "On mountain"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "At Earth’s center",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Weight depends on gravitational pull",
+    "At Earth’s center, gravity becomes zero"
+  ],
+  "trick": "Gravity zero → Weight zero",
+  "exam_tip": "Conceptual gravitation question"
+},
+{
+  "id": 154,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Heat",
+  "question_type": "Repeated",
+  "question": "Which metal expands most on heating?",
+  "options": {
+    "A": "Iron",
+    "B": "Aluminium",
+    "C": "Silver",
+    "D": "Lead"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Aluminium",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Different metals expand differently",
+    "Aluminium has high coefficient of expansion"
+  ],
+  "trick": "Max expansion → Aluminium",
+  "exam_tip": "Frequently asked heat property question"
+},
+{
+  "id": 155,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Electricity",
+  "question_type": "Previous Year Based",
+  "question": "Which device is used to convert mechanical energy into electrical energy?",
+  "options": {
+    "A": "Motor",
+    "B": "Generator",
+    "C": "Transformer",
+    "D": "Battery"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Generator",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Generator works on electromagnetic induction",
+    "It converts mechanical energy to electrical energy"
+  ],
+  "trick": "Mechanical → Electrical = Generator",
+  "exam_tip": "Very common energy conversion MCQ"
+},
+{
+  "id": 156,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Magnetism",
+  "question_type": "Repeated",
+  "question": "Which material is used to make permanent magnets?",
+  "options": {
+    "A": "Soft iron",
+    "B": "Steel",
+    "C": "Copper",
+    "D": "Aluminium"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Steel",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Permanent magnets need high retentivity",
+    "Steel retains magnetism"
+  ],
+  "trick": "Permanent magnet → Steel",
+  "exam_tip": "Common magnetism MCQ"
+},
+{
+  "id": 157,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Light",
+  "question_type": "Previous Year Based",
+  "question": "The image formed by a plane mirror is:",
+  "options": {
+    "A": "Real and inverted",
+    "B": "Virtual and erect",
+    "C": "Real and erect",
+    "D": "Virtual and inverted"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Virtual and erect",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Plane mirror does not form real image",
+    "Image is upright and virtual"
+  ],
+  "trick": "Plane mirror → Virtual + Erect",
+  "exam_tip": "Very basic optics MCQ"
+},
+{
+  "id": 158,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Sound",
+  "question_type": "Repeated",
+  "question": "The range of audible sound for humans is:",
+  "options": {
+    "A": "0–20 Hz",
+    "B": "20–20,000 Hz",
+    "C": "20,000–50,000 Hz",
+    "D": "Above 50,000 Hz"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "20–20,000 Hz",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Human ears can hear limited frequency range",
+    "Below is infrasonic, above is ultrasonic"
+  ],
+  "trick": "Human hearing → 20–20k Hz",
+  "exam_tip": "Very frequently asked sound MCQ"
+},
+{
+  "id": 159,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Matter",
+  "question_type": "Previous Year Based",
+  "question": "Which method is used to separate crude oil into different components?",
+  "options": {
+    "A": "Simple distillation",
+    "B": "Fractional distillation",
+    "C": "Evaporation",
+    "D": "Filtration"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Fractional distillation",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Crude oil has components with different boiling points",
+    "Fractional distillation separates them"
+  ],
+  "trick": "Crude oil → Fractional distillation",
+  "exam_tip": "Important industrial chemistry question"
+},
+{
+  "id": 160,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Elements",
+  "question_type": "Repeated",
+  "question": "Which element is most abundant in Earth’s crust?",
+  "options": {
+    "A": "Iron",
+    "B": "Silicon",
+    "C": "Oxygen",
+    "D": "Aluminium"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Oxygen",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Earth’s crust contains oxides",
+    "Oxygen is present in largest proportion"
+  ],
+  "trick": "Crust → Oxygen",
+  "exam_tip": "Frequently asked GK-Science overlap"
+},
+{
+  "id": 161,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Acids & Bases",
+  "question_type": "Previous Year Based",
+  "question": "Which acid is present in curd?",
+  "options": {
+    "A": "Citric acid",
+    "B": "Acetic acid",
+    "C": "Lactic acid",
+    "D": "Formic acid"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Lactic acid",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Curd is formed by fermentation",
+    "Lactic acid is produced"
+  ],
+  "trick": "Curd → Lactic",
+  "exam_tip": "Very common daily life chemistry MCQ"
+},
+{
+  "id": 162,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Atomic Structure",
+  "question_type": "Repeated",
+  "question": "Which scientist discovered the electron?",
+  "options": {
+    "A": "Rutherford",
+    "B": "Bohr",
+    "C": "J.J. Thomson",
+    "D": "Dalton"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "J.J. Thomson",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Electron was discovered using cathode ray experiment",
+    "Conducted by J.J. Thomson"
+  ],
+  "trick": "Electron → JJT",
+  "exam_tip": "Very frequently asked discovery question"
+},
+{
+  "id": 163,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Reactions",
+  "question_type": "Previous Year Based",
+  "question": "Which reaction releases energy?",
+  "options": {
+    "A": "Endothermic",
+    "B": "Exothermic",
+    "C": "Neutralization",
+    "D": "Decomposition"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Exothermic",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Exothermic reactions give out heat",
+    "Energy is released to surroundings"
+  ],
+  "trick": "Heat out → Exothermic",
+  "exam_tip": "Very common chemistry MCQ"
+},
+{
+  "id": 164,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Everyday Life",
+  "question_type": "Repeated",
+  "question": "Which chemical is used to preserve food?",
+  "options": {
+    "A": "Sodium benzoate",
+    "B": "Calcium carbonate",
+    "C": "Bleaching powder",
+    "D": "Ammonium chloride"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Sodium benzoate",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Sodium benzoate prevents microbial growth",
+    "Used as food preservative"
+  ],
+  "trick": "Preservative → Sodium benzoate",
+  "exam_tip": "Frequently asked daily life chemistry"
+},
+{
+  "id": 165,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Units",
+  "question_type": "Previous Year Based",
+  "question": "Which SI unit is used to measure pressure?",
+  "options": {
+    "A": "Newton",
+    "B": "Pascal",
+    "C": "Joule",
+    "D": "Bar"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Pascal",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Pressure = force / area",
+    "SI unit is Pascal"
+  ],
+  "trick": "Pressure → Pascal",
+  "exam_tip": "Very common unit question"
+},
+{
+  "id": 166,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Communication",
+  "question_type": "Repeated",
+  "question": "Which waves are used in radar?",
+  "options": {
+    "A": "Radio waves",
+    "B": "Microwaves",
+    "C": "Infrared",
+    "D": "Gamma rays"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Microwaves",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Radar requires short wavelength waves",
+    "Microwaves are used"
+  ],
+  "trick": "Radar → Microwave",
+  "exam_tip": "Common defence-related MCQ"
+},
+{
+  "id": 167,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Fiber Optics",
+  "question_type": "Previous Year Based",
+  "question": "Optical fibers are immune to:",
+  "options": {
+    "A": "Light loss",
+    "B": "Electromagnetic interference",
+    "C": "Signal transmission",
+    "D": "Total internal reflection"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Electromagnetic interference",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Fiber optics use light, not electricity",
+    "Hence immune to EMI"
+  ],
+  "trick": "Fiber → No EMI",
+  "exam_tip": "Important advantage-based question"
+},
+{
+  "id": 168,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Electrochemistry",
+  "question_type": "Repeated",
+  "question": "Which metal is used for electroplating iron to prevent rust?",
+  "options": {
+    "A": "Copper",
+    "B": "Tin",
+    "C": "Zinc",
+    "D": "Nickel"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Zinc",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Zinc coating prevents iron from oxidizing",
+    "This process is galvanization"
+  ],
+  "trick": "Iron coat → Zinc",
+  "exam_tip": "Very common corrosion MCQ"
+},
+{
+  "id": 169,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Elements",
+  "question_type": "Previous Year Based",
+  "question": "Which gas is known as dry ice?",
+  "options": {
+    "A": "Oxygen",
+    "B": "Nitrogen",
+    "C": "Solid carbon dioxide",
+    "D": "Sulphur dioxide"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Solid carbon dioxide",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Dry ice is solid form of CO₂",
+    "It sublimates directly into gas"
+  ],
+  "trick": "Dry ice → Solid CO₂",
+  "exam_tip": "Frequently asked trick question"
+},
+{
+  "id": 170,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Measurement",
+  "question_type": "Repeated",
+  "question": "Which instrument measures intensity of earthquakes?",
+  "options": {
+    "A": "Barometer",
+    "B": "Richter scale",
+    "C": "Seismograph",
+    "D": "Hygrometer"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Seismograph",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Seismograph records seismic waves",
+    "Used to measure earthquakes"
+  ],
+  "trick": "Earthquake → Seismograph",
+  "exam_tip": "Very common disaster-related MCQ"
+},
+{
+  "id": 171,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Acids & Bases",
+  "question_type": "Repeated",
+  "question": "Which base is known as caustic soda?",
+  "options": {
+    "A": "Potassium hydroxide",
+    "B": "Sodium hydroxide",
+    "C": "Calcium hydroxide",
+    "D": "Magnesium hydroxide"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Sodium hydroxide",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "NaOH is highly corrosive",
+    "Hence called caustic soda"
+  ],
+  "trick": "Caustic soda → NaOH",
+  "exam_tip": "Very frequently asked chemistry MCQ"
+},
+{
+  "id": 172,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Motion",
+  "question_type": "Previous Year Based",
+  "question": "Which graph represents uniform motion?",
+  "options": {
+    "A": "Curved distance–time graph",
+    "B": "Straight line distance–time graph",
+    "C": "Curved velocity–time graph",
+    "D": "Zigzag graph"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Straight line distance–time graph",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Uniform motion means constant speed",
+    "Distance–time graph is a straight line"
+  ],
+  "trick": "Uniform → Straight line",
+  "exam_tip": "Common graph-based MCQ"
+},
+{
+  "id": 173,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Atomic Structure",
+  "question_type": "Repeated",
+  "question": "Which particle was discovered by Chadwick?",
+  "options": {
+    "A": "Electron",
+    "B": "Proton",
+    "C": "Neutron",
+    "D": "Positron"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Neutron",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "James Chadwick discovered neutron",
+    "Neutron has no charge"
+  ],
+  "trick": "Chadwick → Neutron",
+  "exam_tip": "Very common discovery-based question"
+},
+{
+  "id": 174,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Electronics",
+  "question_type": "Previous Year Based",
+  "question": "Which device is used to store electrical energy temporarily?",
+  "options": {
+    "A": "Resistor",
+    "B": "Capacitor",
+    "C": "Diode",
+    "D": "Transistor"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Capacitor",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Capacitor stores charge between plates",
+    "Used in electronic circuits"
+  ],
+  "trick": "Store charge → Capacitor",
+  "exam_tip": "Very common electronics MCQ"
+},
+{
+  "id": 175,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Reactions",
+  "question_type": "Repeated",
+  "question": "Which reaction involves gain of electrons?",
+  "options": {
+    "A": "Oxidation",
+    "B": "Reduction",
+    "C": "Neutralization",
+    "D": "Combination"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Reduction",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Gain of electrons is reduction",
+    "Opposite of oxidation"
+  ],
+  "trick": "GER → Reduction",
+  "exam_tip": "Important redox concept"
+},
+{
+  "id": 176,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Units",
+  "question_type": "Previous Year Based",
+  "question": "Which SI unit is used to measure work?",
+  "options": {
+    "A": "Watt",
+    "B": "Joule",
+    "C": "Newton",
+    "D": "Pascal"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Joule",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Work is force × displacement",
+    "SI unit is Joule"
+  ],
+  "trick": "Work → Joule",
+  "exam_tip": "Basic physics unit question"
+},
+{
+  "id": 177,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Everyday Life",
+  "question_type": "Repeated",
+  "question": "Which chemical is used in photography?",
+  "options": {
+    "A": "Silver bromide",
+    "B": "Sodium chloride",
+    "C": "Calcium carbonate",
+    "D": "Copper sulphate"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Silver bromide",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Silver bromide is photosensitive",
+    "Used in photographic films"
+  ],
+  "trick": "Photography → AgBr",
+  "exam_tip": "Very common chemistry application question"
+},
+{
+  "id": 178,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Sound",
+  "question_type": "Previous Year Based",
+  "question": "Which sound has frequency below audible range?",
+  "options": {
+    "A": "Ultrasonic",
+    "B": "Audible",
+    "C": "Infrasonic",
+    "D": "Supersonic"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Infrasonic",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Below 20 Hz is infrasonic",
+    "Humans cannot hear it"
+  ],
+  "trick": "Below 20 Hz → Infrasonic",
+  "exam_tip": "Frequently asked sound MCQ"
+},
+{
+  "id": 179,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Elements",
+  "question_type": "Repeated",
+  "question": "Which metal is used to make electric wires?",
+  "options": {
+    "A": "Iron",
+    "B": "Copper",
+    "C": "Zinc",
+    "D": "Lead"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Copper",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Copper has high electrical conductivity",
+    "Used widely in wiring"
+  ],
+  "trick": "Wires → Copper",
+  "exam_tip": "Very basic electricity MCQ"
+},
+{
+  "id": 180,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Heat",
+  "question_type": "Previous Year Based",
+  "question": "Which device reduces heat loss by radiation?",
+  "options": {
+    "A": "Thermos flask",
+    "B": "Heater",
+    "C": "Refrigerator",
+    "D": "Solar cooker"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Thermos flask",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Silvered walls reflect heat",
+    "Radiation loss is minimized"
+  ],
+  "trick": "Heat saving → Thermos",
+  "exam_tip": "Very common heat application MCQ"
+},
+{
+  "id": 181,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Acids & Bases",
+  "question_type": "Repeated",
+  "question": "Which acid is found in ant sting?",
+  "options": {
+    "A": "Citric acid",
+    "B": "Formic acid",
+    "C": "Oxalic acid",
+    "D": "Acetic acid"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Formic acid",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Ant stings inject formic acid",
+    "It causes burning sensation"
+  ],
+  "trick": "Ant → Formic",
+  "exam_tip": "Very common biology-chemistry MCQ"
+},
+{
+  "id": 182,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Communication",
+  "question_type": "Previous Year Based",
+  "question": "Which device is used to amplify signals?",
+  "options": {
+    "A": "Diode",
+    "B": "Capacitor",
+    "C": "Transistor",
+    "D": "Resistor"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Transistor",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Transistors increase signal strength",
+    "Used as amplifiers"
+  ],
+  "trick": "Amplify → Transistor",
+  "exam_tip": "Very common electronics MCQ"
+},
+{
+  "id": 183,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Atomic Structure",
+  "question_type": "Repeated",
+  "question": "Which model explained quantized energy levels?",
+  "options": {
+    "A": "Dalton",
+    "B": "Rutherford",
+    "C": "Bohr",
+    "D": "Thomson"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Bohr",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Bohr introduced fixed energy levels",
+    "Explained hydrogen spectrum"
+  ],
+  "trick": "Energy levels → Bohr",
+  "exam_tip": "Frequently asked atomic model MCQ"
+},
+{
+  "id": 184,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Measurement",
+  "question_type": "Previous Year Based",
+  "question": "Which instrument measures electric resistance?",
+  "options": {
+    "A": "Ammeter",
+    "B": "Voltmeter",
+    "C": "Ohmmeter",
+    "D": "Galvanometer"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Ohmmeter",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Resistance is measured in ohms",
+    "Ohmmeter measures resistance"
+  ],
+  "trick": "Resistance → Ohmmeter",
+  "exam_tip": "Very common electricity MCQ"
+},
+{
+  "id": 185,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Reactions",
+  "question_type": "Repeated",
+  "question": "Which reaction occurs during respiration?",
+  "options": {
+    "A": "Endothermic",
+    "B": "Exothermic",
+    "C": "Neutralization",
+    "D": "Decomposition"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Exothermic",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Respiration releases energy",
+    "Hence it is exothermic"
+  ],
+  "trick": "Respiration → Energy out",
+  "exam_tip": "Very common biology-chemistry MCQ"
+},
+{
+  "id": 186,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Motion",
+  "question_type": "Previous Year Based",
+  "question": "Which quantity is zero in uniform circular motion?",
+  "options": {
+    "A": "Speed",
+    "B": "Velocity",
+    "C": "Acceleration",
+    "D": "Distance"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Velocity",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Velocity direction keeps changing",
+    "Net velocity over a full circle is zero"
+  ],
+  "trick": "Circle → Net velocity zero",
+  "exam_tip": "Conceptual motion question"
+},
+{
+  "id": 187,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Everyday Life",
+  "question_type": "Repeated",
+  "question": "Which chemical is used to soften hard water?",
+  "options": {
+    "A": "Washing soda",
+    "B": "Baking soda",
+    "C": "Bleaching powder",
+    "D": "Salt"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Washing soda",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Washing soda removes calcium and magnesium ions",
+    "It softens hard water"
+  ],
+  "trick": "Hard water → Washing soda",
+  "exam_tip": "Frequently asked chemistry application"
+},
+{
+  "id": 188,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Heat",
+  "question_type": "Previous Year Based",
+  "question": "Which mode of heat transfer occurs in solids?",
+  "options": {
+    "A": "Convection",
+    "B": "Radiation",
+    "C": "Conduction",
+    "D": "All"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Conduction",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Particles vibrate and pass energy",
+    "This is conduction"
+  ],
+  "trick": "Solid → Conduction",
+  "exam_tip": "Very common heat transfer MCQ"
+},
+{
+  "id": 189,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Atomic Structure",
+  "question_type": "Repeated",
+  "question": "Which particle has the least mass?",
+  "options": {
+    "A": "Proton",
+    "B": "Neutron",
+    "C": "Electron",
+    "D": "Alpha particle"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Electron",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Electron mass is negligible compared to proton",
+    "It is the lightest"
+  ],
+  "trick": "Lightest → Electron",
+  "exam_tip": "Basic atomic structure MCQ"
+},
+{
+  "id": 190,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Units",
+  "question_type": "Previous Year Based",
+  "question": "Which SI unit is used to measure luminous intensity?",
+  "options": {
+    "A": "Lux",
+    "B": "Lumen",
+    "C": "Candela",
+    "D": "Watt"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Candela",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Luminous intensity is basic SI quantity",
+    "Its SI unit is Candela"
+  ],
+  "trick": "Light intensity → Candela",
+  "exam_tip": "Less common but important unit question"
+},
+{
+  "id": 191,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Reactions",
+  "question_type": "Repeated",
+  "question": "Which reaction occurs in photosynthesis?",
+  "options": {
+    "A": "Exothermic",
+    "B": "Endothermic",
+    "C": "Neutralization",
+    "D": "Oxidation"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Endothermic",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Photosynthesis absorbs sunlight",
+    "Energy is absorbed"
+  ],
+  "trick": "Energy in → Endothermic",
+  "exam_tip": "Very common biology-chemistry overlap"
+},
+{
+  "id": 192,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Communication",
+  "question_type": "Previous Year Based",
+  "question": "Which part of EM spectrum is used for night vision?",
+  "options": {
+    "A": "Ultraviolet",
+    "B": "Infrared",
+    "C": "Microwaves",
+    "D": "X-rays"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Infrared",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Infrared detects heat",
+    "Used in night vision devices"
+  ],
+  "trick": "Night vision → IR",
+  "exam_tip": "Frequently asked technology MCQ"
+},
+{
+  "id": 193,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Elements",
+  "question_type": "Repeated",
+  "question": "Which gas is used in welding?",
+  "options": {
+    "A": "Oxygen",
+    "B": "Hydrogen",
+    "C": "Acetylene",
+    "D": "Nitrogen"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Acetylene",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Oxy-acetylene flame is very hot",
+    "Used for welding metals"
+  ],
+  "trick": "Welding → Acetylene",
+  "exam_tip": "Very common industrial chemistry MCQ"
+},
+{
+  "id": 194,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Measurement",
+  "question_type": "Previous Year Based",
+  "question": "Which instrument measures rainfall?",
+  "options": {
+    "A": "Hygrometer",
+    "B": "Rain gauge",
+    "C": "Anemometer",
+    "D": "Barometer"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Rain gauge",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Rainfall amount is collected and measured",
+    "Instrument is rain gauge"
+  ],
+  "trick": "Rain → Rain gauge",
+  "exam_tip": "Very common geography-science MCQ"
+},
+{
+  "id": 195,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Acids & Bases",
+  "question_type": "Repeated",
+  "question": "Which acid is used to remove rust?",
+  "options": {
+    "A": "Hydrochloric acid",
+    "B": "Nitric acid",
+    "C": "Acetic acid",
+    "D": "Citric acid"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Hydrochloric acid",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "HCl reacts with rust",
+    "Used for cleaning metal surfaces"
+  ],
+  "trick": "Rust clean → HCl",
+  "exam_tip": "Frequently asked application-based MCQ"
+},
+{
+  "id": 196,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Electronics",
+  "question_type": "Previous Year Based",
+  "question": "Which device is used to convert AC to DC?",
+  "options": {
+    "A": "Transformer",
+    "B": "Rectifier",
+    "C": "Generator",
+    "D": "Capacitor"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Rectifier",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Rectifier allows current in one direction",
+    "Converts AC to DC"
+  ],
+  "trick": "AC → DC = Rectifier",
+  "exam_tip": "Very common electronics MCQ"
+},
+{
+  "id": 197,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Atomic Structure",
+  "question_type": "Repeated",
+  "question": "Which element has maximum number of isotopes?",
+  "options": {
+    "A": "Carbon",
+    "B": "Hydrogen",
+    "C": "Tin",
+    "D": "Uranium"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Tin",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Tin has many stable isotopes",
+    "Maximum among elements"
+  ],
+  "trick": "Most isotopes → Tin",
+  "exam_tip": "Frequently asked static chemistry MCQ"
+},
+{
+  "id": 198,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Heat",
+  "question_type": "Previous Year Based",
+  "question": "Which phenomenon keeps Earth warm at night?",
+  "options": {
+    "A": "Reflection",
+    "B": "Conduction",
+    "C": "Greenhouse effect",
+    "D": "Convection"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Greenhouse effect",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Greenhouse gases trap heat",
+    "They prevent heat from escaping"
+  ],
+  "trick": "Heat trap → Greenhouse",
+  "exam_tip": "Very common environment-science MCQ"
+},
+{
+  "id": 199,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Everyday Life",
+  "question_type": "Repeated",
+  "question": "Which chemical is used in pain relievers?",
+  "options": {
+    "A": "Aspirin",
+    "B": "Urea",
+    "C": "Bleaching powder",
+    "D": "Caustic soda"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Aspirin",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Aspirin reduces pain and fever",
+    "Used as analgesic"
+  ],
+  "trick": "Pain relief → Aspirin",
+  "exam_tip": "Very common health-related MCQ"
+},
+{
+  "id": 200,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Measurement",
+  "question_type": "Previous Year Based",
+  "question": "Which unit is used to measure electric energy?",
+  "options": {
+    "A": "Watt",
+    "B": "Volt",
+    "C": "Kilowatt-hour",
+    "D": "Ampere"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Kilowatt-hour",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Electrical energy consumed is measured in kWh",
+    "Used in electricity bills"
+  ],
+  "trick": "Electric bill → kWh",
+  "exam_tip": "Very common electricity MCQ"
+}
+,
+{
+  "id": 201,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Motion",
+  "question_type": "Previous Year Based",
+  "question": "Which quantity is measured by a stopwatch?",
+  "options": {
+    "A": "Distance",
+    "B": "Speed",
+    "C": "Time",
+    "D": "Acceleration"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Time",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Stopwatch measures duration",
+    "Duration is time interval"
+  ],
+  "trick": "Stopwatch → Time",
+  "exam_tip": "Very common measurement MCQ"
+},
+{
+  "id": 202,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Laws of Motion",
+  "question_type": "Repeated",
+  "question": "Which law explains recoil of a gun?",
+  "options": {
+    "A": "First law",
+    "B": "Second law",
+    "C": "Third law",
+    "D": "Law of gravitation"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Third law",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Action and reaction are equal and opposite",
+    "Bullet moves forward, gun recoils backward"
+  ],
+  "trick": "Recoil → Action–Reaction",
+  "exam_tip": "Very frequently asked example-based MCQ"
+},
+{
+  "id": 203,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Gravitation",
+  "question_type": "Previous Year Based",
+  "question": "Escape velocity depends on:",
+  "options": {
+    "A": "Mass only",
+    "B": "Radius only",
+    "C": "Mass and radius",
+    "D": "Density only"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Mass and radius",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Escape velocity depends on gravitational pull",
+    "Gravity depends on mass and radius of planet"
+  ],
+  "trick": "Escape velocity → Mass + Radius",
+  "exam_tip": "Conceptual gravitation question"
+},
+{
+  "id": 204,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Heat",
+  "question_type": "Repeated",
+  "question": "Which gas is filled between the walls of a thermos flask?",
+  "options": {
+    "A": "Oxygen",
+    "B": "Nitrogen",
+    "C": "Air",
+    "D": "Vacuum"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Vacuum",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Vacuum prevents conduction and convection",
+    "Thus heat loss is minimized"
+  ],
+  "trick": "No heat loss → Vacuum",
+  "exam_tip": "Very common heat application MCQ"
+},
+{
+  "id": 205,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Electricity",
+  "question_type": "Previous Year Based",
+  "question": "Which of the following is an insulator?",
+  "options": {
+    "A": "Copper",
+    "B": "Iron",
+    "C": "Rubber",
+    "D": "Aluminium"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Rubber",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Insulators do not allow current to pass",
+    "Rubber is a good insulator"
+  ],
+  "trick": "No current → Rubber",
+  "exam_tip": "Very basic electricity MCQ"
+},
+{
+  "id": 206,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Magnetism",
+  "question_type": "Repeated",
+  "question": "Which property of magnet is used to make electromagnets?",
+  "options": {
+    "A": "Retentivity",
+    "B": "Permeability",
+    "C": "Coercivity",
+    "D": "Attraction"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Permeability",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Soft iron has high permeability",
+    "It gets magnetized easily"
+  ],
+  "trick": "Electromagnet → High permeability",
+  "exam_tip": "Frequently confused magnetism concept"
+},
+{
+  "id": 207,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Light",
+  "question_type": "Previous Year Based",
+  "question": "The speed of light is maximum in:",
+  "options": {
+    "A": "Glass",
+    "B": "Water",
+    "C": "Air",
+    "D": "Vacuum"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Vacuum",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Light travels fastest without medium",
+    "Vacuum offers no resistance"
+  ],
+  "trick": "Fastest light → Vacuum",
+  "exam_tip": "Very common optics MCQ"
+},
+{
+  "id": 208,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Sound",
+  "question_type": "Repeated",
+  "question": "Which device converts electrical signals into sound?",
+  "options": {
+    "A": "Microphone",
+    "B": "Amplifier",
+    "C": "Speaker",
+    "D": "Oscillator"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Speaker",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Speaker produces sound waves",
+    "It converts electrical energy into sound"
+  ],
+  "trick": "Electric → Sound = Speaker",
+  "exam_tip": "Basic communication MCQ"
+},
+{
+  "id": 209,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Matter",
+  "question_type": "Previous Year Based",
+  "question": "Which method is used to separate dyes from ink?",
+  "options": {
+    "A": "Distillation",
+    "B": "Filtration",
+    "C": "Chromatography",
+    "D": "Evaporation"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Chromatography",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Chromatography separates coloured components",
+    "Based on different absorption rates"
+  ],
+  "trick": "Ink colours → Chromatography",
+  "exam_tip": "Frequently asked separation technique"
+},
+{
+  "id": 210,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Elements",
+  "question_type": "Repeated",
+  "question": "Which element is used as a moderator in nuclear reactors?",
+  "options": {
+    "A": "Uranium",
+    "B": "Graphite",
+    "C": "Plutonium",
+    "D": "Thorium"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Graphite",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Moderator slows down neutrons",
+    "Graphite is commonly used"
+  ],
+  "trick": "Reactor moderator → Graphite",
+  "exam_tip": "Important nuclear science MCQ"
+},
+{
+  "id": 211,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Acids & Bases",
+  "question_type": "Previous Year Based",
+  "question": "Which acid is present in tamarind?",
+  "options": {
+    "A": "Citric acid",
+    "B": "Tartaric acid",
+    "C": "Oxalic acid",
+    "D": "Formic acid"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Tartaric acid",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Tamarind tastes sour due to tartaric acid",
+    "It is a natural organic acid"
+  ],
+  "trick": "Tamarind → Tartaric",
+  "exam_tip": "Very common daily life chemistry MCQ"
+},
+{
+  "id": 212,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Atomic Structure",
+  "question_type": "Repeated",
+  "question": "Which particle is responsible for nuclear stability?",
+  "options": {
+    "A": "Electron",
+    "B": "Proton",
+    "C": "Neutron",
+    "D": "Positron"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Neutron",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Neutrons reduce repulsion between protons",
+    "They stabilize the nucleus"
+  ],
+  "trick": "Nuclear stability → Neutron",
+  "exam_tip": "Conceptual atomic structure question"
+},
+{
+  "id": 213,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Reactions",
+  "question_type": "Previous Year Based",
+  "question": "Which reaction occurs in rusting?",
+  "options": {
+    "A": "Reduction",
+    "B": "Oxidation",
+    "C": "Neutralization",
+    "D": "Combination"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Oxidation",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Iron reacts with oxygen",
+    "Loss of electrons is oxidation"
+  ],
+  "trick": "Rust → Oxidation",
+  "exam_tip": "Very frequently repeated MCQ"
+},
+{
+  "id": 214,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Everyday Life",
+  "question_type": "Repeated",
+  "question": "Which chemical is used to ripen fruits artificially?",
+  "options": {
+    "A": "Ethylene",
+    "B": "Methane",
+    "C": "Propane",
+    "D": "Butane"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Ethylene",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Ethylene is a plant hormone",
+    "It accelerates ripening"
+  ],
+  "trick": "Fruit ripening → Ethylene",
+  "exam_tip": "Frequently asked application-based MCQ"
+},
+{
+  "id": 215,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Units",
+  "question_type": "Previous Year Based",
+  "question": "Which SI unit is used to measure luminous flux?",
+  "options": {
+    "A": "Candela",
+    "B": "Lux",
+    "C": "Lumen",
+    "D": "Watt"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Lumen",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Luminous flux measures total light output",
+    "SI unit is Lumen"
+  ],
+  "trick": "Light flow → Lumen",
+  "exam_tip": "Less common but important unit"
+},
+{
+  "id": 216,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Communication",
+  "question_type": "Repeated",
+  "question": "Which wave band is used in FM radio?",
+  "options": {
+    "A": "AM band",
+    "B": "Short wave",
+    "C": "VHF",
+    "D": "UHF"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "VHF",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "FM broadcasting uses very high frequency",
+    "VHF band provides better quality"
+  ],
+  "trick": "FM → VHF",
+  "exam_tip": "Frequently asked communication MCQ"
+},
+{
+  "id": 217,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Fiber Optics",
+  "question_type": "Previous Year Based",
+  "question": "Which phenomenon causes signal loss in optical fiber?",
+  "options": {
+    "A": "Reflection",
+    "B": "Refraction",
+    "C": "Attenuation",
+    "D": "Diffraction"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Attenuation",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Signal strength reduces over distance",
+    "This loss is called attenuation"
+  ],
+  "trick": "Signal loss → Attenuation",
+  "exam_tip": "Important fiber optics term"
+},
+{
+  "id": 218,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Electrochemistry",
+  "question_type": "Repeated",
+  "question": "Which process uses electricity to break compounds?",
+  "options": {
+    "A": "Electroplating",
+    "B": "Electrolysis",
+    "C": "Galvanization",
+    "D": "Distillation"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Electrolysis",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Electric current decomposes compounds",
+    "This process is electrolysis"
+  ],
+  "trick": "Electric break → Electrolysis",
+  "exam_tip": "Very common electrochemistry MCQ"
+},
+{
+  "id": 219,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Elements",
+  "question_type": "Previous Year Based",
+  "question": "Which gas is used in balloons?",
+  "options": {
+    "A": "Hydrogen",
+    "B": "Helium",
+    "C": "Nitrogen",
+    "D": "Oxygen"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Helium",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Helium is lighter than air",
+    "It is non-flammable"
+  ],
+  "trick": "Safe balloon gas → Helium",
+  "exam_tip": "Very common daily life MCQ"
+},
+{
+  "id": 220,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Measurement",
+  "question_type": "Repeated",
+  "question": "Which instrument measures sound intensity?",
+  "options": {
+    "A": "Audiometer",
+    "B": "Sound level meter",
+    "C": "Hygrometer",
+    "D": "Anemometer"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Sound level meter",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Sound intensity is measured in decibels",
+    "Sound level meter is used"
+  ],
+  "trick": "Sound intensity → SLM",
+  "exam_tip": "Less common but important"
+},
+{
+  "id": 221,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Acids & Bases",
+  "question_type": "Repeated",
+  "question": "Which acid is used in car batteries?",
+  "options": {
+    "A": "Nitric acid",
+    "B": "Hydrochloric acid",
+    "C": "Sulphuric acid",
+    "D": "Acetic acid"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Sulphuric acid",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Car batteries are lead–acid batteries",
+    "They use sulphuric acid"
+  ],
+  "trick": "Car battery → H₂SO₄",
+  "exam_tip": "Very frequently repeated MCQ"
+},
+{
+  "id": 222,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Heat",
+  "question_type": "Previous Year Based",
+  "question": "Which law explains increase in volume of gases on heating?",
+  "options": {
+    "A": "Boyle’s law",
+    "B": "Charles’ law",
+    "C": "Avogadro’s law",
+    "D": "Newton’s law"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Charles’ law",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Charles’ law relates volume and temperature",
+    "Volume increases with temperature"
+  ],
+  "trick": "Volume–Temp → Charles",
+  "exam_tip": "Very common gas law MCQ"
+},
+{
+  "id": 223,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Atomic Structure",
+  "question_type": "Repeated",
+  "question": "Which element has atomic number 6?",
+  "options": {
+    "A": "Nitrogen",
+    "B": "Oxygen",
+    "C": "Carbon",
+    "D": "Boron"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Carbon",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Atomic number equals number of protons",
+    "Carbon has 6 protons"
+  ],
+  "trick": "Z = 6 → Carbon",
+  "exam_tip": "Very basic atomic number MCQ"
+},
+{
+  "id": 224,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Electronics",
+  "question_type": "Previous Year Based",
+  "question": "Which component smoothens DC output in power supply?",
+  "options": {
+    "A": "Resistor",
+    "B": "Capacitor",
+    "C": "Diode",
+    "D": "Transformer"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Capacitor",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Capacitor stores and releases charge",
+    "It smoothens ripples"
+  ],
+  "trick": "Smooth DC → Capacitor",
+  "exam_tip": "Important electronics MCQ"
+},
+{
+  "id": 225,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Reactions",
+  "question_type": "Repeated",
+  "question": "Which reaction involves single displacement?",
+  "options": {
+    "A": "Zn + CuSO₄ → ZnSO₄ + Cu",
+    "B": "CaO + H₂O → Ca(OH)₂",
+    "C": "AgNO₃ + NaCl → AgCl + NaNO₃",
+    "D": "2H₂O → 2H₂ + O₂"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Zn + CuSO₄ → ZnSO₄ + Cu",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Zinc displaces copper",
+    "Only one element is displaced"
+  ],
+  "trick": "Single replace → Displacement",
+  "exam_tip": "Very common reaction identification"
+},
+{
+  "id": 226,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Motion",
+  "question_type": "Previous Year Based",
+  "question": "Which motion has constant acceleration?",
+  "options": {
+    "A": "Uniform motion",
+    "B": "Circular motion",
+    "C": "Free fall",
+    "D": "Oscillatory motion"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Free fall",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Acceleration due to gravity is constant",
+    "Free fall motion has constant acceleration"
+  ],
+  "trick": "Free fall → g constant",
+  "exam_tip": "Frequently asked motion concept"
+},
+{
+  "id": 227,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Everyday Life",
+  "question_type": "Repeated",
+  "question": "Which chemical is used in tooth decay prevention?",
+  "options": {
+    "A": "Fluoride",
+    "B": "Chloride",
+    "C": "Iodine",
+    "D": "Bromine"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Fluoride",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Fluoride strengthens enamel",
+    "Prevents tooth decay"
+  ],
+  "trick": "Teeth → Fluoride",
+  "exam_tip": "Frequently asked health-based MCQ"
+},
+{
+  "id": 228,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Units",
+  "question_type": "Previous Year Based",
+  "question": "Which SI unit is used to measure electric field?",
+  "options": {
+    "A": "Volt",
+    "B": "Newton",
+    "C": "Volt per meter",
+    "D": "Ampere"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Volt per meter",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Electric field = Force per charge",
+    "SI unit is V/m"
+  ],
+  "trick": "Electric field → V/m",
+  "exam_tip": "Conceptual electricity MCQ"
+},
+{
+  "id": 229,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Elements",
+  "question_type": "Repeated",
+  "question": "Which metal is used in thermometers?",
+  "options": {
+    "A": "Lead",
+    "B": "Mercury",
+    "C": "Silver",
+    "D": "Aluminium"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Mercury",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Mercury expands uniformly",
+    "Clearly visible in glass tube"
+  ],
+  "trick": "Thermometer → Mercury",
+  "exam_tip": "Very common property-based MCQ"
+},
+{
+  "id": 230,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Heat",
+  "question_type": "Previous Year Based",
+  "question": "Which surface is best reflector of heat?",
+  "options": {
+    "A": "Black",
+    "B": "Rough",
+    "C": "White",
+    "D": "Shiny silver"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Shiny silver",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Shiny surfaces reflect heat",
+    "Used in thermos flasks"
+  ],
+  "trick": "Reflect heat → Shiny",
+  "exam_tip": "Very common heat MCQ"
+},
+{
+  "id": 231,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Acids & Bases",
+  "question_type": "Repeated",
+  "question": "Which base is used in whitewashing?",
+  "options": {
+    "A": "Calcium oxide",
+    "B": "Calcium hydroxide",
+    "C": "Sodium hydroxide",
+    "D": "Potassium hydroxide"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Calcium hydroxide",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Slaked lime is calcium hydroxide",
+    "Used in whitewashing"
+  ],
+  "trick": "Whitewash → Ca(OH)₂",
+  "exam_tip": "Very common daily life MCQ"
+},
+{
+  "id": 232,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Communication",
+  "question_type": "Previous Year Based",
+  "question": "Which wave is used in Bluetooth technology?",
+  "options": {
+    "A": "Radio waves",
+    "B": "Microwaves",
+    "C": "Infrared",
+    "D": "X-rays"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Radio waves",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Bluetooth uses short-range radio waves",
+    "Works in 2.4 GHz band"
+  ],
+  "trick": "Bluetooth → Radio",
+  "exam_tip": "Frequently asked technology MCQ"
+},
+{
+  "id": 233,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Atomic Structure",
+  "question_type": "Repeated",
+  "question": "Which isotope is used in cancer treatment?",
+  "options": {
+    "A": "Cobalt-60",
+    "B": "Uranium-235",
+    "C": "Carbon-14",
+    "D": "Hydrogen-3"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Cobalt-60",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Cobalt-60 emits gamma rays",
+    "Used in radiotherapy"
+  ],
+  "trick": "Cancer therapy → Co-60",
+  "exam_tip": "Very important medical science MCQ"
+},
+{
+  "id": 234,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Measurement",
+  "question_type": "Previous Year Based",
+  "question": "Which instrument measures atmospheric humidity?",
+  "options": {
+    "A": "Barometer",
+    "B": "Hygrometer",
+    "C": "Thermometer",
+    "D": "Altimeter"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Hygrometer",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Humidity means moisture in air",
+    "Measured by hygrometer"
+  ],
+  "trick": "Humidity → Hygrometer",
+  "exam_tip": "Very common weather MCQ"
+},
+{
+  "id": 235,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Reactions",
+  "question_type": "Repeated",
+  "question": "Which reaction involves two or more substances combining?",
+  "options": {
+    "A": "Combination",
+    "B": "Decomposition",
+    "C": "Displacement",
+    "D": "Neutralization"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Combination",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Multiple reactants form single product",
+    "This is combination reaction"
+  ],
+  "trick": "Many → One = Combination",
+  "exam_tip": "Very common reaction-type MCQ"
+},
+{
+  "id": 236,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Electronics",
+  "question_type": "Previous Year Based",
+  "question": "Which device is used to control current in a circuit?",
+  "options": {
+    "A": "Capacitor",
+    "B": "Resistor",
+    "C": "Diode",
+    "D": "Transistor"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Resistor",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Resistor limits current",
+    "Protects circuit components"
+  ],
+  "trick": "Control current → Resistor",
+  "exam_tip": "Basic electronics MCQ"
+},
+{
+  "id": 237,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Everyday Life",
+  "question_type": "Repeated",
+  "question": "Which chemical is used to disinfect wounds?",
+  "options": {
+    "A": "Phenyl",
+    "B": "Iodine",
+    "C": "Bleaching powder",
+    "D": "Alcohol"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Iodine",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Iodine kills bacteria",
+    "Used as antiseptic"
+  ],
+  "trick": "Wound disinfect → Iodine",
+  "exam_tip": "Very common health MCQ"
+},
+{
+  "id": 238,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Units",
+  "question_type": "Previous Year Based",
+  "question": "Which unit is used to measure sound intensity level?",
+  "options": {
+    "A": "Hertz",
+    "B": "Decibel",
+    "C": "Watt",
+    "D": "Newton"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Decibel",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Sound level is measured logarithmically",
+    "Unit used is decibel"
+  ],
+  "trick": "Sound level → dB",
+  "exam_tip": "Very common sound MCQ"
+},
+{
+  "id": 239,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Elements",
+  "question_type": "Repeated",
+  "question": "Which metal is used in making coins?",
+  "options": {
+    "A": "Gold",
+    "B": "Silver",
+    "C": "Copper",
+    "D": "Alloy"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Alloy",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Coins need durability",
+    "Alloys are stronger than pure metals"
+  ],
+  "trick": "Coins → Alloy",
+  "exam_tip": "Frequently asked GK–Science overlap"
+},
+{
+  "id": 240,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Heat",
+  "question_type": "Previous Year Based",
+  "question": "Which phenomenon explains mirage?",
+  "options": {
+    "A": "Reflection",
+    "B": "Refraction",
+    "C": "Total internal reflection",
+    "D": "Diffraction"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Total internal reflection",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Light bends through layers of air",
+    "Undergoes total internal reflection"
+  ],
+  "trick": "Mirage → TIR",
+  "exam_tip": "Very common optics MCQ"
+},
+{
+  "id": 241,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Acids & Bases",
+  "question_type": "Repeated",
+  "question": "Which base is present in milk of magnesia?",
+  "options": {
+    "A": "Calcium hydroxide",
+    "B": "Magnesium hydroxide",
+    "C": "Sodium hydroxide",
+    "D": "Potassium hydroxide"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Magnesium hydroxide",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Milk of magnesia is antacid",
+    "Contains magnesium hydroxide"
+  ],
+  "trick": "Milk of magnesia → Mg(OH)₂",
+  "exam_tip": "Very common chemistry MCQ"
+},
+{
+  "id": 242,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Communication",
+  "question_type": "Previous Year Based",
+  "question": "Which communication uses optical fiber?",
+  "options": {
+    "A": "Cable TV",
+    "B": "Internet",
+    "C": "Telephone",
+    "D": "All of the above"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "All of the above",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Optical fiber is used widely",
+    "Supports data, voice and video"
+  ],
+  "trick": "Fiber use → All",
+  "exam_tip": "Modern communication MCQ"
+},
+{
+  "id": 243,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Atomic Structure",
+  "question_type": "Repeated",
+  "question": "Which element is used in atomic clocks?",
+  "options": {
+    "A": "Cesium",
+    "B": "Uranium",
+    "C": "Plutonium",
+    "D": "Carbon"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Cesium",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Cesium-133 vibrations are very stable",
+    "Used to define second"
+  ],
+  "trick": "Atomic clock → Cesium",
+  "exam_tip": "Important science & technology MCQ"
+},
+{
+  "id": 244,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Measurement",
+  "question_type": "Previous Year Based",
+  "question": "Which instrument measures blood oxygen level?",
+  "options": {
+    "A": "ECG",
+    "B": "Pulse oximeter",
+    "C": "Sphygmomanometer",
+    "D": "Thermometer"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Pulse oximeter",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Pulse oximeter measures SpO₂",
+    "Used widely in hospitals"
+  ],
+  "trick": "Oxygen level → Oximeter",
+  "exam_tip": "Recently repeated in exams"
+},
+{
+  "id": 245,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Reactions",
+  "question_type": "Repeated",
+  "question": "Which reaction occurs when quicklime reacts with water?",
+  "options": {
+    "A": "Endothermic",
+    "B": "Exothermic",
+    "C": "Neutralization",
+    "D": "Displacement"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Exothermic",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Heat is released",
+    "Reaction produces slaked lime"
+  ],
+  "trick": "Quicklime + Water → Heat",
+  "exam_tip": "Very common chemistry MCQ"
+},
+{
+  "id": 246,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Electronics",
+  "question_type": "Previous Year Based",
+  "question": "Which device converts DC to AC?",
+  "options": {
+    "A": "Rectifier",
+    "B": "Inverter",
+    "C": "Generator",
+    "D": "Transformer"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Inverter",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Inverter changes DC into AC",
+    "Used in power backup systems"
+  ],
+  "trick": "DC → AC = Inverter",
+  "exam_tip": "Very common electronics MCQ"
+},
+{
+  "id": 247,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Everyday Life",
+  "question_type": "Repeated",
+  "question": "Which chemical is used in making detergents?",
+  "options": {
+    "A": "Sodium sulphate",
+    "B": "Sodium nitrate",
+    "C": "Sodium phosphate",
+    "D": "Sodium chloride"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Sodium phosphate",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Sodium phosphates soften water",
+    "Improve detergent efficiency"
+  ],
+  "trick": "Detergent → Phosphate",
+  "exam_tip": "Frequently asked daily life chemistry MCQ"
+},
+{
+  "id": 248,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Units",
+  "question_type": "Previous Year Based",
+  "question": "Which SI unit is used to measure power?",
+  "options": {
+    "A": "Joule",
+    "B": "Newton",
+    "C": "Watt",
+    "D": "Volt"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Watt",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Power = Work / Time",
+    "SI unit is Watt"
+  ],
+  "trick": "Power → Watt",
+  "exam_tip": "Very common unit MCQ"
+},
+{
+  "id": 249,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Chemistry – Elements",
+  "question_type": "Repeated",
+  "question": "Which element is used in LED lights?",
+  "options": {
+    "A": "Silicon",
+    "B": "Gallium",
+    "C": "Germanium",
+    "D": "Arsenic"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Gallium",
+  "difficulty": "Medium",
+  "explanation_step_by_step": [
+    "Gallium compounds emit light",
+    "Used in LEDs"
+  ],
+  "trick": "LED → Gallium",
+  "exam_tip": "Modern science MCQ"
+},
+{
+  "id": 250,
+  "exam": "Delhi Police Head Constable",
+  "subject": "General Science",
+  "topic": "Physics – Measurement",
+  "question_type": "Previous Year Based",
+  "question": "Which quantity is measured in joule?",
+  "options": {
+    "A": "Force",
+    "B": "Power",
+    "C": "Energy",
+    "D": "Pressure"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Energy",
+  "difficulty": "Easy",
+  "explanation_step_by_step": [
+    "Joule is SI unit of work and energy",
+    "Energy is capacity to do work"
+  ],
+  "trick": "Joule → Energy",
+  "exam_tip": "Very basic but repeated MCQ"
+}
+
+
+  
+
+
+
+
+
+]

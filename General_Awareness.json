@@ -1,0 +1,4539 @@
+[
+  {
+    "id": 1,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Indian Polity",
+    "question_type": "Previous Year Based",
+    "question": "Which Part of the Indian Constitution deals with Fundamental Rights?",
+    "options": {
+      "A": "Part II",
+      "B": "Part III",
+      "C": "Part IV",
+      "D": "Part V"
+    },
+    "correct_answer": "B",
+    "correct_option_text": "Part III",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Indian Constitution",
+    "question_type": "Repeated",
+    "question": "Who is the constitutional head of India?",
+    "options": {
+      "A": "Prime Minister",
+      "B": "President",
+      "C": "Chief Justice of India",
+      "D": "Vice-President"
+    },
+    "correct_answer": "B",
+    "correct_option_text": "President",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Indian Constitution",
+    "question_type": "Previous Exam Based",
+    "question": "On which date did the Indian Constitution come into force?",
+    "options": {
+      "A": "15 August 1947",
+      "B": "26 November 1949",
+      "C": "26 January 1950",
+      "D": "2 October 1950"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "26 January 1950",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "History",
+    "question_type": "Previous Year Based",
+    "question": "Who founded the Maurya Dynasty?",
+    "options": {
+      "A": "Ashoka",
+      "B": "Bindusara",
+      "C": "Chandragupta Maurya",
+      "D": "Bimbisara"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "Chandragupta Maurya",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 5,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "History",
+    "question_type": "Repeated",
+    "question": "Which Veda is the oldest?",
+    "options": {
+      "A": "Samaveda",
+      "B": "Rigveda",
+      "C": "Yajurveda",
+      "D": "Atharvaveda"
+    },
+    "correct_answer": "B",
+    "correct_option_text": "Rigveda",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 6,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Geography",
+    "question_type": "Repeated",
+    "question": "Which river is known as the 'Sorrow of Bihar'?",
+    "options": {
+      "A": "Ganga",
+      "B": "Kosi",
+      "C": "Son",
+      "D": "Ghaghara"
+    },
+    "correct_answer": "B",
+    "correct_option_text": "Kosi",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 7,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Geography",
+    "question_type": "Old Important",
+    "question": "Which is the largest state in India by area?",
+    "options": {
+      "A": "Uttar Pradesh",
+      "B": "Madhya Pradesh",
+      "C": "Rajasthan",
+      "D": "Maharashtra"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "Rajasthan",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 8,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Indian Economy",
+    "question_type": "Previous Exam Based",
+    "question": "Which body prepares the Economic Survey of India?",
+    "options": {
+      "A": "RBI",
+      "B": "NITI Aayog",
+      "C": "Ministry of Finance",
+      "D": "Planning Commission"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "Ministry of Finance",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 9,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Indian Economy",
+    "question_type": "Repeated",
+    "question": "Which is the central bank of India?",
+    "options": {
+      "A": "SBI",
+      "B": "RBI",
+      "C": "NABARD",
+      "D": "PNB"
+    },
+    "correct_answer": "B",
+    "correct_option_text": "RBI",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 10,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Science",
+    "question_type": "Static GK",
+    "question": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": {
+      "A": "Oxygen",
+      "B": "Nitrogen",
+      "C": "Carbon dioxide",
+      "D": "Hydrogen"
+    },
+    "correct_answer": "B",
+    "correct_option_text": "Nitrogen",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 11,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Science",
+    "question_type": "Repeated",
+    "question": "What is the chemical symbol of Gold?",
+    "options": {
+      "A": "Ag",
+      "B": "Au",
+      "C": "Gd",
+      "D": "Go"
+    },
+    "correct_answer": "B",
+    "correct_option_text": "Au",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 12,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Geography",
+    "question_type": "Old Important",
+    "question": "Which is the longest river in India?",
+    "options": {
+      "A": "Yamuna",
+      "B": "Godavari",
+      "C": "Ganga",
+      "D": "Brahmaputra"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "Ganga",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 13,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Polity",
+    "question_type": "Repeated",
+    "question": "Who appoints the Chief Election Commissioner of India?",
+    "options": {
+      "A": "Prime Minister",
+      "B": "President",
+      "C": "Parliament",
+      "D": "Supreme Court"
+    },
+    "correct_answer": "B",
+    "correct_option_text": "President",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 14,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "History",
+    "question_type": "Old Important",
+    "question": "Who wrote 'Arthashastra'?",
+    "options": {
+      "A": "Kalidasa",
+      "B": "Chanakya",
+      "C": "Panini",
+      "D": "Tulsidas"
+    },
+    "correct_answer": "B",
+    "correct_option_text": "Chanakya",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 15,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Geography",
+    "question_type": "Repeated",
+    "question": "Which country shares the longest land border with India?",
+    "options": {
+      "A": "China",
+      "B": "Pakistan",
+      "C": "Bangladesh",
+      "D": "Nepal"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "Bangladesh",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 16,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Economy",
+    "question_type": "Repeated",
+    "question": "What is the currency of Japan?",
+    "options": {
+      "A": "Won",
+      "B": "Yen",
+      "C": "Dollar",
+      "D": "Peso"
+    },
+    "correct_answer": "B",
+    "correct_option_text": "Yen",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 17,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Science",
+    "question_type": "Static GK",
+    "question": "Which vitamin is produced in the human body by sunlight?",
+    "options": {
+      "A": "Vitamin A",
+      "B": "Vitamin B",
+      "C": "Vitamin C",
+      "D": "Vitamin D"
+    },
+    "correct_answer": "D",
+    "correct_option_text": "Vitamin D",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 18,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Polity",
+    "question_type": "Repeated",
+    "question": "How many Fundamental Duties are there in the Indian Constitution?",
+    "options": {
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "12"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "11",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 19,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "History",
+    "question_type": "Old Important",
+    "question": "Who was the first President of India?",
+    "options": {
+      "A": "Rajendra Prasad",
+      "B": "Jawaharlal Nehru",
+      "C": "S. Radhakrishnan",
+      "D": "V. V. Giri"
+    },
+    "correct_answer": "A",
+    "correct_option_text": "Rajendra Prasad",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 20,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Geography",
+    "question_type": "Repeated",
+    "question": "Which ocean is the largest?",
+    "options": {
+      "A": "Atlantic",
+      "B": "Indian",
+      "C": "Arctic",
+      "D": "Pacific"
+    },
+    "correct_answer": "D",
+    "correct_option_text": "Pacific",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 21,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Science",
+    "question_type": "Static GK",
+    "question": "What is the SI unit of force?",
+    "options": {
+      "A": "Joule",
+      "B": "Watt",
+      "C": "Newton",
+      "D": "Pascal"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "Newton",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Economy",
+    "question_type": "Old Important",
+    "question": "Which Five Year Plan is known as the 'Gadgil Plan'?",
+    "options": {
+      "A": "Fourth",
+      "B": "Fifth",
+      "C": "Sixth",
+      "D": "Seventh"
+    },
+    "correct_answer": "A",
+    "correct_option_text": "Fourth",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 23,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Polity",
+    "question_type": "Repeated",
+    "question": "What is the tenure of the Lok Sabha?",
+    "options": {
+      "A": "4 years",
+      "B": "5 years",
+      "C": "6 years",
+      "D": "7 years"
+    },
+    "correct_answer": "B",
+    "correct_option_text": "5 years",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 24,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "History",
+    "question_type": "Repeated",
+    "question": "Who gave the slogan 'Do or Die'?",
+    "options": {
+      "A": "Bhagat Singh",
+      "B": "Subhas Chandra Bose",
+      "C": "Mahatma Gandhi",
+      "D": "Jawaharlal Nehru"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "Mahatma Gandhi",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 25,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Geography",
+    "question_type": "Old Important",
+    "question": "Which plateau is known as the 'Storehouse of Minerals' in India?",
+    "options": {
+      "A": "Deccan Plateau",
+      "B": "Malwa Plateau",
+      "C": "Chota Nagpur Plateau",
+      "D": "Bundelkhand Plateau"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "Chota Nagpur Plateau",
+    "difficulty": "Easy"
+  },
+
+
+  {
+    "id": 26,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Indian Polity",
+    "question_type": "Previous Year Based",
+    "question": "Which Article of the Indian Constitution abolishes untouchability?",
+    "options": {
+      "A": "Article 14",
+      "B": "Article 15",
+      "C": "Article 17",
+      "D": "Article 18"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "Article 17",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 27,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Indian Polity",
+    "question_type": "Repeated",
+    "question": "Who presides over the joint session of Parliament?",
+    "options": {
+      "A": "President",
+      "B": "Vice-President",
+      "C": "Prime Minister",
+      "D": "Speaker of Lok Sabha"
+    },
+    "correct_answer": "D",
+    "correct_option_text": "Speaker of Lok Sabha",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 28,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Indian Constitution",
+    "question_type": "Old Important",
+    "question": "Which amendment added Fundamental Duties to the Constitution?",
+    "options": {
+      "A": "24th Amendment",
+      "B": "42nd Amendment",
+      "C": "44th Amendment",
+      "D": "52nd Amendment"
+    },
+    "correct_answer": "B",
+    "correct_option_text": "42nd Amendment",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 29,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "History",
+    "question_type": "Previous Year Based",
+    "question": "Who was the last Governor-General of independent India?",
+    "options": {
+      "A": "Lord Mountbatten",
+      "B": "C. Rajagopalachari",
+      "C": "Lord Wavell",
+      "D": "Lord Linlithgow"
+    },
+    "correct_answer": "B",
+    "correct_option_text": "C. Rajagopalachari",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 30,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "History",
+    "question_type": "Repeated",
+    "question": "In which year did the Jallianwala Bagh massacre take place?",
+    "options": {
+      "A": "1917",
+      "B": "1918",
+      "C": "1919",
+      "D": "1920"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "1919",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 31,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Geography",
+    "question_type": "Old Important",
+    "question": "Which latitude passes through the middle of India?",
+    "options": {
+      "A": "Tropic of Cancer",
+      "B": "Equator",
+      "C": "Arctic Circle",
+      "D": "Tropic of Capricorn"
+    },
+    "correct_answer": "A",
+    "correct_option_text": "Tropic of Cancer",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 32,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Geography",
+    "question_type": "Repeated",
+    "question": "Which is the largest desert in the world?",
+    "options": {
+      "A": "Sahara",
+      "B": "Gobi",
+      "C": "Thar",
+      "D": "Kalahari"
+    },
+    "correct_answer": "A",
+    "correct_option_text": "Sahara",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 33,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Indian Economy",
+    "question_type": "Previous Exam Based",
+    "question": "Which tax was replaced by GST in India?",
+    "options": {
+      "A": "Income Tax",
+      "B": "Custom Duty",
+      "C": "Value Added Tax",
+      "D": "Corporation Tax"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "Value Added Tax",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 34,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Indian Economy",
+    "question_type": "Repeated",
+    "question": "Which organization regulates the banking system in India?",
+    "options": {
+      "A": "SEBI",
+      "B": "RBI",
+      "C": "IRDAI",
+      "D": "Finance Ministry"
+    },
+    "correct_answer": "B",
+    "correct_option_text": "RBI",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 35,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Science",
+    "question_type": "Static GK",
+    "question": "Which blood group is known as the universal donor?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "AB",
+      "D": "O"
+    },
+    "correct_answer": "D",
+    "correct_option_text": "O",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 36,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Science",
+    "question_type": "Repeated",
+    "question": "What is the boiling point of water at sea level?",
+    "options": {
+      "A": "90°C",
+      "B": "95°C",
+      "C": "100°C",
+      "D": "110°C"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "100°C",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 37,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Polity",
+    "question_type": "Previous Year Based",
+    "question": "Who appoints the Governor of a State?",
+    "options": {
+      "A": "Prime Minister",
+      "B": "Chief Minister",
+      "C": "President",
+      "D": "Parliament"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "President",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 38,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Polity",
+    "question_type": "Repeated",
+    "question": "What is the minimum age to become the President of India?",
+    "options": {
+      "A": "25 years",
+      "B": "30 years",
+      "C": "35 years",
+      "D": "40 years"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "35 years",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 39,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "History",
+    "question_type": "Old Important",
+    "question": "Who was the first Mughal ruler of India?",
+    "options": {
+      "A": "Akbar",
+      "B": "Humayun",
+      "C": "Babur",
+      "D": "Babar Shah"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "Babur",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 40,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "History",
+    "question_type": "Repeated",
+    "question": "Which movement is associated with the slogan 'Quit India'?",
+    "options": {
+      "A": "Non-Cooperation Movement",
+      "B": "Civil Disobedience Movement",
+      "C": "Quit India Movement",
+      "D": "Swadeshi Movement"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "Quit India Movement",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 41,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Geography",
+    "question_type": "Old Important",
+    "question": "Which Indian state has the longest coastline?",
+    "options": {
+      "A": "Tamil Nadu",
+      "B": "Andhra Pradesh",
+      "C": "Gujarat",
+      "D": "Maharashtra"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "Gujarat",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 42,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Geography",
+    "question_type": "Repeated",
+    "question": "Which mountain range separates India from Central Asia?",
+    "options": {
+      "A": "Aravalli",
+      "B": "Vindhya",
+      "C": "Himalayas",
+      "D": "Karakoram"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "Himalayas",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 43,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Economy",
+    "question_type": "Previous Year Based",
+    "question": "Which sector contributes the maximum share to India's GDP?",
+    "options": {
+      "A": "Agriculture",
+      "B": "Industry",
+      "C": "Service",
+      "D": "Mining"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "Service",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 44,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Economy",
+    "question_type": "Repeated",
+    "question": "Which Indian bank is known as the banker to the government?",
+    "options": {
+      "A": "RBI",
+      "B": "SBI",
+      "C": "PNB",
+      "D": "IB"
+    },
+    "correct_answer": "A",
+    "correct_option_text": "RBI",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 45,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Science",
+    "question_type": "Static GK",
+    "question": "Which part of the human body controls balance?",
+    "options": {
+      "A": "Cerebrum",
+      "B": "Cerebellum",
+      "C": "Medulla",
+      "D": "Spinal cord"
+    },
+    "correct_answer": "B",
+    "correct_option_text": "Cerebellum",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 46,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Science",
+    "question_type": "Repeated",
+    "question": "Which organ purifies blood in the human body?",
+    "options": {
+      "A": "Liver",
+      "B": "Heart",
+      "C": "Kidney",
+      "D": "Lungs"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "Kidney",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 47,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Polity",
+    "question_type": "Previous Year Based",
+    "question": "Which body conducts elections in India?",
+    "options": {
+      "A": "Supreme Court",
+      "B": "Parliament",
+      "C": "Election Commission of India",
+      "D": "NITI Aayog"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "Election Commission of India",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 48,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Polity",
+    "question_type": "Repeated",
+    "question": "What is the tenure of the Rajya Sabha?",
+    "options": {
+      "A": "4 years",
+      "B": "5 years",
+      "C": "6 years",
+      "D": "Permanent House"
+    },
+    "correct_answer": "D",
+    "correct_option_text": "Permanent House",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 49,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "History",
+    "question_type": "Old Important",
+    "question": "Who was the first woman Prime Minister of India?",
+    "options": {
+      "A": "Sonia Gandhi",
+      "B": "Indira Gandhi",
+      "C": "Sarojini Naidu",
+      "D": "Pratibha Patil"
+    },
+    "correct_answer": "B",
+    "correct_option_text": "Indira Gandhi",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 50,
+    "exam": "Delhi Police Head Constable",
+    "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+    "subject": "General Awareness",
+    "topic": "Geography",
+    "question_type": "Old Important",
+    "question": "Which is the smallest state in India by area?",
+    "options": {
+      "A": "Sikkim",
+      "B": "Tripura",
+      "C": "Goa",
+      "D": "Mizoram"
+    },
+    "correct_answer": "C",
+    "correct_option_text": "Goa",
+    "difficulty": "Easy"
+  }
+
+,
+{
+  "id": 51,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Polity",
+  "question_type": "Previous Year Based",
+  "question": "Which Article of the Indian Constitution deals with Equality before Law?",
+  "options": {
+    "A": "Article 13",
+    "B": "Article 14",
+    "C": "Article 15",
+    "D": "Article 16"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Article 14",
+  "difficulty": "Easy"
+},
+{
+  "id": 52,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Polity",
+  "question_type": "Repeated",
+  "question": "Who can remove the President of India from office?",
+  "options": {
+    "A": "Supreme Court",
+    "B": "Prime Minister",
+    "C": "Parliament",
+    "D": "Election Commission"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Parliament",
+  "difficulty": "Medium"
+},
+{
+  "id": 53,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Constitution",
+  "question_type": "Old Important",
+  "question": "Which schedule of the Indian Constitution deals with the allocation of seats in Rajya Sabha?",
+  "options": {
+    "A": "Third Schedule",
+    "B": "Fourth Schedule",
+    "C": "Fifth Schedule",
+    "D": "Sixth Schedule"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Fourth Schedule",
+  "difficulty": "Medium"
+},
+{
+  "id": 54,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Previous Year Based",
+  "question": "Who was the first Governor-General of independent India?",
+  "options": {
+    "A": "Lord Mountbatten",
+    "B": "C. Rajagopalachari",
+    "C": "Jawaharlal Nehru",
+    "D": "Rajendra Prasad"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Lord Mountbatten",
+  "difficulty": "Easy"
+},
+{
+  "id": 55,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Repeated",
+  "question": "The Indus Valley Civilization belongs to which age?",
+  "options": {
+    "A": "Stone Age",
+    "B": "Bronze Age",
+    "C": "Iron Age",
+    "D": "Copper Age"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Bronze Age",
+  "difficulty": "Easy"
+},
+{
+  "id": 56,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Old Important",
+  "question": "Which river originates from the Amarkantak plateau?",
+  "options": {
+    "A": "Narmada",
+    "B": "Tapi",
+    "C": "Godavari",
+    "D": "Mahanadi"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Narmada",
+  "difficulty": "Easy"
+},
+{
+  "id": 57,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Repeated",
+  "question": "Which Indian state shares borders with the maximum number of states?",
+  "options": {
+    "A": "Uttar Pradesh",
+    "B": "Madhya Pradesh",
+    "C": "Rajasthan",
+    "D": "Maharashtra"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Madhya Pradesh",
+  "difficulty": "Medium"
+},
+{
+  "id": 58,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Previous Year Based",
+  "question": "What is the full form of GST?",
+  "options": {
+    "A": "General Sales Tax",
+    "B": "Gross Service Tax",
+    "C": "Goods and Services Tax",
+    "D": "Government Sales Tax"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Goods and Services Tax",
+  "difficulty": "Easy"
+},
+{
+  "id": 59,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Repeated",
+  "question": "Which committee recommended the introduction of GST in India?",
+  "options": {
+    "A": "Kelkar Committee",
+    "B": "Gadgil Committee",
+    "C": "Sarkaria Committee",
+    "D": "Narasimham Committee"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Kelkar Committee",
+  "difficulty": "Medium"
+},
+{
+  "id": 60,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Static GK",
+  "question": "Which metal is liquid at room temperature?",
+  "options": {
+    "A": "Iron",
+    "B": "Mercury",
+    "C": "Sodium",
+    "D": "Lead"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Mercury",
+  "difficulty": "Easy"
+},
+{
+  "id": 61,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Repeated",
+  "question": "Which part of the plant conducts photosynthesis?",
+  "options": {
+    "A": "Root",
+    "B": "Stem",
+    "C": "Leaf",
+    "D": "Flower"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Leaf",
+  "difficulty": "Easy"
+},
+{
+  "id": 62,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Previous Year Based",
+  "question": "Which body has the power to amend the Constitution?",
+  "options": {
+    "A": "Supreme Court",
+    "B": "President",
+    "C": "Parliament",
+    "D": "Election Commission"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Parliament",
+  "difficulty": "Easy"
+},
+{
+  "id": 63,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Old Important",
+  "question": "Who started the Home Rule Movement in India?",
+  "options": {
+    "A": "Bal Gangadhar Tilak",
+    "B": "Annie Besant",
+    "C": "Both A and B",
+    "D": "Gopal Krishna Gokhale"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Both A and B",
+  "difficulty": "Medium"
+},
+{
+  "id": 64,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Repeated",
+  "question": "Which soil is also known as Regur soil?",
+  "options": {
+    "A": "Red soil",
+    "B": "Black soil",
+    "C": "Laterite soil",
+    "D": "Alluvial soil"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Black soil",
+  "difficulty": "Easy"
+},
+{
+  "id": 65,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Repeated",
+  "question": "Which organization publishes the National Income data in India?",
+  "options": {
+    "A": "RBI",
+    "B": "SEBI",
+    "C": "NSO",
+    "D": "NITI Aayog"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "NSO",
+  "difficulty": "Medium"
+},
+{
+  "id": 66,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Static GK",
+  "question": "What is the pH value of pure water?",
+  "options": {
+    "A": "5",
+    "B": "6",
+    "C": "7",
+    "D": "8"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "7",
+  "difficulty": "Easy"
+},
+{
+  "id": 67,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Repeated",
+  "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
+  "options": {
+    "A": "President",
+    "B": "Vice-President",
+    "C": "Prime Minister",
+    "D": "Speaker"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Vice-President",
+  "difficulty": "Easy"
+},
+{
+  "id": 68,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Repeated",
+  "question": "Who was known as the Iron Man of India?",
+  "options": {
+    "A": "Jawaharlal Nehru",
+    "B": "Sardar Vallabhbhai Patel",
+    "C": "Subhas Chandra Bose",
+    "D": "B. R. Ambedkar"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Sardar Vallabhbhai Patel",
+  "difficulty": "Easy"
+},
+{
+  "id": 69,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Old Important",
+  "question": "Which is the highest mountain peak in India?",
+  "options": {
+    "A": "Mount Everest",
+    "B": "Kanchenjunga",
+    "C": "Nanda Devi",
+    "D": "K2"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Kanchenjunga",
+  "difficulty": "Easy"
+},
+{
+  "id": 70,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Previous Year Based",
+  "question": "Which budget introduced GST in India?",
+  "options": {
+    "A": "2015–16",
+    "B": "2016–17",
+    "C": "2017–18",
+    "D": "2018–19"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "2017–18",
+  "difficulty": "Medium"
+},
+{
+  "id": 71,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Static GK",
+  "question": "Which vitamin helps in blood clotting?",
+  "options": {
+    "A": "Vitamin A",
+    "B": "Vitamin C",
+    "C": "Vitamin D",
+    "D": "Vitamin K"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Vitamin K",
+  "difficulty": "Easy"
+},
+{
+  "id": 72,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Repeated",
+  "question": "Which amendment lowered the voting age to 18 years?",
+  "options": {
+    "A": "42nd",
+    "B": "44th",
+    "C": "61st",
+    "D": "73rd"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "61st",
+  "difficulty": "Easy"
+},
+{
+  "id": 73,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Old Important",
+  "question": "Who founded the Sikh religion?",
+  "options": {
+    "A": "Guru Gobind Singh",
+    "B": "Guru Nanak Dev",
+    "C": "Guru Tegh Bahadur",
+    "D": "Guru Arjan Dev"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Guru Nanak Dev",
+  "difficulty": "Easy"
+},
+{
+  "id": 74,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Repeated",
+  "question": "Which sea lies to the south of India?",
+  "options": {
+    "A": "Arabian Sea",
+    "B": "Bay of Bengal",
+    "C": "Red Sea",
+    "D": "Indian Ocean"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Indian Ocean",
+  "difficulty": "Easy"
+},
+{
+  "id": 75,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Repeated",
+  "question": "Which body replaced the Planning Commission of India?",
+  "options": {
+    "A": "Finance Commission",
+    "B": "Economic Advisory Council",
+    "C": "NITI Aayog",
+    "D": "NSO"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "NITI Aayog",
+  "difficulty": "Easy"
+}
+,
+{
+  "id": 76,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Polity",
+  "question_type": "Previous Year Based",
+  "question": "Which Article of the Indian Constitution deals with freedom of speech and expression?",
+  "options": {
+    "A": "Article 14",
+    "B": "Article 15",
+    "C": "Article 19",
+    "D": "Article 21"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Article 19",
+  "difficulty": "Easy"
+},
+{
+  "id": 77,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Polity",
+  "question_type": "Repeated",
+  "question": "Who administers the oath of office to the President of India?",
+  "options": {
+    "A": "Prime Minister",
+    "B": "Vice-President",
+    "C": "Chief Justice of India",
+    "D": "Speaker of Lok Sabha"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Chief Justice of India",
+  "difficulty": "Easy"
+},
+{
+  "id": 78,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Constitution",
+  "question_type": "Old Important",
+  "question": "Which Schedule of the Indian Constitution deals with tribal areas?",
+  "options": {
+    "A": "Fourth Schedule",
+    "B": "Fifth Schedule",
+    "C": "Sixth Schedule",
+    "D": "Seventh Schedule"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Sixth Schedule",
+  "difficulty": "Medium"
+},
+{
+  "id": 79,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Previous Year Based",
+  "question": "Who was the first Indian to become the Viceroy of India?",
+  "options": {
+    "A": "C. Rajagopalachari",
+    "B": "Lord Mountbatten",
+    "C": "Rajendra Prasad",
+    "D": "Jawaharlal Nehru"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "C. Rajagopalachari",
+  "difficulty": "Easy"
+},
+{
+  "id": 80,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Repeated",
+  "question": "In which year did the Quit India Movement start?",
+  "options": {
+    "A": "1940",
+    "B": "1941",
+    "C": "1942",
+    "D": "1943"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "1942",
+  "difficulty": "Easy"
+},
+{
+  "id": 81,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Old Important",
+  "question": "Which is the longest mountain range in the world?",
+  "options": {
+    "A": "Himalayas",
+    "B": "Andes",
+    "C": "Rockies",
+    "D": "Alps"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Andes",
+  "difficulty": "Easy"
+},
+{
+  "id": 82,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Repeated",
+  "question": "Which Indian river flows into the Arabian Sea?",
+  "options": {
+    "A": "Godavari",
+    "B": "Krishna",
+    "C": "Kaveri",
+    "D": "Narmada"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Narmada",
+  "difficulty": "Easy"
+},
+{
+  "id": 83,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Previous Year Based",
+  "question": "Which authority fixes the Minimum Support Price (MSP) in India?",
+  "options": {
+    "A": "RBI",
+    "B": "NITI Aayog",
+    "C": "Cabinet Committee on Economic Affairs",
+    "D": "Finance Commission"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Cabinet Committee on Economic Affairs",
+  "difficulty": "Medium"
+},
+{
+  "id": 84,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Repeated",
+  "question": "Which bank issues currency notes in India?",
+  "options": {
+    "A": "State Bank of India",
+    "B": "Reserve Bank of India",
+    "C": "Finance Ministry",
+    "D": "SEBI"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Reserve Bank of India",
+  "difficulty": "Easy"
+},
+{
+  "id": 85,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Static GK",
+  "question": "Which organ in the human body produces insulin?",
+  "options": {
+    "A": "Liver",
+    "B": "Pancreas",
+    "C": "Kidney",
+    "D": "Spleen"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Pancreas",
+  "difficulty": "Easy"
+},
+{
+  "id": 86,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Repeated",
+  "question": "Which metal is the best conductor of electricity?",
+  "options": {
+    "A": "Copper",
+    "B": "Silver",
+    "C": "Aluminium",
+    "D": "Gold"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Silver",
+  "difficulty": "Easy"
+},
+{
+  "id": 87,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Previous Year Based",
+  "question": "Which body recommends the distribution of taxes between Centre and States?",
+  "options": {
+    "A": "NITI Aayog",
+    "B": "Finance Commission",
+    "C": "Planning Commission",
+    "D": "GST Council"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Finance Commission",
+  "difficulty": "Medium"
+},
+{
+  "id": 88,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Repeated",
+  "question": "What is the minimum age to become a member of the Lok Sabha?",
+  "options": {
+    "A": "21 years",
+    "B": "23 years",
+    "C": "25 years",
+    "D": "30 years"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "25 years",
+  "difficulty": "Easy"
+},
+{
+  "id": 89,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Old Important",
+  "question": "Who was the founder of the Gupta Dynasty?",
+  "options": {
+    "A": "Samudragupta",
+    "B": "Chandragupta I",
+    "C": "Skandagupta",
+    "D": "Kumaragupta"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Chandragupta I",
+  "difficulty": "Medium"
+},
+{
+  "id": 90,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Repeated",
+  "question": "Which book was written by B. R. Ambedkar?",
+  "options": {
+    "A": "Discovery of India",
+    "B": "Annihilation of Caste",
+    "C": "India Wins Freedom",
+    "D": "Hind Swaraj"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Annihilation of Caste",
+  "difficulty": "Easy"
+},
+{
+  "id": 91,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Old Important",
+  "question": "Which Indian state has the highest population?",
+  "options": {
+    "A": "Bihar",
+    "B": "Maharashtra",
+    "C": "Uttar Pradesh",
+    "D": "West Bengal"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Uttar Pradesh",
+  "difficulty": "Easy"
+},
+{
+  "id": 92,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Repeated",
+  "question": "Which continent is known as the Dark Continent?",
+  "options": {
+    "A": "Asia",
+    "B": "Africa",
+    "C": "Europe",
+    "D": "Australia"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Africa",
+  "difficulty": "Easy"
+},
+{
+  "id": 93,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Previous Year Based",
+  "question": "Which index measures inflation at the consumer level?",
+  "options": {
+    "A": "WPI",
+    "B": "CPI",
+    "C": "IIP",
+    "D": "GDP Deflator"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "CPI",
+  "difficulty": "Easy"
+},
+{
+  "id": 94,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Repeated",
+  "question": "Which organization publishes the Index of Industrial Production (IIP)?",
+  "options": {
+    "A": "RBI",
+    "B": "NSO",
+    "C": "SEBI",
+    "D": "NITI Aayog"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "NSO",
+  "difficulty": "Medium"
+},
+{
+  "id": 95,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Static GK",
+  "question": "Which vitamin deficiency causes scurvy?",
+  "options": {
+    "A": "Vitamin A",
+    "B": "Vitamin B",
+    "C": "Vitamin C",
+    "D": "Vitamin D"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Vitamin C",
+  "difficulty": "Easy"
+},
+{
+  "id": 96,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Repeated",
+  "question": "What is the unit of electric current?",
+  "options": {
+    "A": "Volt",
+    "B": "Ohm",
+    "C": "Ampere",
+    "D": "Watt"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Ampere",
+  "difficulty": "Easy"
+},
+{
+  "id": 97,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Previous Year Based",
+  "question": "Which body is known as the watchdog of Indian democracy?",
+  "options": {
+    "A": "Supreme Court",
+    "B": "Election Commission",
+    "C": "CAG",
+    "D": "Parliament"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "CAG",
+  "difficulty": "Medium"
+},
+{
+  "id": 98,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Repeated",
+  "question": "Who appoints the Chief Justice of India?",
+  "options": {
+    "A": "Prime Minister",
+    "B": "President",
+    "C": "Parliament",
+    "D": "Vice-President"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "President",
+  "difficulty": "Easy"
+},
+{
+  "id": 99,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Old Important",
+  "question": "Who introduced the Permanent Settlement in India?",
+  "options": {
+    "A": "Lord Cornwallis",
+    "B": "Lord Dalhousie",
+    "C": "Lord Hastings",
+    "D": "Lord Wellesley"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Lord Cornwallis",
+  "difficulty": "Medium"
+},
+{
+  "id": 100,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Old Important",
+  "question": "Which strait separates India and Sri Lanka?",
+  "options": {
+    "A": "Malacca Strait",
+    "B": "Palk Strait",
+    "C": "Hormuz Strait",
+    "D": "Bering Strait"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Palk Strait",
+  "difficulty": "Easy"
+}
+,
+{
+  "id": 101,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Polity",
+  "question_type": "Previous Year Based",
+  "question": "Which Article of the Indian Constitution deals with protection of life and personal liberty?",
+  "options": {
+    "A": "Article 19",
+    "B": "Article 20",
+    "C": "Article 21",
+    "D": "Article 22"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Article 21",
+  "difficulty": "Easy"
+},
+{
+  "id": 102,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Polity",
+  "question_type": "Repeated",
+  "question": "Which house of Parliament is also known as the Upper House?",
+  "options": {
+    "A": "Lok Sabha",
+    "B": "Rajya Sabha",
+    "C": "Legislative Assembly",
+    "D": "Vidhan Sabha"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Rajya Sabha",
+  "difficulty": "Easy"
+},
+{
+  "id": 103,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Constitution",
+  "question_type": "Old Important",
+  "question": "Which amendment is known as the Mini Constitution?",
+  "options": {
+    "A": "24th Amendment",
+    "B": "42nd Amendment",
+    "C": "44th Amendment",
+    "D": "52nd Amendment"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "42nd Amendment",
+  "difficulty": "Medium"
+},
+{
+  "id": 104,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Previous Year Based",
+  "question": "Who was the first Indian woman President of the Indian National Congress?",
+  "options": {
+    "A": "Annie Besant",
+    "B": "Sarojini Naidu",
+    "C": "Indira Gandhi",
+    "D": "Vijaya Lakshmi Pandit"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Annie Besant",
+  "difficulty": "Medium"
+},
+{
+  "id": 105,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Repeated",
+  "question": "Who wrote the book 'Discovery of India'?",
+  "options": {
+    "A": "Mahatma Gandhi",
+    "B": "Jawaharlal Nehru",
+    "C": "B. R. Ambedkar",
+    "D": "Rajendra Prasad"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Jawaharlal Nehru",
+  "difficulty": "Easy"
+},
+{
+  "id": 106,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Old Important",
+  "question": "Which Indian river is called the 'Dakshin Ganga'?",
+  "options": {
+    "A": "Krishna",
+    "B": "Godavari",
+    "C": "Cauvery",
+    "D": "Tungabhadra"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Godavari",
+  "difficulty": "Easy"
+},
+{
+  "id": 107,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Repeated",
+  "question": "Which Indian state is known as the 'Spice Garden of India'?",
+  "options": {
+    "A": "Tamil Nadu",
+    "B": "Kerala",
+    "C": "Karnataka",
+    "D": "Andhra Pradesh"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Kerala",
+  "difficulty": "Easy"
+},
+{
+  "id": 108,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Previous Year Based",
+  "question": "Which tax is levied directly on income?",
+  "options": {
+    "A": "GST",
+    "B": "Custom Duty",
+    "C": "Income Tax",
+    "D": "Excise Duty"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Income Tax",
+  "difficulty": "Easy"
+},
+{
+  "id": 109,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Repeated",
+  "question": "Which organization controls monetary policy in India?",
+  "options": {
+    "A": "Ministry of Finance",
+    "B": "RBI",
+    "C": "SEBI",
+    "D": "NITI Aayog"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "RBI",
+  "difficulty": "Easy"
+},
+{
+  "id": 110,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Static GK",
+  "question": "Which organ is responsible for purification of blood in humans?",
+  "options": {
+    "A": "Heart",
+    "B": "Liver",
+    "C": "Kidney",
+    "D": "Lungs"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Kidney",
+  "difficulty": "Easy"
+},
+{
+  "id": 111,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Repeated",
+  "question": "Which gas is essential for respiration?",
+  "options": {
+    "A": "Carbon dioxide",
+    "B": "Nitrogen",
+    "C": "Oxygen",
+    "D": "Hydrogen"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Oxygen",
+  "difficulty": "Easy"
+},
+{
+  "id": 112,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Previous Year Based",
+  "question": "Which body audits the accounts of the Government of India?",
+  "options": {
+    "A": "RBI",
+    "B": "CAG",
+    "C": "Finance Commission",
+    "D": "NITI Aayog"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "CAG",
+  "difficulty": "Easy"
+},
+{
+  "id": 113,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Repeated",
+  "question": "What is the maximum strength of the Lok Sabha?",
+  "options": {
+    "A": "545",
+    "B": "550",
+    "C": "552",
+    "D": "560"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "552",
+  "difficulty": "Easy"
+},
+{
+  "id": 114,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Old Important",
+  "question": "Who was the founder of the Brahmo Samaj?",
+  "options": {
+    "A": "Raja Ram Mohan Roy",
+    "B": "Dayanand Saraswati",
+    "C": "Swami Vivekananda",
+    "D": "Ishwar Chandra Vidyasagar"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Raja Ram Mohan Roy",
+  "difficulty": "Easy"
+},
+{
+  "id": 115,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Repeated",
+  "question": "Who was the first Indian to win a Nobel Prize?",
+  "options": {
+    "A": "C. V. Raman",
+    "B": "Rabindranath Tagore",
+    "C": "Mother Teresa",
+    "D": "Amartya Sen"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Rabindranath Tagore",
+  "difficulty": "Easy"
+},
+{
+  "id": 116,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Old Important",
+  "question": "Which Indian state is known as the 'Land of Rising Sun'?",
+  "options": {
+    "A": "Assam",
+    "B": "Arunachal Pradesh",
+    "C": "Nagaland",
+    "D": "Manipur"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Arunachal Pradesh",
+  "difficulty": "Easy"
+},
+{
+  "id": 117,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Repeated",
+  "question": "Which country is known as the 'Land of the Midnight Sun'?",
+  "options": {
+    "A": "Norway",
+    "B": "Sweden",
+    "C": "Finland",
+    "D": "Iceland"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Norway",
+  "difficulty": "Easy"
+},
+{
+  "id": 118,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Previous Year Based",
+  "question": "Which body decides the repo rate in India?",
+  "options": {
+    "A": "Finance Ministry",
+    "B": "RBI",
+    "C": "SEBI",
+    "D": "NITI Aayog"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "RBI",
+  "difficulty": "Easy"
+},
+{
+  "id": 119,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Repeated",
+  "question": "Which committee recommended bank nationalization in India?",
+  "options": {
+    "A": "Narasimham Committee",
+    "B": "Kelkar Committee",
+    "C": "Gadgil Committee",
+    "D": "Indira Gandhi Committee"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Narasimham Committee",
+  "difficulty": "Medium"
+},
+{
+  "id": 120,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Static GK",
+  "question": "Which disease is caused by deficiency of iodine?",
+  "options": {
+    "A": "Rickets",
+    "B": "Goitre",
+    "C": "Scurvy",
+    "D": "Anemia"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Goitre",
+  "difficulty": "Easy"
+},
+{
+  "id": 121,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Repeated",
+  "question": "What is the chemical formula of water?",
+  "options": {
+    "A": "H2O",
+    "B": "CO2",
+    "C": "O2",
+    "D": "H2O2"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "H2O",
+  "difficulty": "Easy"
+},
+{
+  "id": 122,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Previous Year Based",
+  "question": "Who has the power to dissolve the Lok Sabha?",
+  "options": {
+    "A": "Prime Minister",
+    "B": "President",
+    "C": "Speaker",
+    "D": "Chief Justice"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "President",
+  "difficulty": "Easy"
+},
+{
+  "id": 123,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Repeated",
+  "question": "Which Article provides for the establishment of the Supreme Court?",
+  "options": {
+    "A": "Article 124",
+    "B": "Article 131",
+    "C": "Article 136",
+    "D": "Article 141"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Article 124",
+  "difficulty": "Medium"
+},
+{
+  "id": 124,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Old Important",
+  "question": "Who led the Dandi March in 1930?",
+  "options": {
+    "A": "Jawaharlal Nehru",
+    "B": "Sardar Patel",
+    "C": "Mahatma Gandhi",
+    "D": "Rajendra Prasad"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Mahatma Gandhi",
+  "difficulty": "Easy"
+},
+{
+  "id": 125,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Old Important",
+  "question": "Which Indian city is known as the 'Silicon Valley of India'?",
+  "options": {
+    "A": "Hyderabad",
+    "B": "Pune",
+    "C": "Chennai",
+    "D": "Bengaluru"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Bengaluru",
+  "difficulty": "Easy"
+}
+,
+{
+  "id": 126,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Repeated",
+  "question": "Which is the largest desert in the world?",
+  "options": {
+    "A": "Sahara Desert",
+    "B": "Gobi Desert",
+    "C": "Kalahari Desert",
+    "D": "Thar Desert"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Sahara Desert",
+  "difficulty": "Easy"}
+  ,
+{
+  "id": 126,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Polity",
+  "question_type": "Previous Year Based",
+  "question": "Which Article of the Indian Constitution deals with abolition of titles?",
+  "options": {
+    "A": "Article 16",
+    "B": "Article 17",
+    "C": "Article 18",
+    "D": "Article 19"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Article 18",
+  "difficulty": "Easy"
+},
+{
+  "id": 127,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Polity",
+  "question_type": "Repeated",
+  "question": "Who appoints the Attorney General of India?",
+  "options": {
+    "A": "Prime Minister",
+    "B": "Chief Justice of India",
+    "C": "President",
+    "D": "Parliament"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "President",
+  "difficulty": "Easy"
+},
+{
+  "id": 128,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Constitution",
+  "question_type": "Old Important",
+  "question": "Which schedule of the Indian Constitution contains the Anti-Defection Law?",
+  "options": {
+    "A": "Ninth Schedule",
+    "B": "Tenth Schedule",
+    "C": "Eleventh Schedule",
+    "D": "Twelfth Schedule"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Tenth Schedule",
+  "difficulty": "Easy"
+},
+{
+  "id": 129,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Previous Year Based",
+  "question": "Who was the first Mughal emperor of India?",
+  "options": {
+    "A": "Humayun",
+    "B": "Akbar",
+    "C": "Babur",
+    "D": "Shah Jahan"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Babur",
+  "difficulty": "Easy"
+},
+{
+  "id": 130,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Repeated",
+  "question": "Who was known as the 'Father of the Indian Constitution'?",
+  "options": {
+    "A": "Jawaharlal Nehru",
+    "B": "B. R. Ambedkar",
+    "C": "Rajendra Prasad",
+    "D": "Sardar Patel"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "B. R. Ambedkar",
+  "difficulty": "Easy"
+},
+{
+  "id": 131,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Old Important",
+  "question": "Which is the largest freshwater lake in India?",
+  "options": {
+    "A": "Dal Lake",
+    "B": "Wular Lake",
+    "C": "Chilika Lake",
+    "D": "Pulicat Lake"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Wular Lake",
+  "difficulty": "Easy"
+},
+{
+  "id": 132,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Repeated",
+  "question": "Which Indian state has the longest international boundary?",
+  "options": {
+    "A": "Rajasthan",
+    "B": "Uttar Pradesh",
+    "C": "West Bengal",
+    "D": "Assam"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Rajasthan",
+  "difficulty": "Medium"
+},
+{
+  "id": 133,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Previous Year Based",
+  "question": "Which sector is known as the primary sector of the Indian economy?",
+  "options": {
+    "A": "Manufacturing",
+    "B": "Services",
+    "C": "Agriculture",
+    "D": "IT"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Agriculture",
+  "difficulty": "Easy"
+},
+{
+  "id": 134,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Repeated",
+  "question": "Which body presents the Union Budget in India?",
+  "options": {
+    "A": "Prime Minister",
+    "B": "Finance Minister",
+    "C": "President",
+    "D": "RBI Governor"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Finance Minister",
+  "difficulty": "Easy"
+},
+{
+  "id": 135,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Static GK",
+  "question": "Which vitamin is also known as Ascorbic Acid?",
+  "options": {
+    "A": "Vitamin A",
+    "B": "Vitamin B12",
+    "C": "Vitamin C",
+    "D": "Vitamin D"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Vitamin C",
+  "difficulty": "Easy"
+},
+{
+  "id": 136,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Repeated",
+  "question": "Which organ in the human body produces bile?",
+  "options": {
+    "A": "Pancreas",
+    "B": "Liver",
+    "C": "Gall bladder",
+    "D": "Stomach"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Liver",
+  "difficulty": "Easy"
+},
+{
+  "id": 137,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Previous Year Based",
+  "question": "Which Article deals with the Finance Commission?",
+  "options": {
+    "A": "Article 280",
+    "B": "Article 300",
+    "C": "Article 324",
+    "D": "Article 356"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Article 280",
+  "difficulty": "Medium"
+},
+{
+  "id": 138,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Repeated",
+  "question": "Who is the head of the State Executive?",
+  "options": {
+    "A": "Prime Minister",
+    "B": "Governor",
+    "C": "Chief Minister",
+    "D": "Chief Justice"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Governor",
+  "difficulty": "Easy"
+},
+{
+  "id": 139,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Old Important",
+  "question": "Who was the founder of the Arya Samaj?",
+  "options": {
+    "A": "Swami Vivekananda",
+    "B": "Dayanand Saraswati",
+    "C": "Raja Ram Mohan Roy",
+    "D": "Ishwar Chandra Vidyasagar"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Dayanand Saraswati",
+  "difficulty": "Easy"
+},
+{
+  "id": 140,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Repeated",
+  "question": "Who was the first Indian Governor-General of free India?",
+  "options": {
+    "A": "Lord Mountbatten",
+    "B": "C. Rajagopalachari",
+    "C": "Jawaharlal Nehru",
+    "D": "Rajendra Prasad"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "C. Rajagopalachari",
+  "difficulty": "Easy"
+},
+{
+  "id": 141,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Old Important",
+  "question": "Which Indian river is known as the 'River of Sorrow' of Bengal?",
+  "options": {
+    "A": "Damodar",
+    "B": "Hooghly",
+    "C": "Teesta",
+    "D": "Subarnarekha"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Damodar",
+  "difficulty": "Easy"
+},
+{
+  "id": 142,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Repeated",
+  "question": "Which Indian state has the highest literacy rate?",
+  "options": {
+    "A": "Tamil Nadu",
+    "B": "Kerala",
+    "C": "Maharashtra",
+    "D": "Goa"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Kerala",
+  "difficulty": "Easy"
+},
+{
+  "id": 143,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Previous Year Based",
+  "question": "Which body publishes the Economic Survey of India?",
+  "options": {
+    "A": "RBI",
+    "B": "NITI Aayog",
+    "C": "Ministry of Finance",
+    "D": "NSO"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Ministry of Finance",
+  "difficulty": "Easy"
+},
+{
+  "id": 144,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Repeated",
+  "question": "What does GDP stand for?",
+  "options": {
+    "A": "Gross Domestic Product",
+    "B": "General Development Product",
+    "C": "Gross Development Plan",
+    "D": "Global Domestic Product"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Gross Domestic Product",
+  "difficulty": "Easy"
+},
+{
+  "id": 145,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Static GK",
+  "question": "Which part of the eye controls the amount of light entering?",
+  "options": {
+    "A": "Retina",
+    "B": "Cornea",
+    "C": "Iris",
+    "D": "Lens"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Iris",
+  "difficulty": "Easy"
+},
+{
+  "id": 146,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Repeated",
+  "question": "What is the normal body temperature of a human being?",
+  "options": {
+    "A": "36°C",
+    "B": "37°C",
+    "C": "38°C",
+    "D": "39°C"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "37°C",
+  "difficulty": "Easy"
+},
+{
+  "id": 147,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Previous Year Based",
+  "question": "Which body settles disputes between the Centre and the States?",
+  "options": {
+    "A": "High Court",
+    "B": "Supreme Court",
+    "C": "Parliament",
+    "D": "Finance Commission"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Supreme Court",
+  "difficulty": "Easy"
+},
+{
+  "id": 148,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Repeated",
+  "question": "Which Article provides for President's Rule in a State?",
+  "options": {
+    "A": "Article 352",
+    "B": "Article 356",
+    "C": "Article 360",
+    "D": "Article 370"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Article 356",
+  "difficulty": "Easy"
+},
+{
+  "id": 149,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Old Important",
+  "question": "Who gave the slogan 'Inquilab Zindabad'?",
+  "options": {
+    "A": "Mahatma Gandhi",
+    "B": "Subhas Chandra Bose",
+    "C": "Bhagat Singh",
+    "D": "Lala Lajpat Rai"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Bhagat Singh",
+  "difficulty": "Easy"
+},
+{
+  "id": 150,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Old Important",
+  "question": "Which Indian city is known as the 'Pink City'?",
+  "options": {
+    "A": "Udaipur",
+    "B": "Bikaner",
+    "C": "Jodhpur",
+    "D": "Jaipur"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Jaipur",
+  "difficulty": "Easy"
+}
+,
+{
+  "id": 151,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Polity",
+  "question_type": "Previous Year Based",
+  "question": "Which Article of the Indian Constitution deals with equality of opportunity in public employment?",
+  "options": {
+    "A": "Article 14",
+    "B": "Article 15",
+    "C": "Article 16",
+    "D": "Article 17"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Article 16",
+  "difficulty": "Easy"
+},
+{
+  "id": 152,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Polity",
+  "question_type": "Repeated",
+  "question": "Who is the Chairman of the Finance Commission of India?",
+  "options": {
+    "A": "Prime Minister",
+    "B": "President",
+    "C": "Appointed by President",
+    "D": "Chief Justice of India"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Appointed by President",
+  "difficulty": "Medium"
+},
+{
+  "id": 153,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Constitution",
+  "question_type": "Old Important",
+  "question": "Which part of the Indian Constitution contains the Directive Principles of State Policy?",
+  "options": {
+    "A": "Part III",
+    "B": "Part IV",
+    "C": "Part V",
+    "D": "Part VI"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Part IV",
+  "difficulty": "Easy"
+},
+{
+  "id": 154,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Previous Year Based",
+  "question": "Who was the first Muslim President of the Indian National Congress?",
+  "options": {
+    "A": "Maulana Abul Kalam Azad",
+    "B": "Badruddin Tyabji",
+    "C": "Rafi Ahmed Kidwai",
+    "D": "Liaquat Ali Khan"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Badruddin Tyabji",
+  "difficulty": "Medium"
+},
+{
+  "id": 155,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Repeated",
+  "question": "Who composed the Indian National Anthem?",
+  "options": {
+    "A": "Bankim Chandra Chatterjee",
+    "B": "Rabindranath Tagore",
+    "C": "Sarojini Naidu",
+    "D": "Subhas Chandra Bose"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Rabindranath Tagore",
+  "difficulty": "Easy"
+},
+{
+  "id": 156,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Old Important",
+  "question": "Which Indian river is the longest tributary of the Ganga?",
+  "options": {
+    "A": "Yamuna",
+    "B": "Ghaghara",
+    "C": "Son",
+    "D": "Gandak"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Ghaghara",
+  "difficulty": "Medium"
+},
+{
+  "id": 157,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Repeated",
+  "question": "Which Indian state shares borders with both Nepal and Bhutan?",
+  "options": {
+    "A": "Bihar",
+    "B": "Assam",
+    "C": "West Bengal",
+    "D": "Sikkim"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "West Bengal",
+  "difficulty": "Medium"
+},
+{
+  "id": 158,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Previous Year Based",
+  "question": "Which organization releases the Wholesale Price Index (WPI) in India?",
+  "options": {
+    "A": "RBI",
+    "B": "NSO",
+    "C": "Ministry of Commerce and Industry",
+    "D": "NITI Aayog"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Ministry of Commerce and Industry",
+  "difficulty": "Medium"
+},
+{
+  "id": 159,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Repeated",
+  "question": "What does FDI stand for?",
+  "options": {
+    "A": "Foreign Direct Investment",
+    "B": "Fiscal Development Index",
+    "C": "Financial Domestic Investment",
+    "D": "Foreign Development Income"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Foreign Direct Investment",
+  "difficulty": "Easy"
+},
+{
+  "id": 160,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Static GK",
+  "question": "Which part of the human brain controls breathing?",
+  "options": {
+    "A": "Cerebrum",
+    "B": "Cerebellum",
+    "C": "Medulla oblongata",
+    "D": "Hypothalamus"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Medulla oblongata",
+  "difficulty": "Medium"
+},
+{
+  "id": 161,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Repeated",
+  "question": "Which vitamin deficiency causes night blindness?",
+  "options": {
+    "A": "Vitamin A",
+    "B": "Vitamin B12",
+    "C": "Vitamin C",
+    "D": "Vitamin D"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Vitamin A",
+  "difficulty": "Easy"
+},
+{
+  "id": 162,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Previous Year Based",
+  "question": "Which body recommends the President's Rule in a state?",
+  "options": {
+    "A": "Supreme Court",
+    "B": "Governor",
+    "C": "Chief Minister",
+    "D": "Parliament"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Governor",
+  "difficulty": "Medium"
+},
+{
+  "id": 163,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Repeated",
+  "question": "Which Article deals with the Election Commission of India?",
+  "options": {
+    "A": "Article 320",
+    "B": "Article 324",
+    "C": "Article 280",
+    "D": "Article 356"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Article 324",
+  "difficulty": "Easy"
+},
+{
+  "id": 164,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Old Important",
+  "question": "Who introduced the Doctrine of Lapse?",
+  "options": {
+    "A": "Lord Dalhousie",
+    "B": "Lord Wellesley",
+    "C": "Lord Curzon",
+    "D": "Lord Hastings"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Lord Dalhousie",
+  "difficulty": "Easy"
+},
+{
+  "id": 165,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Repeated",
+  "question": "Who founded the Indian National Congress?",
+  "options": {
+    "A": "A. O. Hume",
+    "B": "Dadabhai Naoroji",
+    "C": "Bal Gangadhar Tilak",
+    "D": "Gopal Krishna Gokhale"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "A. O. Hume",
+  "difficulty": "Easy"
+},
+{
+  "id": 166,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Old Important",
+  "question": "Which Indian state has the maximum forest cover (area)?",
+  "options": {
+    "A": "Madhya Pradesh",
+    "B": "Arunachal Pradesh",
+    "C": "Chhattisgarh",
+    "D": "Odisha"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Madhya Pradesh",
+  "difficulty": "Medium"
+},
+{
+  "id": 167,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Repeated",
+  "question": "Which latitude is also known as the Equator?",
+  "options": {
+    "A": "0°",
+    "B": "23.5° N",
+    "C": "23.5° S",
+    "D": "66.5° N"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "0°",
+  "difficulty": "Easy"
+},
+{
+  "id": 168,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Previous Year Based",
+  "question": "Which body regulates the insurance sector in India?",
+  "options": {
+    "A": "RBI",
+    "B": "SEBI",
+    "C": "IRDAI",
+    "D": "PFRDA"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "IRDAI",
+  "difficulty": "Easy"
+},
+{
+  "id": 169,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Repeated",
+  "question": "Which bank is known as the 'Banker’s Bank' in India?",
+  "options": {
+    "A": "SBI",
+    "B": "RBI",
+    "C": "PNB",
+    "D": "NABARD"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "RBI",
+  "difficulty": "Easy"
+},
+{
+  "id": 170,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Static GK",
+  "question": "Which gas is used in fire extinguishers?",
+  "options": {
+    "A": "Oxygen",
+    "B": "Hydrogen",
+    "C": "Carbon dioxide",
+    "D": "Nitrogen"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Carbon dioxide",
+  "difficulty": "Easy"
+},
+{
+  "id": 171,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Repeated",
+  "question": "What is the SI unit of pressure?",
+  "options": {
+    "A": "Newton",
+    "B": "Pascal",
+    "C": "Joule",
+    "D": "Watt"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Pascal",
+  "difficulty": "Easy"
+},
+{
+  "id": 172,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Previous Year Based",
+  "question": "Which authority can declare a Financial Emergency in India?",
+  "options": {
+    "A": "Prime Minister",
+    "B": "Parliament",
+    "C": "President",
+    "D": "Supreme Court"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "President",
+  "difficulty": "Medium"
+},
+{
+  "id": 173,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Repeated",
+  "question": "Which Article of the Indian Constitution deals with Financial Emergency?",
+  "options": {
+    "A": "Article 352",
+    "B": "Article 356",
+    "C": "Article 360",
+    "D": "Article 370"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Article 360",
+  "difficulty": "Easy"
+},
+{
+  "id": 174,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Old Important",
+  "question": "Who was the first Indian to become the Governor-General of India?",
+  "options": {
+    "A": "Rajendra Prasad",
+    "B": "Jawaharlal Nehru",
+    "C": "C. Rajagopalachari",
+    "D": "Sardar Patel"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "C. Rajagopalachari",
+  "difficulty": "Easy"
+},
+{
+  "id": 175,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Old Important",
+  "question": "Which Indian city is known as the 'City of Lakes'?",
+  "options": {
+    "A": "Bhopal",
+    "B": "Udaipur",
+    "C": "Nainital",
+    "D": "Srinagar"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Udaipur",
+  "difficulty": "Easy"
+}
+,
+{
+  "id": 176,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Polity",
+  "question_type": "Previous Year Based",
+  "question": "Which Article of the Indian Constitution provides for Freedom of Religion?",
+  "options": {
+    "A": "Article 23",
+    "B": "Article 24",
+    "C": "Article 25",
+    "D": "Article 26"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Article 25",
+  "difficulty": "Easy"
+},
+{
+  "id": 177,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Polity",
+  "question_type": "Repeated",
+  "question": "Who is the head of the Union Council of Ministers?",
+  "options": {
+    "A": "President",
+    "B": "Prime Minister",
+    "C": "Vice-President",
+    "D": "Speaker"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Prime Minister",
+  "difficulty": "Easy"
+},
+{
+  "id": 178,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Constitution",
+  "question_type": "Old Important",
+  "question": "Which Schedule of the Indian Constitution deals with languages?",
+  "options": {
+    "A": "Seventh Schedule",
+    "B": "Eighth Schedule",
+    "C": "Ninth Schedule",
+    "D": "Tenth Schedule"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Eighth Schedule",
+  "difficulty": "Easy"
+},
+{
+  "id": 179,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Previous Year Based",
+  "question": "Who was the first Indian woman to become a Governor of an Indian state?",
+  "options": {
+    "A": "Sarojini Naidu",
+    "B": "Indira Gandhi",
+    "C": "Vijaya Lakshmi Pandit",
+    "D": "Sucheta Kriplani"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Sarojini Naidu",
+  "difficulty": "Medium"
+},
+{
+  "id": 180,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Repeated",
+  "question": "Who was the first Indian woman Chief Minister of an Indian state?",
+  "options": {
+    "A": "Indira Gandhi",
+    "B": "Sucheta Kriplani",
+    "C": "Mayawati",
+    "D": "Jayalalithaa"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Sucheta Kriplani",
+  "difficulty": "Easy"
+},
+{
+  "id": 181,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Old Important",
+  "question": "Which is the largest delta in the world?",
+  "options": {
+    "A": "Nile Delta",
+    "B": "Ganga-Brahmaputra Delta",
+    "C": "Mississippi Delta",
+    "D": "Amazon Delta"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Ganga-Brahmaputra Delta",
+  "difficulty": "Easy"
+},
+{
+  "id": 182,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Repeated",
+  "question": "Which Indian state is the largest producer of tea?",
+  "options": {
+    "A": "West Bengal",
+    "B": "Tamil Nadu",
+    "C": "Kerala",
+    "D": "Assam"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Assam",
+  "difficulty": "Easy"
+},
+{
+  "id": 183,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Previous Year Based",
+  "question": "Which committee recommended the introduction of Panchayati Raj system in India?",
+  "options": {
+    "A": "Balwant Rai Mehta Committee",
+    "B": "Ashok Mehta Committee",
+    "C": "Sarkaria Committee",
+    "D": "Gadgil Committee"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Balwant Rai Mehta Committee",
+  "difficulty": "Medium"
+},
+{
+  "id": 184,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Repeated",
+  "question": "Which Five Year Plan emphasized rapid industrialization?",
+  "options": {
+    "A": "First Five Year Plan",
+    "B": "Second Five Year Plan",
+    "C": "Third Five Year Plan",
+    "D": "Fourth Five Year Plan"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Second Five Year Plan",
+  "difficulty": "Medium"
+},
+{
+  "id": 185,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Static GK",
+  "question": "Which part of the human eye is affected by cataract?",
+  "options": {
+    "A": "Cornea",
+    "B": "Retina",
+    "C": "Lens",
+    "D": "Iris"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Lens",
+  "difficulty": "Easy"
+},
+{
+  "id": 186,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Repeated",
+  "question": "Which vitamin deficiency causes rickets?",
+  "options": {
+    "A": "Vitamin A",
+    "B": "Vitamin B",
+    "C": "Vitamin C",
+    "D": "Vitamin D"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Vitamin D",
+  "difficulty": "Easy"
+},
+{
+  "id": 187,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Previous Year Based",
+  "question": "Which body prepares the electoral rolls in India?",
+  "options": {
+    "A": "Supreme Court",
+    "B": "State Government",
+    "C": "Election Commission of India",
+    "D": "Parliament"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Election Commission of India",
+  "difficulty": "Easy"
+},
+{
+  "id": 188,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Repeated",
+  "question": "Which Article of the Indian Constitution provides for abolition of untouchability?",
+  "options": {
+    "A": "Article 14",
+    "B": "Article 15",
+    "C": "Article 17",
+    "D": "Article 18"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Article 17",
+  "difficulty": "Easy"
+},
+{
+  "id": 189,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Old Important",
+  "question": "Who was the founder of the Aligarh Movement?",
+  "options": {
+    "A": "Sir Syed Ahmad Khan",
+    "B": "Maulana Azad",
+    "C": "Badruddin Tyabji",
+    "D": "Muhammad Ali Jinnah"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Sir Syed Ahmad Khan",
+  "difficulty": "Medium"
+},
+{
+  "id": 190,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Repeated",
+  "question": "Who was the first Indian to receive the Bharat Ratna?",
+  "options": {
+    "A": "C. Rajagopalachari",
+    "B": "Dr. Rajendra Prasad",
+    "C": "C. V. Raman",
+    "D": "S. Radhakrishnan"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "C. Rajagopalachari",
+  "difficulty": "Medium"
+},
+{
+  "id": 191,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Old Important",
+  "question": "Which Indian state has the largest population of tribal people?",
+  "options": {
+    "A": "Jharkhand",
+    "B": "Odisha",
+    "C": "Madhya Pradesh",
+    "D": "Chhattisgarh"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Madhya Pradesh",
+  "difficulty": "Medium"
+},
+{
+  "id": 192,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Repeated",
+  "question": "Which Indian state has the highest population density?",
+  "options": {
+    "A": "Kerala",
+    "B": "West Bengal",
+    "C": "Bihar",
+    "D": "Uttar Pradesh"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Bihar",
+  "difficulty": "Medium"
+},
+{
+  "id": 193,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Previous Year Based",
+  "question": "Which tax is levied on goods imported into India?",
+  "options": {
+    "A": "GST",
+    "B": "Income Tax",
+    "C": "Custom Duty",
+    "D": "Excise Duty"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Custom Duty",
+  "difficulty": "Easy"
+},
+{
+  "id": 194,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Repeated",
+  "question": "Which organization regulates the capital market in India?",
+  "options": {
+    "A": "RBI",
+    "B": "SEBI",
+    "C": "IRDAI",
+    "D": "PFRDA"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "SEBI",
+  "difficulty": "Easy"
+},
+{
+  "id": 195,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Static GK",
+  "question": "Which gas is released during photosynthesis?",
+  "options": {
+    "A": "Carbon dioxide",
+    "B": "Oxygen",
+    "C": "Nitrogen",
+    "D": "Hydrogen"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Oxygen",
+  "difficulty": "Easy"
+},
+{
+  "id": 196,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Repeated",
+  "question": "Which metal is used for galvanization of iron?",
+  "options": {
+    "A": "Copper",
+    "B": "Zinc",
+    "C": "Aluminium",
+    "D": "Tin"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Zinc",
+  "difficulty": "Easy"
+},
+{
+  "id": 197,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Previous Year Based",
+  "question": "Which body is responsible for the appointment of the Chief Election Commissioner?",
+  "options": {
+    "A": "Prime Minister",
+    "B": "President",
+    "C": "Parliament",
+    "D": "Supreme Court"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "President",
+  "difficulty": "Easy"
+},
+{
+  "id": 198,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Repeated",
+  "question": "Which Article of the Indian Constitution provides for the Finance Commission?",
+  "options": {
+    "A": "Article 275",
+    "B": "Article 280",
+    "C": "Article 300",
+    "D": "Article 360"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Article 280",
+  "difficulty": "Medium"
+},
+{
+  "id": 199,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Old Important",
+  "question": "Who was the first woman President of India?",
+  "options": {
+    "A": "Pratibha Patil",
+    "B": "Indira Gandhi",
+    "C": "Sarojini Naidu",
+    "D": "Droupadi Murmu"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Pratibha Patil",
+  "difficulty": "Easy"
+},
+{
+  "id": 200,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Old Important",
+  "question": "Which Indian city is known as the 'Manchester of India'?",
+  "options": {
+    "A": "Mumbai",
+    "B": "Surat",
+    "C": "Ahmedabad",
+    "D": "Coimbatore"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Ahmedabad",
+  "difficulty": "Easy"
+}
+,
+{
+  "id": 201,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Polity",
+  "question_type": "Previous Year Based",
+  "question": "Which Article of the Indian Constitution deals with the right against exploitation?",
+  "options": {
+    "A": "Article 21",
+    "B": "Article 22",
+    "C": "Article 23",
+    "D": "Article 25"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Article 23",
+  "difficulty": "Easy"
+},
+{
+  "id": 202,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Polity",
+  "question_type": "Repeated",
+  "question": "Who is the ex-officio Chairman of the Planning body of India (NITI Aayog)?",
+  "options": {
+    "A": "President",
+    "B": "Prime Minister",
+    "C": "Finance Minister",
+    "D": "Home Minister"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Prime Minister",
+  "difficulty": "Easy"
+},
+{
+  "id": 203,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Constitution",
+  "question_type": "Old Important",
+  "question": "Which Part of the Indian Constitution deals with the Union Executive?",
+  "options": {
+    "A": "Part IV",
+    "B": "Part V",
+    "C": "Part VI",
+    "D": "Part VII"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Part V",
+  "difficulty": "Medium"
+},
+{
+  "id": 204,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Previous Year Based",
+  "question": "Who was the founder of the Satavahana dynasty?",
+  "options": {
+    "A": "Simuka",
+    "B": "Pulakesin I",
+    "C": "Kharavela",
+    "D": "Gautamiputra Satakarni"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Simuka",
+  "difficulty": "Medium"
+},
+{
+  "id": 205,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Repeated",
+  "question": "Who wrote the book 'Gitanjali'?",
+  "options": {
+    "A": "Rabindranath Tagore",
+    "B": "Bankim Chandra Chatterjee",
+    "C": "Sarojini Naidu",
+    "D": "Subhas Chandra Bose"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Rabindranath Tagore",
+  "difficulty": "Easy"
+},
+{
+  "id": 206,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Old Important",
+  "question": "Which Indian river is known as the 'Lifeline of Madhya Pradesh'?",
+  "options": {
+    "A": "Tapi",
+    "B": "Narmada",
+    "C": "Chambal",
+    "D": "Betwa"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Narmada",
+  "difficulty": "Easy"
+},
+{
+  "id": 207,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Repeated",
+  "question": "Which Indian state has the largest coastline?",
+  "options": {
+    "A": "Maharashtra",
+    "B": "Tamil Nadu",
+    "C": "Andhra Pradesh",
+    "D": "Gujarat"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Gujarat",
+  "difficulty": "Easy"
+},
+{
+  "id": 208,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Previous Year Based",
+  "question": "Which organization publishes the Consumer Price Index (CPI) in India?",
+  "options": {
+    "A": "RBI",
+    "B": "SEBI",
+    "C": "NSO",
+    "D": "NITI Aayog"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "NSO",
+  "difficulty": "Medium"
+},
+{
+  "id": 209,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Repeated",
+  "question": "Which Indian institution manages public debt?",
+  "options": {
+    "A": "SBI",
+    "B": "RBI",
+    "C": "SEBI",
+    "D": "Finance Commission"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "RBI",
+  "difficulty": "Medium"
+},
+{
+  "id": 210,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Static GK",
+  "question": "Which mineral is essential for the formation of hemoglobin?",
+  "options": {
+    "A": "Calcium",
+    "B": "Iron",
+    "C": "Iodine",
+    "D": "Phosphorus"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Iron",
+  "difficulty": "Easy"
+},
+{
+  "id": 211,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Repeated",
+  "question": "Which gas is used in refrigerators as a cooling agent (traditional)?",
+  "options": {
+    "A": "Oxygen",
+    "B": "Carbon dioxide",
+    "C": "Ammonia",
+    "D": "Nitrogen"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Ammonia",
+  "difficulty": "Medium"
+},
+{
+  "id": 212,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Previous Year Based",
+  "question": "Which authority has the power to pardon a death sentence?",
+  "options": {
+    "A": "Supreme Court",
+    "B": "Prime Minister",
+    "C": "President",
+    "D": "Governor"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "President",
+  "difficulty": "Medium"
+},
+{
+  "id": 213,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Repeated",
+  "question": "Which Article gives the President the power to grant pardons?",
+  "options": {
+    "A": "Article 72",
+    "B": "Article 74",
+    "C": "Article 76",
+    "D": "Article 78"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Article 72",
+  "difficulty": "Medium"
+},
+{
+  "id": 214,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Old Important",
+  "question": "Who started the Servants of India Society?",
+  "options": {
+    "A": "Bal Gangadhar Tilak",
+    "B": "Gopal Krishna Gokhale",
+    "C": "Dadabhai Naoroji",
+    "D": "Lala Lajpat Rai"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Gopal Krishna Gokhale",
+  "difficulty": "Medium"
+},
+{
+  "id": 215,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Repeated",
+  "question": "Who was the first Indian woman to win a Nobel Prize?",
+  "options": {
+    "A": "Mother Teresa",
+    "B": "Indira Gandhi",
+    "C": "Sarojini Naidu",
+    "D": "Kalpana Chawla"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Mother Teresa",
+  "difficulty": "Easy"
+},
+{
+  "id": 216,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Old Important",
+  "question": "Which Indian state has the longest coastline on the eastern side?",
+  "options": {
+    "A": "Tamil Nadu",
+    "B": "Andhra Pradesh",
+    "C": "Odisha",
+    "D": "West Bengal"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Andhra Pradesh",
+  "difficulty": "Medium"
+},
+{
+  "id": 217,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Repeated",
+  "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+  "options": {
+    "A": "Haryana",
+    "B": "Punjab",
+    "C": "Uttar Pradesh",
+    "D": "Bihar"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Punjab",
+  "difficulty": "Easy"
+},
+{
+  "id": 218,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Previous Year Based",
+  "question": "Which tax is levied by the State Governments?",
+  "options": {
+    "A": "Income Tax",
+    "B": "Custom Duty",
+    "C": "State GST",
+    "D": "Corporation Tax"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "State GST",
+  "difficulty": "Medium"
+},
+{
+  "id": 219,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Repeated",
+  "question": "Which committee is associated with banking sector reforms in India?",
+  "options": {
+    "A": "Kelkar Committee",
+    "B": "Narasimham Committee",
+    "C": "Gadgil Committee",
+    "D": "Sarkaria Committee"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Narasimham Committee",
+  "difficulty": "Medium"
+},
+{
+  "id": 220,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Static GK",
+  "question": "Which vitamin is required for calcium absorption?",
+  "options": {
+    "A": "Vitamin A",
+    "B": "Vitamin B",
+    "C": "Vitamin C",
+    "D": "Vitamin D"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "Vitamin D",
+  "difficulty": "Easy"
+},
+{
+  "id": 221,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Repeated",
+  "question": "Which organ in humans produces red blood cells?",
+  "options": {
+    "A": "Liver",
+    "B": "Spleen",
+    "C": "Bone marrow",
+    "D": "Kidney"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Bone marrow",
+  "difficulty": "Medium"
+},
+{
+  "id": 222,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Previous Year Based",
+  "question": "Which body resolves disputes regarding election of the President?",
+  "options": {
+    "A": "Election Commission",
+    "B": "Parliament",
+    "C": "Supreme Court",
+    "D": "High Court"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Supreme Court",
+  "difficulty": "Medium"
+},
+{
+  "id": 223,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Repeated",
+  "question": "Which Article provides for the impeachment of the President?",
+  "options": {
+    "A": "Article 56",
+    "B": "Article 61",
+    "C": "Article 72",
+    "D": "Article 75"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Article 61",
+  "difficulty": "Medium"
+},
+{
+  "id": 224,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Old Important",
+  "question": "Who was the founder of the Pallava dynasty?",
+  "options": {
+    "A": "Simhavishnu",
+    "B": "Mahendravarman I",
+    "C": "Nandivarman",
+    "D": "Harshavardhana"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Simhavishnu",
+  "difficulty": "Medium"
+},
+{
+  "id": 225,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Old Important",
+  "question": "Which Indian city is known as the 'City of Joy'?",
+  "options": {
+    "A": "Mumbai",
+    "B": "Kolkata",
+    "C": "Chennai",
+    "D": "Delhi"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Kolkata",
+  "difficulty": "Easy"
+}
+,
+{
+  "id": 226,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Polity",
+  "question_type": "Previous Year Based",
+  "question": "Which Article of the Indian Constitution deals with the protection of minorities?",
+  "options": {
+    "A": "Article 29",
+    "B": "Article 30",
+    "C": "Article 31",
+    "D": "Article 32"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Article 30",
+  "difficulty": "Medium"
+},
+{
+  "id": 227,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Polity",
+  "question_type": "Repeated",
+  "question": "Who is the custodian of the Indian Constitution?",
+  "options": {
+    "A": "President",
+    "B": "Parliament",
+    "C": "Supreme Court",
+    "D": "Attorney General"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Supreme Court",
+  "difficulty": "Easy"
+},
+{
+  "id": 228,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Constitution",
+  "question_type": "Old Important",
+  "question": "Which Part of the Indian Constitution deals with Fundamental Duties?",
+  "options": {
+    "A": "Part III",
+    "B": "Part IV",
+    "C": "Part IVA",
+    "D": "Part V"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Part IVA",
+  "difficulty": "Easy"
+},
+{
+  "id": 229,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Previous Year Based",
+  "question": "Who was the last Mughal emperor of India?",
+  "options": {
+    "A": "Bahadur Shah Zafar",
+    "B": "Aurangzeb",
+    "C": "Shah Alam II",
+    "D": "Akbar II"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Bahadur Shah Zafar",
+  "difficulty": "Easy"
+},
+{
+  "id": 230,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Repeated",
+  "question": "Who founded the Mauryan Empire?",
+  "options": {
+    "A": "Ashoka",
+    "B": "Bindusara",
+    "C": "Chandragupta Maurya",
+    "D": "Bimbisara"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Chandragupta Maurya",
+  "difficulty": "Easy"
+},
+{
+  "id": 231,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Old Important",
+  "question": "Which Indian river flows through the rift valley?",
+  "options": {
+    "A": "Godavari",
+    "B": "Narmada",
+    "C": "Ganga",
+    "D": "Krishna"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Narmada",
+  "difficulty": "Medium"
+},
+{
+  "id": 232,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Repeated",
+  "question": "Which is the smallest state in India by area?",
+  "options": {
+    "A": "Sikkim",
+    "B": "Goa",
+    "C": "Tripura",
+    "D": "Nagaland"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Goa",
+  "difficulty": "Easy"
+},
+{
+  "id": 233,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Previous Year Based",
+  "question": "Which organization releases the National Income estimates in India?",
+  "options": {
+    "A": "RBI",
+    "B": "NITI Aayog",
+    "C": "NSO",
+    "D": "Finance Commission"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "NSO",
+  "difficulty": "Medium"
+},
+{
+  "id": 234,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Repeated",
+  "question": "Which Indian institution controls credit creation?",
+  "options": {
+    "A": "Commercial Banks",
+    "B": "SEBI",
+    "C": "RBI",
+    "D": "NABARD"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "RBI",
+  "difficulty": "Easy"
+},
+{
+  "id": 235,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Static GK",
+  "question": "Which blood group is known as the universal donor?",
+  "options": {
+    "A": "A",
+    "B": "B",
+    "C": "AB",
+    "D": "O"
+  },
+  "correct_answer": "D",
+  "correct_option_text": "O",
+  "difficulty": "Easy"
+},
+{
+  "id": 236,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Repeated",
+  "question": "Which organ helps in detoxification of the human body?",
+  "options": {
+    "A": "Kidney",
+    "B": "Liver",
+    "C": "Lungs",
+    "D": "Pancreas"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Liver",
+  "difficulty": "Easy"
+},
+{
+  "id": 237,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Previous Year Based",
+  "question": "Which body decides disputes related to the election of Vice-President?",
+  "options": {
+    "A": "Election Commission",
+    "B": "Parliament",
+    "C": "Supreme Court",
+    "D": "High Court"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Supreme Court",
+  "difficulty": "Medium"
+},
+{
+  "id": 238,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Repeated",
+  "question": "Which Article deals with the Vice-President of India?",
+  "options": {
+    "A": "Article 63",
+    "B": "Article 64",
+    "C": "Article 65",
+    "D": "Article 66"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Article 63",
+  "difficulty": "Medium"
+},
+{
+  "id": 239,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Old Important",
+  "question": "Who introduced the Ryotwari system in India?",
+  "options": {
+    "A": "Lord Cornwallis",
+    "B": "Thomas Munro",
+    "C": "Lord Dalhousie",
+    "D": "Warren Hastings"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Thomas Munro",
+  "difficulty": "Medium"
+},
+{
+  "id": 240,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Repeated",
+  "question": "Who gave the slogan 'Do or Die'?",
+  "options": {
+    "A": "Subhas Chandra Bose",
+    "B": "Bhagat Singh",
+    "C": "Mahatma Gandhi",
+    "D": "Lala Lajpat Rai"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Mahatma Gandhi",
+  "difficulty": "Easy"
+},
+{
+  "id": 241,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Old Important",
+  "question": "Which Indian state has the largest desert area?",
+  "options": {
+    "A": "Gujarat",
+    "B": "Rajasthan",
+    "C": "Haryana",
+    "D": "Punjab"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Rajasthan",
+  "difficulty": "Easy"
+},
+{
+  "id": 242,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Repeated",
+  "question": "Which is the southernmost point of India (mainland)?",
+  "options": {
+    "A": "Indira Point",
+    "B": "Kanyakumari",
+    "C": "Rameswaram",
+    "D": "Tuticorin"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Kanyakumari",
+  "difficulty": "Easy"
+},
+{
+  "id": 243,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Previous Year Based",
+  "question": "Which scheme aims to provide banking facilities to the unbanked?",
+  "options": {
+    "A": "PMJDY",
+    "B": "PMFBY",
+    "C": "MGNREGA",
+    "D": "PMAY"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "PMJDY",
+  "difficulty": "Easy"
+},
+{
+  "id": 244,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Indian Economy",
+  "question_type": "Repeated",
+  "question": "Which organization supervises regional rural banks in India?",
+  "options": {
+    "A": "SEBI",
+    "B": "RBI",
+    "C": "NABARD",
+    "D": "Finance Commission"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "NABARD",
+  "difficulty": "Medium"
+},
+{
+  "id": 245,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Static GK",
+  "question": "Which element is used in making electric bulbs?",
+  "options": {
+    "A": "Copper",
+    "B": "Tungsten",
+    "C": "Iron",
+    "D": "Aluminium"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Tungsten",
+  "difficulty": "Easy"
+},
+{
+  "id": 246,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Science",
+  "question_type": "Repeated",
+  "question": "Which gas is commonly known as laughing gas?",
+  "options": {
+    "A": "Nitrogen dioxide",
+    "B": "Nitrous oxide",
+    "C": "Carbon monoxide",
+    "D": "Sulphur dioxide"
+  },
+  "correct_answer": "B",
+  "correct_option_text": "Nitrous oxide",
+  "difficulty": "Easy"
+},
+{
+  "id": 247,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Previous Year Based",
+  "question": "Which body has the power to interpret the Constitution?",
+  "options": {
+    "A": "Parliament",
+    "B": "President",
+    "C": "Supreme Court",
+    "D": "Election Commission"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Supreme Court",
+  "difficulty": "Easy"
+},
+{
+  "id": 248,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Polity",
+  "question_type": "Repeated",
+  "question": "Which Article provides for the Comptroller and Auditor General of India?",
+  "options": {
+    "A": "Article 148",
+    "B": "Article 149",
+    "C": "Article 150",
+    "D": "Article 151"
+  },
+  "correct_answer": "A",
+  "correct_option_text": "Article 148",
+  "difficulty": "Medium"
+},
+{
+  "id": 249,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "History",
+  "question_type": "Old Important",
+  "question": "Who was the first Indian to go to space?",
+  "options": {
+    "A": "Kalpana Chawla",
+    "B": "Sunita Williams",
+    "C": "Rakesh Sharma",
+    "D": "Vikram Sarabhai"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Rakesh Sharma",
+  "difficulty": "Easy"
+},
+{
+  "id": 250,
+  "exam": "Delhi Police Head Constable",
+  "post_applied": "Assistant Wireless Operator (AWO) / Tele-Printer Operator (TPO)",
+  "subject": "General Awareness",
+  "topic": "Geography",
+  "question_type": "Old Important",
+  "question": "Which Indian state has the longest international boundary?",
+  "options": {
+    "A": "West Bengal",
+    "B": "Uttar Pradesh",
+    "C": "Rajasthan",
+    "D": "Assam"
+  },
+  "correct_answer": "C",
+  "correct_option_text": "Rajasthan",
+  "difficulty": "Medium"
+}
+
+
+
+
+
+
+
+
+]
